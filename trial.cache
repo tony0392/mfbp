@@ -1,34 +1,35 @@
 [aa.dabai.in]
 email  ydwoweuh812@gmail.com
-last_checkin  2024-03-07 17:55:55.722601+08:00
+last_checkin  2024-03-08 17:44:22.375060+08:00
 name  大白
 node_n  8
-sub_info  145.3K  999.1G  2024-04-05 13:46:21+08:00  (剩余 999.1G 28 days, 19:50:22.470877)
+sub_info  134.3M  999.1G  2024-04-05 13:46:21+08:00  (剩余 999G 27 days, 20:01:56.388710)
 sub_url  https://aa.dabai.in/link/IUGSGq55wWbd85lV?sub=3
 time  2024-03-06 13:46:22.590174+08:00
 type  sspanel
 
 [www.flybar4.cc]
-email  lrdgcvew737@wj32.haihantnc.xyz
-invite_code  RUre  10000
-last_checkin  2024-03-07 17:59:01.024735+08:00
+email  rmmvedmz214@nqmo.com
+invite_code  RUre  9999
+last_checkin  0
 name  飞翔吧
 node_n  47
-sub_info  0B  10.19G  2024-03-08 17:58:59+08:00  (剩余 10.19G 23:59:52.120517)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/KzVRmtI7lnuhHZjT?sub=3
-time  2024-03-07 17:59:02.339016+08:00
+sub_info  0B  10G  2024-03-09 17:44:35+08:00  (剩余 10G 23:59:54.801660)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/4A64jFGk0HmSzsRw?sub=3
+time  2024-03-08 17:44:37.860555+08:00
 type  sspanel
+尝试签到失败  解析 json 失败: Extra data: line 1 column 5 (char 4) (400 Bad Request '400 Bad Request')
 
 [haituncloud.xyz]
 
 [cooc.cloud#小白云]
 buy  pass
-email  wnjwnmc847@gmail.com
+email  grvdnengo152@gmail.com
 name  小白云
 node_n  21
-sub_info  244.7M  5G  2024-03-08 13:46:22+08:00  (剩余 4.761G 19:50:21.909647)
-sub_url  http://154.12.80.49:10801/api/v1/client/subscribe?token=06d2201c6ffd73d0683c1073a1fbdd2a
-time  2024-03-06 13:46:23.957250+08:00
+sub_info  0B  5G  2024-03-10 17:44:28+08:00  (剩余 5G 1 day, 23:59:55.907041)
+sub_url  http://172.247.127.105:9000/api/v1/client/subscribe?token=302b6ffb8e98d77c05e85fc171752297
+time  2024-03-08 17:44:28.969842+08:00
 type  v2board
 
 [www.ckcloud.xyz]
@@ -40,5 +41,6 @@ sub_info  0B  1G  2024-03-08 17:56:05+08:00  (剩余 1G 23:59:49.216184)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=ff32834d06c9fab99cb066b56205c6fc
 time  2024-03-07 17:56:06.022603+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [www.yongdong.xyz#永动机]
