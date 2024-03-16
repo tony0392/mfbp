@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: ec105375-661d-457d-9fc9-ca5a675de70d, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: ec105375-661d-457d-9fc9-ca5a675de70d, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: ec105375-661d-457d-9fc9-ca5a675de70d, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: ec105375-661d-457d-9fc9-ca5a675de70d, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: ec105375-661d-457d-9fc9-ca5a675de70d, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: ec105375-661d-457d-9fc9-ca5a675de70d, udp: true}
