@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 🚮香港 - 乐色机场, server: gy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: 637acb01-0726-4a0b-a981-62d471fb90f1, udp: true}
+- {name: 🇭🇰 🚮香港3 - 乐色机场, server: lsgy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: 637acb01-0726-4a0b-a981-62d471fb90f1, udp: true}
