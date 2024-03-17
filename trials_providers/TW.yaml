@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
 - {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: e9a7e9be-34fb-4fba-a0f6-b818e6cdd476, udp: true}
 - {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: e9a7e9be-34fb-4fba-a0f6-b818e6cdd476, udp: true}
 - {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: e9a7e9be-34fb-4fba-a0f6-b818e6cdd476, udp: true}

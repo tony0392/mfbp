@@ -1,18 +1,18 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01  - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: gz.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: gz.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: 2SJyHISpI2Rt0JCb, udp: true}
+- {name: 🇭🇰 香港01  - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: gz.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: gz.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: xhZs89gS9ell8jRX, udp: true}
 - {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: e9a7e9be-34fb-4fba-a0f6-b818e6cdd476, udp: true}
 - {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: e9a7e9be-34fb-4fba-a0f6-b818e6cdd476, udp: true}
 - {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: e9a7e9be-34fb-4fba-a0f6-b818e6cdd476, udp: true}
