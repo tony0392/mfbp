@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡 01【vip1 】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 35df694f-63a9-4869-9c42-b843f28ca31f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 02【vip1 】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 35df694f-63a9-4869-9c42-b843f28ca31f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 03【vip1 】 - 追云加速, server: n00003.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 35df694f-63a9-4869-9c42-b843f28ca31f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 04【vip1 】 - 追云加速, server: n00003.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 35df694f-63a9-4869-9c42-b843f28ca31f, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 06【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 35df694f-63a9-4869-9c42-b843f28ca31f, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 05【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 35df694f-63a9-4869-9c42-b843f28ca31f, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}

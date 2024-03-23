@@ -145,54 +145,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/cyanmori.com/HK.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.ckcloud.xyz/HK.yaml
     interval: 180
-    path: trials_providers/cyanmori.com/HK.yaml
+    path: trials_providers/www.ckcloud.xyz/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/cyanmori.com/TW.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.ckcloud.xyz/TW.yaml
     interval: 180
-    path: trials_providers/cyanmori.com/TW.yaml
+    path: trials_providers/www.ckcloud.xyz/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/cyanmori.com/SG.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.ckcloud.xyz/SG.yaml
     interval: 180
-    path: trials_providers/cyanmori.com/SG.yaml
+    path: trials_providers/www.ckcloud.xyz/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/cyanmori.com/JP.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.ckcloud.xyz/JP.yaml
     interval: 180
-    path: trials_providers/cyanmori.com/JP.yaml
+    path: trials_providers/www.ckcloud.xyz/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/cyanmori.com/US.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.ckcloud.xyz/US.yaml
     interval: 180
-    path: trials_providers/cyanmori.com/US.yaml
+    path: trials_providers/www.ckcloud.xyz/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/cyanmori.com/Other.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.ckcloud.xyz/Other.yaml
     interval: 180
-    path: trials_providers/cyanmori.com/Other.yaml
+    path: trials_providers/www.ckcloud.xyz/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
