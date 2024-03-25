@@ -2,10 +2,10 @@
 auto_invite  F
 buy  pass
 email  whacceq794@zhangjie.studio
-last_checkin  2024-03-24 17:47:15.517191+08:00
+last_checkin  2024-03-25 17:44:30.261776+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-03-31 17:47:15+08:00  (剩余 888G 6 days, 23:59:56.080795)
+sub_info  1.614M  888G  2024-03-31 17:47:15+08:00  (剩余 888G 6 days, 0:02:19.934894)
 sub_url  https://www.qlgq.top/link/f0880cb52fdc4898?clash=1#墙了个墙
 time  2024-03-24 17:47:16.395697+08:00
 type  sspanel
@@ -16,16 +16,17 @@ email  nlulcito95@gmail.com
 name  小白云
 node_n  21
 sub_info  13.23M  5G  2024-03-25 17:44:26+08:00  (剩余 4.987G 1 day, 0:00:12.616672)
-sub_url  http://172.247.127.105:9000/api/v1/client/subscribe?token=26df57bd5a9176de5e6d4958a1023466
+sub_url  https://cooc.cloud/api/v1/client/subscribe?token=26df57bd5a9176de5e6d4958a1023466
 time  2024-03-23 17:44:27.009684+08:00
 type  v2board
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Read timed out. (read timeout=30)
 
 [aa.dabai.in]
 email  anvwzbj245@gmail.com
-last_checkin  2024-03-24 17:44:10.265279+08:00
+last_checkin  2024-03-25 17:44:30.260689+08:00
 name  大白
 node_n  8
-sub_info  5.087G  999.1G  2024-04-22 19:39:41+08:00  (剩余 994G 29 days, 1:55:28.940301)
+sub_info  5.087G  999.1G  2024-04-22 19:39:41+08:00  (剩余 994.1G 28 days, 1:54:28.117797)
 sub_url  https://l.db-link01.top/link/Vaq8uQCmJtjxyqxe?sub=3
 time  2024-03-23 19:39:42.723242+08:00
 type  sspanel
@@ -33,11 +34,10 @@ type  sspanel
 [www.ckcloud.xyz]
 api_host  www.zhuiyun.shop
 buy  pass
-email  uhsoimbaa341@gmail.com
+email  kswsuay160@gmail.com
 name  追云加速
 node_n  54
-sub_info  0B  1G  2024-03-24 19:39:42+08:00  (剩余 1G 23:59:12.455569)
-sub_url  https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=7ba0b517ce304bb487faac5f29d6eac4
-time  2024-03-23 19:39:42.771920+08:00
+sub_info  0B  1G  2024-03-26 17:44:44+08:00  (剩余 1G 23:59:53.424196)
+sub_url  https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=61d014ca3143f621965814edd87afde4
+time  2024-03-25 17:44:45.197445+08:00
 type  v2board
-更新旧订阅失败  could not convert string to float: '1;'
