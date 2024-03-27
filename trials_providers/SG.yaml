@@ -3,12 +3,12 @@
 proxies:
 - {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: d80f2de7-7da1-4c0b-88f5-dc23d4282453, udp: true}
 - {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: d80f2de7-7da1-4c0b-88f5-dc23d4282453, udp: true}
-- {name: 🇸🇬 新加坡 01【vip1 】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 91fabc1c-0114-434b-8821-9b99ba8a3cea, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 02【vip1 】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 91fabc1c-0114-434b-8821-9b99ba8a3cea, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 03【vip1 】 - 追云加速, server: n00003.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 91fabc1c-0114-434b-8821-9b99ba8a3cea, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 04【vip1 】 - 追云加速, server: n00003.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 91fabc1c-0114-434b-8821-9b99ba8a3cea, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 06【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 91fabc1c-0114-434b-8821-9b99ba8a3cea, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 05【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 91fabc1c-0114-434b-8821-9b99ba8a3cea, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 01【vip1 】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 6f46ab84-0f8c-4302-a126-7e060b946f19, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 02【vip1 】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 6f46ab84-0f8c-4302-a126-7e060b946f19, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 03【vip1 】 - 追云加速, server: n00003.bzdqsmzngpyyng.sbs, port: 26606, type: trojan, password: 6f46ab84-0f8c-4302-a126-7e060b946f19, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 04【vip1 】 - 追云加速, server: n00003.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 6f46ab84-0f8c-4302-a126-7e060b946f19, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 06【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 6f46ab84-0f8c-4302-a126-7e060b946f19, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 05【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 19013, type: trojan, password: 6f46ab84-0f8c-4302-a126-7e060b946f19, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 5d935c28-3ef5-3497-bb80-b7969abd2a3e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 5d935c28-3ef5-3497-bb80-b7969abd2a3e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 5d935c28-3ef5-3497-bb80-b7969abd2a3e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
