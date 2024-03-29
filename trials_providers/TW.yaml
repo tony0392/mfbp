@@ -4,9 +4,9 @@ proxies:
 - {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 87f9a395-93b6-4a28-ab90-1aa504d94b8b, udp: true}
 - {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 87f9a395-93b6-4a28-ab90-1aa504d94b8b, udp: true}
 - {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 87f9a395-93b6-4a28-ab90-1aa504d94b8b, udp: true}
-- {name: 🇹🇼 台湾 03【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 19949, type: trojan, password: 18241282-61df-4235-97aa-ed5db7ed0507, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 02【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 19949, type: trojan, password: 18241282-61df-4235-97aa-ed5db7ed0507, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 01【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 19949, type: trojan, password: 18241282-61df-4235-97aa-ed5db7ed0507, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 04【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 49148, type: trojan, password: 18241282-61df-4235-97aa-ed5db7ed0507, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 06【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 49148, type: trojan, password: 18241282-61df-4235-97aa-ed5db7ed0507, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 05【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 49148, type: trojan, password: 18241282-61df-4235-97aa-ed5db7ed0507, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 03【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 19949, type: trojan, password: 4b74c3ad-d03c-45d3-b68b-10ea73a0ceeb, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 02【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 19949, type: trojan, password: 4b74c3ad-d03c-45d3-b68b-10ea73a0ceeb, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 01【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 19949, type: trojan, password: 4b74c3ad-d03c-45d3-b68b-10ea73a0ceeb, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 04【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 49148, type: trojan, password: 4b74c3ad-d03c-45d3-b68b-10ea73a0ceeb, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 06【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 49148, type: trojan, password: 4b74c3ad-d03c-45d3-b68b-10ea73a0ceeb, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 05【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 49148, type: trojan, password: 4b74c3ad-d03c-45d3-b68b-10ea73a0ceeb, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
