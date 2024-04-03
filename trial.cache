@@ -2,30 +2,30 @@
 auto_invite  F
 buy  pass
 email  ayxvcmmx761@tmail.ws
-last_checkin  2024-04-02 17:44:28.167349+08:00
+last_checkin  2024-04-03 17:44:23.567452+08:00
 name  墙了个墙
 node_n  28
-sub_info  907.4M  888G  2024-04-07 17:44:30+08:00  (剩余 887.2G 4 days, 23:59:59.119468)
+sub_info  933.3M  888.1G  2024-04-07 17:44:30+08:00  (剩余 887.2G 4 days, 0:00:02.077780)
 sub_url  https://www.qlgq.top/link/e2693ffc199c03c1?clash=1#墙了个墙
 time  2024-03-31 17:44:31.168496+08:00
 type  sspanel
 
 [cooc.cloud#小白云]
 buy  pass
-email  huekkwsb940@gmail.com
+email  knymqjyxd25@gmail.com
 name  小白云
 node_n  21
-sub_info  2.833G  5G  2024-04-03 17:44:27+08:00  (剩余 2.167G 23:57:50.674461)
-sub_url  http://172.247.127.105:9000/api/v1/client/subscribe?token=9a8abf70a3e4cdf4b24252f18d706d28
-time  2024-04-01 17:44:27.889246+08:00
+sub_info  0B  5G  2024-04-05 17:45:50+08:00  (剩余 5G 1 day, 23:59:55.582243)
+sub_url  http://172.247.127.105:9000/api/v1/client/subscribe?token=d286866dd414ee5cbe07c96e23259ffc
+time  2024-04-03 17:45:51.503510+08:00
 type  v2board
 
 [aa.dabai.in]
 email  anvwzbj245@gmail.com
-last_checkin  2024-04-02 17:44:28.166220+08:00
+last_checkin  2024-04-03 17:44:23.564805+08:00
 name  大白
 node_n  7
-sub_info  9.15G  999.5G  2024-04-22 19:39:41+08:00  (剩余 990.4G 20 days, 1:53:08.225692)
+sub_info  9.151G  999.6G  2024-04-22 19:39:41+08:00  (剩余 990.4G 19 days, 1:55:15.688770)
 sub_url  https://l.db-link01.top/link/Vaq8uQCmJtjxyqxe?sub=3
 time  2024-03-23 19:39:42.723242+08:00
 type  sspanel
@@ -40,3 +40,4 @@ sub_info  0B  1G  2024-04-03 17:44:33+08:00  (剩余 1G 23:59:50.722647)
 sub_url  https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=14138cb22c79c5220664c6df9b38a49c
 time  2024-04-02 17:44:34.121022+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
