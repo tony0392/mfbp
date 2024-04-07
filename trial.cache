@@ -1,23 +1,23 @@
 [www.qlgq.top]
 auto_invite  F
 buy  pass
-email  ayxvcmmx761@tmail.ws
-last_checkin  2024-04-06 17:44:13.655661+08:00
+email  mmqkgiq77@lyx13.xyz
+last_checkin  2024-04-07 17:44:27.411350+08:00
 name  墙了个墙
 node_n  28
-sub_info  933.4M  888.1G  2024-04-07 17:44:30+08:00  (剩余 887.2G 1 day, 0:00:11.677043)
-sub_url  https://www.qlgq.top/link/e2693ffc199c03c1?clash=1#墙了个墙
-time  2024-03-31 17:44:31.168496+08:00
+sub_info  0B  888G  2024-04-08 17:44:27+08:00  (剩余 888G 23:59:55.222240)
+sub_url  https://www.qlgq.top/link/f3ee571e2a80034b?clash=1#墙了个墙
+time  2024-04-07 17:44:28.716863+08:00
 type  sspanel
 
 [cooc.cloud#小白云]
 buy  pass
-email  cvoqlhh985@gmail.com
+email  pjyzauimk105@gmail.com
 name  小白云
 node_n  21
-sub_info  238.7M  5G  2024-04-07 17:44:42+08:00  (剩余 4.767G 23:59:44.735390)
-sub_url  http://172.247.127.105:9000/api/v1/client/subscribe?token=9be3329f5a785b7e663affc010f19013
-time  2024-04-05 17:44:43.006852+08:00
+sub_info  0B  5G  2024-04-09 17:44:19+08:00  (剩余 5G 1 day, 23:57:54.283488)
+sub_url  http://172.247.127.105:9000/api/v1/client/subscribe?token=b4bcf18462d53763dfca43f485a3bdde
+time  2024-04-07 17:44:20.587330+08:00
 type  v2board
 
 [aa.dabai.in]
@@ -25,10 +25,11 @@ email  anvwzbj245@gmail.com
 last_checkin  2024-04-06 17:44:13.654462+08:00
 name  大白
 node_n  8
-sub_info  11.36G  999.7G  2024-04-22 19:39:41+08:00  (剩余 988.4G 16 days, 1:55:22.362896)
+sub_info  11.38G  999.7G  2024-04-22 19:39:41+08:00  (剩余 988.4G 15 days, 1:55:23.493163)
 sub_url  https://l.db-link01.top/link/Vaq8uQCmJtjxyqxe?sub=3
 time  2024-03-23 19:39:42.723242+08:00
 type  sspanel
+尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [www.ckcloud.xyz]
 api_host  www.zhuiyun.shop
@@ -40,3 +41,4 @@ sub_info  0B  1G  2024-04-07 17:46:23+08:00  (剩余 1G 23:59:39.135311)
 sub_url  https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=596ea514fa49671b726742d2582b926c
 time  2024-04-06 17:46:23.912769+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
