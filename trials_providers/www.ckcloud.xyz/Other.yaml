@@ -1,18 +1,18 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇻🇳 越南 01【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 55474, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 03【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 55474, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 02【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 55474, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 47497, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 47497, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 47497, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国01【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 43654, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国03【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 43654, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国02【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 43654, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 30273, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 30273, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 30273, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 01【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 11839, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 02【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 11839, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 03【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 11839, type: trojan, password: fe002c95-e124-4267-8dbd-3af019b5dfef, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 01【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 55474, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 03【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 55474, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 02【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 55474, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 47497, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 47497, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 47497, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国01【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 43654, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国03【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 43654, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国02【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 43654, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 30273, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 30273, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 30273, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 01【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 11839, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 02【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 11839, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 03【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 11839, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
