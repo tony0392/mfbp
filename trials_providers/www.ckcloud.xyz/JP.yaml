@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本04【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本05【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本06【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: f27d1ee2-3c30-4309-84b7-8a4b770c7945, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本05【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本06【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
