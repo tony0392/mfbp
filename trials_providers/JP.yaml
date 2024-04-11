@@ -1,16 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 516fa95d-1d25-4fcd-b758-81296db0c20b, udp: true}
-- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 516fa95d-1d25-4fcd-b758-81296db0c20b, udp: true}
-- {name: 🇯🇵 日本02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本04【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本05【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本06【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: b219f127-a7af-47e1-993a-66a0700ab5b1, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61239, type: trojan, password: 26ae451e-0f82-338d-801e-5020263ff45f, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61238, type: trojan, password: 26ae451e-0f82-338d-801e-5020263ff45f, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61237, type: trojan, password: 26ae451e-0f82-338d-801e-5020263ff45f, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61236, type: trojan, password: 26ae451e-0f82-338d-801e-5020263ff45f, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61235, type: trojan, password: 26ae451e-0f82-338d-801e-5020263ff45f, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: a2fe202b-65ee-461f-a08b-0a3a5a14be22, udp: true}
+- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: a2fe202b-65ee-461f-a08b-0a3a5a14be22, udp: true}
+- {name: 🇯🇵 日本02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: 865c358f-759c-43b7-b59c-c1b8398fe8e5, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: 865c358f-759c-43b7-b59c-c1b8398fe8e5, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: 865c358f-759c-43b7-b59c-c1b8398fe8e5, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: 865c358f-759c-43b7-b59c-c1b8398fe8e5, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本05【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: 865c358f-759c-43b7-b59c-c1b8398fe8e5, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本06【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 39520, type: trojan, password: 865c358f-759c-43b7-b59c-c1b8398fe8e5, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61239, type: trojan, password: 105fcdc8-795f-3fc6-8f7a-5a431c730488, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61238, type: trojan, password: 105fcdc8-795f-3fc6-8f7a-5a431c730488, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61237, type: trojan, password: 105fcdc8-795f-3fc6-8f7a-5a431c730488, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61236, type: trojan, password: 105fcdc8-795f-3fc6-8f7a-5a431c730488, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61235, type: trojan, password: 105fcdc8-795f-3fc6-8f7a-5a431c730488, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
