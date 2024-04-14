@@ -1,17 +1,17 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 80527a86-5bb0-4c06-8e0d-16907c6d7479, udp: true}
-- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 80527a86-5bb0-4c06-8e0d-16907c6d7479, udp: true}
-- {name: 🇺🇸 美国02【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 51345, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 51345, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02_1【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 51345, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 03【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 37180, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 04【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 37180, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 04_1【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 37180, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国05_1【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 58563, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国06【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 58563, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国05【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 58563, type: trojan, password: ce814134-647b-4c61-90fe-5ae8f966e650, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: f9a426f9-bcf9-325e-8b46-76e88b2a95a5, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: f9a426f9-bcf9-325e-8b46-76e88b2a95a5, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: f9a426f9-bcf9-325e-8b46-76e88b2a95a5, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 3e8f846a-1680-4dba-bbcf-3c6d8e943c42, udp: true}
+- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 3e8f846a-1680-4dba-bbcf-3c6d8e943c42, udp: true}
+- {name: 🇺🇸 美国02【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 51345, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 51345, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02_1【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 51345, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 03【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 37180, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 04【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 37180, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 04_1【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 37180, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国05_1【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 58563, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国06【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 58563, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国05【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 58563, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: a7025879-b888-35ae-a427-af006356f3f1, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: a7025879-b888-35ae-a427-af006356f3f1, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: a7025879-b888-35ae-a427-af006356f3f1, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
