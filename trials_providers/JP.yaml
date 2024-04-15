@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 3e8f846a-1680-4dba-bbcf-3c6d8e943c42, udp: true}
-- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 3e8f846a-1680-4dba-bbcf-3c6d8e943c42, udp: true}
+- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: f55075c4-1b2e-4034-b363-5678612b4251, udp: true}
+- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: f55075c4-1b2e-4034-b363-5678612b4251, udp: true}
 - {name: 🇯🇵 日本02【vip1】 - 追云加速, server: n00001.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本01【vip1】 - 追云加速, server: n00005.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本03【vip1】 - 追云加速, server: n00007.bzdqsmzngpyyng.sbs, port: 29496, type: trojan, password: ea58d56c-8620-4c00-a343-0106dc5b3ee0, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
