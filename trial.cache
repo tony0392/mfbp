@@ -1,42 +1,46 @@
 [www.qlgq.top]
 auto_invite  F
+banned_domains  psnator.com
 buy  pass
 email  aalwtnoc750@xdanae.com
-last_checkin  2024-04-15 17:44:23.410145+08:00
+last_checkin  2024-04-16 15:26:24.937205+08:00
 name  墙了个墙
 node_n  28
 sub_info  68.03M  888.1G  2024-04-15 19:34:44+08:00  (剩余 888G 1:50:16.358897)
 sub_url  https://www.qlgq.top/link/d3fe412aa69a94d9?clash=1#墙了个墙
 time  2024-04-14 19:34:45.186261+08:00
 type  sspanel
+保存base64/clash订阅失败  'proxies'
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(rivrxqo839@psnator.com)
 
 [cooc.cloud#小白云]
 buy  pass
-email  guufwdz767@gmail.com
+email  esmmfiww302@gmail.com
 name  小白云
 node_n  21
-sub_info  0B  5G  2024-04-15 23:44:31+08:00  (剩余 5G 5:59:57.996586)
-sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=f1fcb7b44ba8ad278418e8abfa5df3e7
-time  2024-04-15 17:44:31.910353+08:00
+sub_info  0B  5G  2024-04-16 21:31:20+08:00  (剩余 5G 5:57:18.430127)
+sub_url  https://cooc.cloud/api/v1/client/subscribe?token=a3446056b63275ecf3a0383d9fdac932
+time  2024-04-16 15:31:21.582157+08:00
 type  v2board
 
 [aa.dabai.in]
 email  anvwzbj245@gmail.com
-last_checkin  2024-04-15 17:44:23.409016+08:00
+last_checkin  2024-04-16 15:26:24.935953+08:00
 name  大白
 node_n  8
-sub_info  15.04G  1000G  2024-04-22 19:39:41+08:00  (剩余 985G 7 days, 1:55:15.824168)
+sub_info  16.43G  1000G  2024-04-22 19:39:41+08:00  (剩余 983.6G 6 days, 4:13:14.714084)
 sub_url  https://l.db-link01.top/link/Vaq8uQCmJtjxyqxe?sub=3
 time  2024-03-23 19:39:42.723242+08:00
 type  sspanel
 
-[www.ckcloud.xyz]
-api_host  www.zhuiyun.shop
-buy  pass
-email  xpyjuyhhs453@gmail.com
-name  追云加速
-node_n  56
-sub_info  771.3K  1G  2024-04-15 19:28:34+08:00  (剩余 1023M 1:43:51.604127)
-sub_url  https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=74f865719b8fb94ff953da83505d6c03
-time  2024-04-14 19:28:34.675554+08:00
-type  v2board
+[www.flybar4.cc]
+email  vzkxgyzi947@maxamba.com
+invite_code  6X77  10000
+last_checkin  2024-04-16 15:26:50.037054+08:00
+name  飞翔吧
+node_n  47
+sub_info  0B  10.14G  2024-04-17 15:26:44+08:00  (剩余 10.14G 23:59:43.347821)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/9mJzy2BCJQwIUnYK?sub=3
+time  2024-04-16 15:26:57.175657+08:00
+type  sspanel
