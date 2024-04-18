@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: a933380f-bc0e-3527-a392-751c5c70d12c, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: a933380f-bc0e-3527-a392-751c5c70d12c, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: a933380f-bc0e-3527-a392-751c5c70d12c, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: d2cffd74-9b51-36ae-b26d-b3a5267f7b5d, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: d2cffd74-9b51-36ae-b26d-b3a5267f7b5d, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: d2cffd74-9b51-36ae-b26d-b3a5267f7b5d, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
