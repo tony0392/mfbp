@@ -18,14 +18,14 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港|【清明活动7折进行中】前往网站订购|公益 - 大白
-  - 🇭🇰 香港|【dabai.in】<<前往官网|GPT+流媒体|公益 - 大白
-  - 🇭🇰 香港|【db01.in】<<前往官网|GPT+流媒体|公益 - 大白
-  - 🇭🇰 香港|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|公益 - 大白
-  - 🇭🇰 香港|【注册免费领1TB流量】前往-注册|公益 - 大白
-  - 🇭🇰 香港|【提供套餐】免费/按量不限时/不按量限时|GPT+流媒体|公益 - 大白
-  - 🇭🇰 香港|【邀请用户】|最高返还40%|GPT+流媒体|公益 - 大白
-  - 🇭🇰 香港|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
+  - 🇺🇸 美国|【清明活动7折进行中】前往网站订购|公益 - 大白
+  - 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|公益 - 大白
+  - 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|公益 - 大白
+  - 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|公益 - 大白
+  - 🇺🇸 美国|【注册免费领1TB流量】前往-注册|公益 - 大白
+  - 🇺🇸 美国|【提供套餐】免费/按量不限时/不按量限时|GPT+流媒体|公益 - 大白
+  - 🇺🇸 美国|【邀请用户】|最高返还40%|GPT+流媒体|公益 - 大白
+  - 🇺🇸 美国|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -60,14 +60,14 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: 🇭🇰 香港|【清明活动7折进行中】前往网站订购|公益 - 大白, server: 104.16.50.143, port: 2086, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.50.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|【dabai.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.19.117.149, port: 2086, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.117.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|【db01.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.17.100.26, port: 2052, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.100.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|公益 - 大白, server: 104.20.235.74, port: 2052, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.235.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|【注册免费领1TB流量】前往-注册|公益 - 大白, server: 104.19.29.144, port: 2052, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.29.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|【提供套餐】免费/按量不限时/不按量限时|GPT+流媒体|公益 - 大白, server: 104.20.90.145, port: 2082, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.90.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|【邀请用户】|最高返还40%|GPT+流媒体|公益 - 大白, server: 104.17.130.61, port: 2052, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.130.cn-db.top}}, udp: true}
-- {name: '🇭🇰 香港|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 104.19.29.44, port: 2082, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.29.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【清明活动7折进行中】前往网站订购|公益 - 大白, server: 104.17.98.230, port: 80, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.98.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.16.67.67, port: 2095, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.67.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.18.174.215, port: 8080, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.174.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|公益 - 大白, server: 104.16.12.48, port: 2086, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.12.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|公益 - 大白, server: 104.19.77.191, port: 2086, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.77.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【提供套餐】免费/按量不限时/不按量限时|GPT+流媒体|公益 - 大白, server: 104.20.44.125, port: 2052, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.44.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【邀请用户】|最高返还40%|GPT+流媒体|公益 - 大白, server: 104.19.250.189, port: 8080, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.250.cn-db.top}}, udp: true}
+- {name: '🇺🇸 美国|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 104.18.120.127, port: 8080, type: vmess, uuid: 87afc254-9e38-3c90-b893-492d402448dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.120.cn-db.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
