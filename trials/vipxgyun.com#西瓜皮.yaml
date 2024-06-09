@@ -179,21 +179,21 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 53e9cd42-53d5-3e10-9ec8-3f9cdb800fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 138c6121-6e00-31ae-8aea-f13f6671aa48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -230,23 +230,18 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
-- DOMAIN,3.7.cr,🛩️ ‍墙内
-- DOMAIN,7.7.cr,🛩️ ‍墙内
-- DOMAIN,c.7.cr,🛩️ ‍墙内
-- DOMAIN,i.7.cr,🛩️ ‍墙内
-- DOMAIN,j.7.cr,🛩️ ‍墙内
-- DOMAIN,n.7.cr,🛩️ ‍墙内
-- DOMAIN,r.7.cr,🛩️ ‍墙内
-- DOMAIN,api.v1.mk,🛩️ ‍墙内
+- DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scs.f5.si,🛩️ ‍墙内
+- DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
+- DOMAIN,url.v1.mk,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
-- DOMAIN,api.subcsub.com,🛩️ ‍墙内
-- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
-- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
+- DOMAIN,sub.id9.cc,🛩️ ‍墙内
+- DOMAIN,api-suc.0z.gs,🛩️ ‍墙内
 - DOMAIN,ghproxy.top,🛩️ ‍墙内
 - DOMAIN,ghproxy.net,🛩️ ‍墙内
 - DOMAIN,ghproxy.org,🛩️ ‍墙内
 - DOMAIN,ghproxy.cc,🛩️ ‍墙内
-- DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
 - DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
 - DOMAIN,gh.idayer.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
