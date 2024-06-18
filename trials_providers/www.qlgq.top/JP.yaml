@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61239, type: trojan, password: af46e59b-6b5a-3f32-8c40-8381258859da, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61288, type: trojan, password: af46e59b-6b5a-3f32-8c40-8381258859da, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61237, type: trojan, password: af46e59b-6b5a-3f32-8c40-8381258859da, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61236, type: trojan, password: af46e59b-6b5a-3f32-8c40-8381258859da, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61235, type: trojan, password: af46e59b-6b5a-3f32-8c40-8381258859da, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61239, type: trojan, password: acf5dc2e-6350-316b-a6c9-374a2cd7e036, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61288, type: trojan, password: acf5dc2e-6350-316b-a6c9-374a2cd7e036, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61237, type: trojan, password: acf5dc2e-6350-316b-a6c9-374a2cd7e036, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61236, type: trojan, password: acf5dc2e-6350-316b-a6c9-374a2cd7e036, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61235, type: trojan, password: acf5dc2e-6350-316b-a6c9-374a2cd7e036, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
