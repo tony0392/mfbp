@@ -15,12 +15,12 @@ proxies:
 - &id016 {name: 🇹🇼 Video 台湾D-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 926, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: d986095911.download.windowsupdate.com}, udp: true}
 - &id017 {name: 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 39004, type: ss, cipher: aes-128-gcm, password: ayds23sd1, plugin: obfs, plugin-opts: {mode: http, host: d986095911.download.windowsupdate.com}, udp: true}
 - &id018 {name: 🇹🇼 Web 台湾I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: d986095911.download.windowsupdate.com}, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: xlDySHB0DQoAo0gN, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: xlDySHB0DQoAo0gN, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: xlDySHB0DQoAo0gN, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: xlDySHB0DQoAo0gN, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: d9181225-c26c-3420-b94f-6b2fe31a925d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: d9181225-c26c-3420-b94f-6b2fe31a925d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: Gvuc3fDVLWi1j2gM, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: Gvuc3fDVLWi1j2gM, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: Gvuc3fDVLWi1j2gM, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: Gvuc3fDVLWi1j2gM, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: 085d0b3f-4301-307f-b3e2-2525c9a49ebd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: 085d0b3f-4301-307f-b3e2-2525c9a49ebd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 8b533ced-3e06-3fb7-a355-fde39af8ea38, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 8b533ced-3e06-3fb7-a355-fde39af8ea38, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 8b533ced-3e06-3fb7-a355-fde39af8ea38, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -30,10 +30,10 @@ proxies:
 - {name: 🇹🇼 Taiwan - 番茄云, server: dlaa.fanqiecloud.top, port: 2095, type: vmess, uuid: eec8671c-8b06-4475-9139-7fa0c32098b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw4.fanqiecloud.top}}, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62012, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62005, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id001 {name: 🇹🇼 台湾 A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 731ca63d-1a4b-4849-9c47-702a4c32d4c4, udp: true}
-- &id002 {name: 🇹🇼 台湾 B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 731ca63d-1a4b-4849-9c47-702a4c32d4c4, udp: true}
-- &id003 {name: 🇹🇼 台湾 C｜TW - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: 731ca63d-1a4b-4849-9c47-702a4c32d4c4, udp: true}
-- &id004 {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 731ca63d-1a4b-4849-9c47-702a4c32d4c4, udp: true}
+- &id001 {name: 🇹🇼 台湾 A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: e9268f9a-37bf-488d-905b-9b3a61861788, udp: true}
+- &id002 {name: 🇹🇼 台湾 B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: e9268f9a-37bf-488d-905b-9b3a61861788, udp: true}
+- &id003 {name: 🇹🇼 台湾 C｜TW - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: e9268f9a-37bf-488d-905b-9b3a61861788, udp: true}
+- &id004 {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: e9268f9a-37bf-488d-905b-9b3a61861788, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(Trojan) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9755, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: b12.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(Trojan) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 9489, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: b13.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥2-2(Trojan) - 麻雀加速器 Sparrow, server: b22.ntbq.dynu.net, port: 19489, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: b22.ntbq.dynu.net, skip-cert-verify: true, udp: true}
