@@ -9,9 +9,11 @@ sub_info  0B  10.12G  2024-07-11 19:45:58+08:00  (剩余 10.12G 1:59:54.037527)
 sub_url  https://dy2.dx035.top/link/YAbxfhLqxpX3Zic9?sub=3
 time  2024-07-11 17:46:03.056414+08:00
 type  sspanel
+尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/YAbxfhLqxpX3Zic9?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
 
 [csyun.xyz]
-email  uuflhlp296@gmail.com
+email  fyladng464@gmail.com
 name  橙速云
 sub_info  0B  0B  永不过期  (剩余 0B)
 sub_url  http://s3.subcsyun.online/api/v1/client/subscribe?token=d39fe8eed66df96cbf1a7635a8b7b9ad
@@ -23,23 +25,23 @@ type  v2board
 [www.qlgq.top]
 auto_invite  F
 buy  pass
-email  ypqtmkmk542@nespressopixie.com
-last_checkin  2024-07-11 17:41:35.340696+08:00
+email  mcmphlvbq972@jkd.tmmad.com
+last_checkin  2024-07-12 17:41:37.746526+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-07-12 17:41:35+08:00  (剩余 888G 23:59:55.673287)
-sub_url  https://www.qlgq.top/link/ace3ae82102693d7?clash=1#墙了个墙
-time  2024-07-11 17:41:36.368137+08:00
+sub_info  0B  888G  2024-07-13 17:41:37+08:00  (剩余 888G 23:59:56.538795)
+sub_url  https://www.qlgq.top/link/c6300392073cf3e0?clash=1#墙了个墙
+time  2024-07-12 17:41:38.848615+08:00
 type  sspanel
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  ckivzjvg350@gmail.com
-last_checkin  2024-07-11 17:45:41.866691+08:00
+last_checkin  2024-07-12 17:41:26.239577+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.591G  2024-07-13 18:45:41+08:00  (剩余 5.591G 2 days, 0:57:56.419992)
+sub_info  463.5K  6.437G  2024-07-13 18:45:41+08:00  (剩余 6.436G 1 day, 1:04:13.078072)
 sub_url  https://www.mgnet.sbs/link/rYJkk3aeWXqLpRQc?sub=3
 time  2024-07-11 17:45:42.196921+08:00
 type  sspanel
@@ -47,14 +49,14 @@ type  sspanel
 [yiyuanvpn.top]
 name  滑梯云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(loectxv680@gmail.com): 邀请码无效 #一元云梯
+更新订阅链接/续费续签失败  注册失败(rcazbfil953@gmail.com): 邀请码无效 #一元云梯
 
 [https://xn--mes358a.art]
 
 [portal.passgfw.top]
 email  sbzrsisy460@gmail.com
 name  WindyCloud
-sub_info  0B  100G  2024-08-08 17:38:16+08:00  (剩余 100G 27 days, 23:52:37.722890)
+sub_info  0B  100G  2024-08-08 17:38:16+08:00  (剩余 100G 26 days, 23:50:23.978447)
 sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=33556e2f5ff726e8b661f46fec8e1a9a
 time  2024-07-08 17:41:27.846723+08:00
 type  v2board
@@ -63,10 +65,11 @@ type  v2board
 [2.flybar20.cc]
 email  gxadevtfs925@ktse.haihantnc.xyz
 invite_code  BRQz  9999
-last_checkin  2024-07-11 17:41:24.732121+08:00
+last_checkin  2024-07-12 17:41:26.238534+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.13G  2024-07-12 17:41:24+08:00  (剩余 10.13G 23:59:55.378159)
+sub_info  65.75M  10.29G  2024-07-12 17:41:24+08:00  (剩余 10.23G -1 day, 23:59:50.500124)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kr0I4rtN6DFkgRJC?sub=3
 time  2024-07-11 17:41:26.448701+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='www.emailnator.com', port=443): Max retries exceeded with url: /message-list (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.emailnator.com'. (_ssl.c:1007)")))
