@@ -11,12 +11,16 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -28,40 +32,26 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港 101 - 墙了个墙
-  - 🇭🇰 香港 102 - 墙了个墙
-  - 🇭🇰 香港 103 - 墙了个墙
-  - 🇭🇰 香港 104 - 墙了个墙
-  - 🇭🇰 香港 105 - 墙了个墙
-  - 🇭🇰 香港 106 - 墙了个墙
-  - 🇭🇰 香港 107 - 墙了个墙
-  - 🇭🇰 香港 108 - 墙了个墙
-  - 🇭🇰 香港 109 - 墙了个墙
-  - 🇭🇰 香港 110 - 墙了个墙
-  - 🇸🇬 新加坡 101 - 墙了个墙
-  - 🇸🇬 新加坡 102 - 墙了个墙
-  - 🇸🇬 新加坡 103 - 墙了个墙
-  - 🇸🇬 新加坡 104 - 墙了个墙
-  - 🇸🇬 新加坡 105 - 墙了个墙
-  - 🇯🇵 日本 101 - 墙了个墙
-  - 🇯🇵 日本 102 - 墙了个墙
-  - 🇯🇵 日本 103 - 墙了个墙
-  - 🇯🇵 日本 104 - 墙了个墙
-  - 🇯🇵 日本 105 - 墙了个墙
-  - 🇺🇸 美国 洛杉矶101 - 墙了个墙
-  - 🇺🇸 美国 洛杉矶102 - 墙了个墙
-  - 🇺🇸 美国 洛杉矶103 - 墙了个墙
-  - 🇩🇪 德国 法兰克福101 - 墙了个墙
-  - 🇩🇪 德国 法兰克福102 - 墙了个墙
-  - 🇩🇪 德国 法兰克福103 - 墙了个墙
-  - 🇩🇪 德国 法兰克福104 - 墙了个墙
-  - 🇩🇪 德国 法兰克福105 - 墙了个墙
-  - 🇬🇧 英国 101 - 墙了个墙
-  - 🇬🇧 英国 102 - 墙了个墙
-  - 🇬🇧 英国 103 - 墙了个墙
-  - 🇲🇾 马来西亚 001 - 墙了个墙
-  - 🇲🇾 马来西亚 002 - 墙了个墙
-  - 🇲🇾 马来西亚 003 - 墙了个墙
+  - 🇭🇰 香港01 - 光年网络
+  - 🇭🇰 香港02 - 光年网络
+  - 🇭🇰 香港03 - 光年网络
+  - 🇭🇰 香港04 - 光年网络
+  - 🇹🇼 台湾 - 光年网络
+  - 🇸🇬 新加坡01 - 光年网络
+  - 🇸🇬 新加坡02 - 光年网络
+  - 🇸🇬 新加坡03 - 光年网络
+  - 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络
+  - 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络
+  - 🇯🇵 日本02 youtube可评论线路 - 光年网络
+  - 🇺🇸 美国01 - 光年网络
+  - 🇺🇸 美国02 - 光年网络
+  - 🇺🇸 美国03 - 光年网络
+  - ℹ️ 请收藏永久官网：licar.cc - 光年网络
+  - 🇷🇺 俄罗斯 youtube免广告 - 光年网络
+  - 🇰🇷 韩国01 - 光年网络
+  - 🇰🇷 韩国02 - 光年网络
+  - 🇧🇷 巴西01 - 光年网络
+  - 🇫🇷 法国01 - 光年网络
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,9 +68,13 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 👆🏻 ‍指定
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍AI
   type: select
@@ -89,9 +83,11 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -108,117 +104,112 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港 101 - 墙了个墙
-  - 🇭🇰 香港 102 - 墙了个墙
-  - 🇭🇰 香港 103 - 墙了个墙
-  - 🇭🇰 香港 104 - 墙了个墙
-  - 🇭🇰 香港 105 - 墙了个墙
-  - 🇭🇰 香港 106 - 墙了个墙
-  - 🇭🇰 香港 107 - 墙了个墙
-  - 🇭🇰 香港 108 - 墙了个墙
-  - 🇭🇰 香港 109 - 墙了个墙
-  - 🇭🇰 香港 110 - 墙了个墙
-- name: 🇸🇬 ‍新加坡
+  - 🇭🇰 香港01 - 光年网络
+  - 🇭🇰 香港02 - 光年网络
+  - 🇭🇰 香港03 - 光年网络
+  - 🇭🇰 香港04 - 光年网络
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 新加坡 101 - 墙了个墙
-  - 🇸🇬 新加坡 102 - 墙了个墙
-  - 🇸🇬 新加坡 103 - 墙了个墙
-  - 🇸🇬 新加坡 104 - 墙了个墙
-  - 🇸🇬 新加坡 105 - 墙了个墙
-- name: 🇯🇵 ‍日本
+  - 🇹🇼 台湾 - 光年网络
+- name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇯🇵 日本 101 - 墙了个墙
-  - 🇯🇵 日本 102 - 墙了个墙
-  - 🇯🇵 日本 103 - 墙了个墙
-  - 🇯🇵 日本 104 - 墙了个墙
-  - 🇯🇵 日本 105 - 墙了个墙
+  - 🇭🇰 香港01 - 光年网络
+  - 🇭🇰 香港02 - 光年网络
+  - 🇭🇰 香港03 - 光年网络
+  - 🇭🇰 香港04 - 光年网络
+  - 🇹🇼 台湾 - 光年网络
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新加坡01 - 光年网络
+  - 🇸🇬 新加坡02 - 光年网络
+  - 🇸🇬 新加坡03 - 光年网络
+  - 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络
+  - 🇯🇵 日本02 youtube可评论线路 - 光年网络
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id005
-  - 🇺🇸 美国 洛杉矶101 - 墙了个墙
-  - 🇺🇸 美国 洛杉矶102 - 墙了个墙
-  - 🇺🇸 美国 洛杉矶103 - 墙了个墙
+  proxies: &id007
+  - 🇺🇸 美国01 - 光年网络
+  - 🇺🇸 美国02 - 光年网络
+  - 🇺🇸 美国03 - 光年网络
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id006
-  - 🇩🇪 德国 法兰克福101 - 墙了个墙
-  - 🇩🇪 德国 法兰克福102 - 墙了个墙
-  - 🇩🇪 德国 法兰克福103 - 墙了个墙
-  - 🇩🇪 德国 法兰克福104 - 墙了个墙
-  - 🇩🇪 德国 法兰克福105 - 墙了个墙
-  - 🇬🇧 英国 101 - 墙了个墙
-  - 🇬🇧 英国 102 - 墙了个墙
-  - 🇬🇧 英国 103 - 墙了个墙
-  - 🇲🇾 马来西亚 001 - 墙了个墙
-  - 🇲🇾 马来西亚 002 - 墙了个墙
-  - 🇲🇾 马来西亚 003 - 墙了个墙
+  proxies: &id008
+  - ℹ️ 请收藏永久官网：licar.cc - 光年网络
+  - 🇷🇺 俄罗斯 youtube免广告 - 光年网络
+  - 🇰🇷 韩国01 - 光年网络
+  - 🇰🇷 韩国02 - 光年网络
+  - 🇧🇷 巴西01 - 光年网络
+  - 🇫🇷 法国01 - 光年网络
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip102.qlgq.fun, port: 41789, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
-- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip102.qlgq.fun, port: 51789, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
-- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61239, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61288, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61237, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61236, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip101.qlgq.fun, port: 61235, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇬🇧 英国 101 - 墙了个墙, server: ukvip101.qlgq.fun, port: 14568, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇬🇧 英国 102 - 墙了个墙, server: ukvip101.qlgq.fun, port: 14586, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇬🇧 英国 103 - 墙了个墙, server: ukvip101.qlgq.fun, port: 18885, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
-- {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
-- {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 🇭🇰 香港 104 - 墙了个墙, server: hkvip102.qlgq.fun, port: 42249, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 🇭🇰 香港 105 - 墙了个墙, server: hkvip103.qlgq.fun, port: 52249, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇭🇰 香港 106 - 墙了个墙, server: hkvip103.qlgq.fun, port: 11116, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇭🇰 香港 107 - 墙了个墙, server: hkvip104.qlgq.fun, port: 45136, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
-- {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip104.qlgq.fun, port: 46216, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
-- {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
-- {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
-- {name: 🇲🇾 马来西亚 001 - 墙了个墙, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
-- {name: 🇲🇾 马来西亚 002 - 墙了个墙, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
-- {name: 🇲🇾 马来西亚 003 - 墙了个墙, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: 11949485-a62c-38a0-bdcd-ca62765747de, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: ℹ️ 请收藏永久官网：licar.cc - 光年网络, server: adobe.laistar1.com, port: 28003, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇭🇰 香港01 - 光年网络, server: az.globelsta.com, port: 28003, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: az.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港02 - 光年网络, server: jk.globelsta.com, port: 28004, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jk.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港03 - 光年网络, server: ny.globelsta.com, port: 28005, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ny.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港04 - 光年网络, server: t.globelsta.com, port: 28006, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: t.globelsta.com}}, udp: true}
+- {name: 🇸🇬 新加坡01 - 光年网络, server: gda.estyplia.com, port: 28001, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: gda.estyplia.com}}, udp: true}
+- {name: 🇸🇬 新加坡02 - 光年网络, server: f.estyplia.com, port: 28002, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: f.estyplia.com}}, udp: true}
+- {name: 🇸🇬 新加坡03 - 光年网络, server: la.estyplia.com, port: 29006, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: la.estyplia.com}}, udp: true}
+- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: ma.estyplia.com, port: 29007, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ma.estyplia.com}}, udp: true}
+- {name: 🇷🇺 俄罗斯 youtube免广告 - 光年网络, server: s.okmnhxa.com, port: 29018, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: s.okmnhxa.com}}, udp: true}
+- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: 2.okmnhxa.com, port: 29008, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
+- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: 2.okmnhxa.com, port: 29009, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
+- {name: 🇰🇷 韩国01 - 光年网络, server: n.hqmmyia.com, port: 29001, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: n.hqmmyia.com}}, udp: true}
+- {name: 🇰🇷 韩国02 - 光年网络, server: z.hqmmyia.com, port: 29002, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: z.hqmmyia.com}}, udp: true}
+- {name: 🇺🇸 美国01 - 光年网络, server: jj.hqmmyia.com, port: 29003, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jj.hqmmyia.com}}, udp: true}
+- {name: 🇺🇸 美国02 - 光年网络, server: fs.hqmmyia.com, port: 29014, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: fs.hqmmyia.com}}, udp: true}
+- {name: 🇺🇸 美国03 - 光年网络, server: a.hqmmyia.com, port: 29005, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: a.hqmmyia.com}}, udp: true}
+- {name: 🇹🇼 台湾 - 光年网络, server: lp.okmnhxa.com, port: 29012, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: lp.okmnhxa.com}}, udp: true}
+- {name: 🇧🇷 巴西01 - 光年网络, server: ko.okmnhxa.com, port: 29010, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ko.okmnhxa.com}}, udp: true}
+- {name: 🇫🇷 法国01 - 光年网络, server: ha.okmnhxa.com, port: 29011, type: vmess, uuid: 623b5da1-2180-3c57-96c1-97fbcf173492, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ha.okmnhxa.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
