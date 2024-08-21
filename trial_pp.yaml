@@ -233,6 +233,29 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
+- DOMAIN-SUFFIX,dnsany.com,DIRECT
+- DOMAIN-SUFFIX,cmvideo.cn,DIRECT
+- DOMAIN-SUFFIX,chinamobile.com,DIRECT
+- DOMAIN-SUFFIX,mobaibox.com,DIRECT
+- DOMAIN-SUFFIX,gitv.tv,DIRECT
+- DOMAIN-SUFFIX,cctv.cn,DIRECT
+- DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+- DOMAIN-SUFFIX,gcable.cn,DIRECT
+- DOMAIN,beesport.livednow.com,DIRECT
+- DOMAIN-SUFFIX,livednow.com,Proxy
+- DOMAIN-SUFFIX,orz-7.com,Proxy
+- DOMAIN-SUFFIX,4gtv.tv,Proxy
+- DOMAIN-SUFFIX,hinet.net,Proxy
+- DOMAIN-SUFFIX,ofiii.com,Proxy
+- DOMAIN-SUFFIX,googlevideo.com,Proxy
+- DOMAIN-SUFFIX,youtube.com,Proxy
+- DOMAIN-SUFFIX,mytvsuper.com,Proxy
+- DOMAIN-SUFFIX,thetvapp.to,Proxy
+- IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
+- IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
+- IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
+- IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
+- DOMAIN-SUFFIX,cdn.hinet.net,Taiwan
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,scmx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
