@@ -242,15 +242,15 @@ rules:
 - DOMAIN-SUFFIX,yangshipin.cn,DIRECT
 - DOMAIN-SUFFIX,gcable.cn,DIRECT
 - DOMAIN,beesport.livednow.com,DIRECT
-- DOMAIN-SUFFIX,livednow.com,Proxy
-- DOMAIN-SUFFIX,orz-7.com,Proxy
-- DOMAIN-SUFFIX,4gtv.tv,Proxy
-- DOMAIN-SUFFIX,hinet.net,Proxy
-- DOMAIN-SUFFIX,ofiii.com,Proxy
-- DOMAIN-SUFFIX,googlevideo.com,Proxy
-- DOMAIN-SUFFIX,youtube.com,Proxy
-- DOMAIN-SUFFIX,mytvsuper.com,Proxy
-- DOMAIN-SUFFIX,thetvapp.to,Proxy
+- DOMAIN-SUFFIX,livednow.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,orz-7.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,4gtv.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,hinet.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,ofiii.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,googlevideo.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,youtube.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,mytvsuper.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,thetvapp.to,✈️ ‍起飞
 - IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 - IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
 - IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
