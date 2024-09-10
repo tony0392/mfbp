@@ -2,7 +2,7 @@
 auto_invite  F
 buy  pass
 email  hmibhou251@gmail.com
-last_checkin  2024-09-08 17:41:04.704191+08:00
+last_checkin  2024-09-10 17:41:05.435678+08:00
 name  西瓜皮是真的皮
 node_n  15
 sub_info  0B  10.12G  2024-08-12 09:04:54+08:00  (剩余 10.12G -1 day, 15:18:09.806759)
@@ -11,54 +11,53 @@ time  2024-08-12 17:46:42.946520+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/r2vFAoQR84hqFWDW?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
+更新订阅链接/续费续签失败  注册失败(nlczaci509@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [www.qlgq.top]
 auto_invite  F
 banned_domains  psnator.com  tmpnator.live  femailtor.com
 buy  pass
-email  hsojhokc478@buguauto.cn
-last_checkin  2024-09-09 17:43:42.670551+08:00
+email  prqfybp317@wfes.site
+last_checkin  2024-09-10 17:41:17.368502+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-09-10 17:43:42+08:00  (剩余 888G 23:59:56.173465)
-sub_url  https://www.qlgq.top/link/b5794a96ae9f6970?clash=1#墙了个墙
-time  2024-09-09 17:43:44.128470+08:00
+sub_info  0B  888G  2024-09-11 17:41:17+08:00  (剩余 888G 23:59:51.469780)
+sub_url  https://www.qlgq.top/link/8bde3e67521f50a0?clash=1#墙了个墙
+time  2024-09-10 17:41:18.884065+08:00
 type  sspanel
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  afrsgjgbi824@gmail.com
-last_checkin  2024-09-09 17:46:10.210538+08:00
+last_checkin  2024-09-10 17:41:05.436163+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.35G  2024-09-11 18:46:09+08:00  (剩余 5.35G 2 days, 0:59:56.965837)
+sub_info  0B  5.611G  2024-09-11 18:46:09+08:00  (剩余 5.611G 1 day, 1:05:00.529270)
 sub_url  https://www.mgnet.sbs/link/sIbJDGRPyY30XME5?sub=3
 time  2024-09-09 17:46:10.688679+08:00
 type  sspanel
 
 [2.flybar20.cc]
 banned_domains  tmails.net  disbox.org  disbox.net  tmpmail.net  tmpmail.org
-email  wfugkaawz308@jkd.tmmad.com
-invite_code  NT7y  10000
-last_checkin  2024-09-09 17:41:45.203541+08:00
+email  pfroenczf226@miteon.com
+invite_code  NT7y  9999
+last_checkin  2024-09-10 17:41:17.633523+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2024-09-10 17:41:43+08:00  (剩余 10.12G 23:57:49.562742)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/DoSOfM8Uz5Ax2QQS?sub=3
-time  2024-09-09 17:41:46.691028+08:00
+sub_info  0B  10.13G  2024-09-11 17:41:17+08:00  (剩余 10.13G 23:59:41.098660)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/zqdfxwLz7g9NJkHc?sub=3
+time  2024-09-10 17:41:18.946560+08:00
 type  sspanel
 
 [1.lightsr.com#2天10G]
 auto_invite  F
 buy  pass
-email  qygcrinfy713@gmail.com
-last_checkin  2024-09-09 17:41:36.201250+08:00
+email  znsuzdtut985@gmail.com
+last_checkin  2024-09-10 17:41:08.771635+08:00
 name  光年网络
 node_n  20
-sub_info  0B  10.94G  2024-09-10 17:41:36+08:00  (剩余 10.94G 23:59:50.931092)
-sub_url  https://polkxva.com/link/4rzc83FTZk1MkFKf?sub=3
-time  2024-09-09 17:41:37.236645+08:00
+sub_info  0B  10.47G  2024-09-11 17:41:08+08:00  (剩余 10.47G 23:59:55.856282)
+sub_url  https://7.ttnamvka.com/link/aSPj7q0fChtWsPVl?sub=3
+time  2024-09-10 17:41:10.179072+08:00
 type  sspanel
