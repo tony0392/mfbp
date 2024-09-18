@@ -126,17 +126,17 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
-- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 4f372ab6-ed1f-3b1b-9d7a-e6d53dcd858b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
+- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]香港2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 9ef8da3e-1a6e-3b46-9ddf-d16fb61fa387, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -181,14 +181,21 @@ rules:
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,sub.id9.cc,🛩️ ‍墙内
 - DOMAIN,api-suc.0z.gs,🛩️ ‍墙内
-- DOMAIN,ghproxy.top,🛩️ ‍墙内
-- DOMAIN,ghproxy.net,🛩️ ‍墙内
-- DOMAIN,ghproxy.org,🛩️ ‍墙内
-- DOMAIN,ghproxy.cc,🛩️ ‍墙内
-- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
-- DOMAIN,gh.idayer.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
-- DOMAIN,gh.con.sh,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghp.ci,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghpr.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitdl.cn,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghproxy.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghproxy.cn,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghproxy.net,🛩️ ‍墙内
+- DOMAIN,gh.llkk.cc,🛩️ ‍墙内
+- DOMAIN,gh.6yit.com,🛩️ ‍墙内
+- DOMAIN,gh.tryxd.cn,🛩️ ‍墙内
+- DOMAIN,gh.pylas.xyz,🛩️ ‍墙内
+- DOMAIN,gh.nxnow.top,🛩️ ‍墙内
+- DOMAIN,gh.sixyin.com,🛩️ ‍墙内
+- DOMAIN,mirror.v2gh.com,🛩️ ‍墙内
+- DOMAIN,github-mirror.us.kg,🛩️ ‍墙内
+- DOMAIN,proxy.yaoyaoling.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
