@@ -3,16 +3,16 @@
 proxies:
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 4fd31e59-fff7-3447-aa14-3b1326515c90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 4fd31e59-fff7-3447-aa14-3b1326515c90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: d28ce802-8084-3647-a9e1-041a7a4ca83f, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: 2.okmnhxa.com, port: 29008, type: vmess, uuid: 8d0147c9-b683-3a5c-a37a-823d604086ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
-- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: 2.okmnhxa.com, port: 29009, type: vmess, uuid: 8d0147c9-b683-3a5c-a37a-823d604086ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: faffb5d0-aef3-3716-a292-661d927ee4f5, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: 2.okmnhxa.com, port: 29008, type: vmess, uuid: e75a98a6-ecef-324d-8c64-1a318a8826f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
+- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: 2.okmnhxa.com, port: 29009, type: vmess, uuid: e75a98a6-ecef-324d-8c64-1a318a8826f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
