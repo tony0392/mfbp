@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - 光年网络, server: az.globelsta.com, port: 28003, type: vmess, uuid: b646c813-7a2d-32bb-8ed9-bf87ff3e060b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: az.globelsta.com}}, udp: true}
-- {name: 🇭🇰 香港02 - 光年网络, server: jk.globelsta.com, port: 28004, type: vmess, uuid: b646c813-7a2d-32bb-8ed9-bf87ff3e060b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jk.globelsta.com}}, udp: true}
-- {name: 🇭🇰 香港03 - 光年网络, server: ny.globelsta.com, port: 28005, type: vmess, uuid: b646c813-7a2d-32bb-8ed9-bf87ff3e060b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ny.globelsta.com}}, udp: true}
-- {name: 🇭🇰 香港04 - 光年网络, server: t.globelsta.com, port: 28006, type: vmess, uuid: b646c813-7a2d-32bb-8ed9-bf87ff3e060b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: t.globelsta.com}}, udp: true}
-- {name: 🇹🇼 台湾 | 5倍消耗 - 光年网络, server: lp.okmnhxa.com, port: 29012, type: vmess, uuid: b646c813-7a2d-32bb-8ed9-bf87ff3e060b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: lp.okmnhxa.com}}, udp: true}
+- {name: 🇭🇰 香港01 - 光年网络, server: az.globelsta.com, port: 28003, type: vmess, uuid: e2819f03-5e42-37f5-a5a7-ae7cc96b2a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: az.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港02 - 光年网络, server: jk.globelsta.com, port: 28004, type: vmess, uuid: e2819f03-5e42-37f5-a5a7-ae7cc96b2a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jk.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港03 - 光年网络, server: ny.globelsta.com, port: 28005, type: vmess, uuid: e2819f03-5e42-37f5-a5a7-ae7cc96b2a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ny.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港04 - 光年网络, server: t.globelsta.com, port: 28006, type: vmess, uuid: e2819f03-5e42-37f5-a5a7-ae7cc96b2a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: t.globelsta.com}}, udp: true}
+- {name: 🇹🇼 台湾 | 5倍消耗 - 光年网络, server: lp.okmnhxa.com, port: 29012, type: vmess, uuid: e2819f03-5e42-37f5-a5a7-ae7cc96b2a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: lp.okmnhxa.com}}, udp: true}
