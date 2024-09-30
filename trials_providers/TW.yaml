@@ -7,4 +7,4 @@ proxies:
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 1c2bd064-133b-3c82-8cd5-af88fac6e28e, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 1c2bd064-133b-3c82-8cd5-af88fac6e28e, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 1c2bd064-133b-3c82-8cd5-af88fac6e28e, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 | 5倍消耗 - 光年网络, server: lp.okmnhxa.com, port: 29012, type: vmess, uuid: eaf494ea-a2db-33c6-994f-c05b02d8b302, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: lp.okmnhxa.com}}, udp: true}
+- {name: 🇹🇼 台湾 | 5倍消耗 - 光年网络, server: lp.okmnhxa.com, port: 29012, type: vmess, uuid: 45688c9f-0496-367d-9f79-7599b81721cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: lp.okmnhxa.com}}, udp: true}
