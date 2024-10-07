@@ -2,7 +2,7 @@
 auto_invite  F
 buy  pass
 email  hmibhou251@gmail.com
-last_checkin  2024-10-06 17:41:14.293077+08:00
+last_checkin  2024-10-07 17:42:31.007740+08:00
 name  西瓜皮是真的皮
 node_n  15
 sub_info  0B  10.12G  2024-08-12 09:04:54+08:00  (剩余 10.12G -1 day, 15:18:09.806759)
@@ -11,53 +11,54 @@ time  2024-08-12 17:46:42.946520+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(iaormka748@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(xcaxkxci730@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [www.qlgq.top]
 auto_invite  F
 banned_domains  psnator.com  tmpnator.live  femailtor.com
 buy  pass
 email  gjkfkpwr56@lplso.tmmad.com
-last_checkin  2024-10-06 17:41:25.871581+08:00
+last_checkin  2024-10-07 17:42:31.008763+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-10-07 17:41:25+08:00  (剩余 888G 23:59:56.455746)
+sub_info  2.013G  888.1G  2024-10-07 17:41:25+08:00  (剩余 886.1G -1 day, 23:58:25.442342)
 sub_url  https://www.qlgq.top/link/09b4f41de4fb22f8?clash=1#墙了个墙
 time  2024-10-06 17:41:26.588065+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  qynbsuoc501@gmail.com
-last_checkin  2024-10-06 17:47:42.583153+08:00
+last_checkin  2024-10-07 17:42:31.008233+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.451G  2024-10-08 18:47:42+08:00  (剩余 5.451G 2 days, 0:59:58.270810)
+sub_info  0B  5.991G  2024-10-08 18:47:42+08:00  (剩余 5.991G 1 day, 1:05:08.888229)
 sub_url  https://www.mgnet.sbs/link/YeOObxnbSExeFUOV?sub=3
 time  2024-10-06 17:47:42.900278+08:00
 type  sspanel
 
 [2.flybar20.cc]
-banned_domains  tmails.net  disbox.org  disbox.net  tmpmail.net  tmpmail.org  moakt.ws  psnator.com  smartnator.com  miteon.com
-email  wwflndo71@wfes.site
-invite_code  HA4b  10000
-last_checkin  2024-10-06 17:46:05.920682+08:00
+banned_domains  tmails.net  disbox.org  disbox.net  tmpmail.net  tmpmail.org  moakt.ws  psnator.com  smartnator.com  miteon.com  moakt.co
+email  dtlesibin6@guerrillamail.net
+invite_code  DWI9  10000
+last_checkin  2024-10-07 17:42:54.366809+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.15G  2024-10-07 17:46:04+08:00  (剩余 10.15G 23:59:55.079517)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/LzORgz6cI6ZJ228j?sub=3
-time  2024-10-06 17:46:07.094960+08:00
+sub_info  0B  10.14G  2024-10-08 17:42:52+08:00  (剩余 10.14G 23:59:51.263371)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/pX1RHn5ZIG6p6Sk9?sub=3
+time  2024-10-07 17:42:56.296502+08:00
 type  sspanel
 
 [1.lightsr.com#2天10G]
 auto_invite  F
 buy  pass
-email  csxcldclm626@gmail.com
-last_checkin  2024-10-06 17:41:16.784295+08:00
+email  mktuuax598@gmail.com
+last_checkin  2024-10-07 17:47:33.090646+08:00
 name  光年网络
 node_n  20
-sub_info  0B  10.12G  2024-10-07 17:41:16+08:00  (剩余 10.12G 23:59:56.837659)
-sub_url  https://7.ttnamvka.com/link/Xd8OoQnCNXAhsUxE?sub=3
-time  2024-10-06 17:41:17.714953+08:00
+sub_info  0B  10.6G  2024-10-08 17:47:33+08:00  (剩余 10.6G 23:59:53.564506)
+sub_url  https://8.zuhtok.com/link/afJPimMVUh9bEyRe?sub=3
+time  2024-10-07 17:47:33.990527+08:00
 type  sspanel
