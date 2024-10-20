@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: fb74e696-8551-346f-8de8-8cadb66000c8, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: fb74e696-8551-346f-8de8-8cadb66000c8, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: fb74e696-8551-346f-8de8-8cadb66000c8, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶104 - 墙了个墙, server: lavip102.qlgq.fun, port: 49643, type: trojan, password: fb74e696-8551-346f-8de8-8cadb66000c8, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶105 - 墙了个墙, server: lavip102.qlgq.fun, port: 20443, type: trojan, password: fb74e696-8551-346f-8de8-8cadb66000c8, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶106 - 墙了个墙, server: lavip102.qlgq.fun, port: 30443, type: trojan, password: fb74e696-8551-346f-8de8-8cadb66000c8, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 3c9cee69-4bee-39af-93cb-9a8c504d6ff6, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 3c9cee69-4bee-39af-93cb-9a8c504d6ff6, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 3c9cee69-4bee-39af-93cb-9a8c504d6ff6, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶104 - 墙了个墙, server: lavip102.qlgq.fun, port: 49643, type: trojan, password: 3c9cee69-4bee-39af-93cb-9a8c504d6ff6, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶105 - 墙了个墙, server: lavip102.qlgq.fun, port: 20443, type: trojan, password: 3c9cee69-4bee-39af-93cb-9a8c504d6ff6, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶106 - 墙了个墙, server: lavip102.qlgq.fun, port: 30443, type: trojan, password: 3c9cee69-4bee-39af-93cb-9a8c504d6ff6, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
