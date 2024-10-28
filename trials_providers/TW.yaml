@@ -3,45 +3,31 @@
 proxies:
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: 075c16e6-67cb-3599-aa5a-025b478db156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: 075c16e6-67cb-3599-aa5a-025b478db156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾01 - 老猫云, server: 33358.laomao-53875.xyz, port: 50301, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾02 - 老猫云, server: 33618.laomao-53875.xyz, port: 50302, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾03 - 老猫云, server: 33648.laomao-53875.xyz, port: 50303, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾04 - 老猫云, server: 3948.laomao-53875.xyz, port: 50304, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾05 - 老猫云, server: 91618.laomao-53875.xyz, port: 50305, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾06 - 老猫云, server: 33918.laomao-53875.xyz, port: 50306, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾07 - 老猫云, server: 91418.laomao-53875.xyz, port: 50307, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾08 - 老猫云, server: 33698.laomao-53875.xyz, port: 50308, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾09 - 老猫云, server: 71618.laomao-53875.xyz, port: 50309, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾10 - 老猫云, server: 33668.laomao-53875.xyz, port: 50310, type: trojan, password: 2bed4df2-d77f-42d8-9a53-09a2172b098c, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01 - 老猫云, server: 33358.laomao-53875.xyz, port: 50301, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾02 - 老猫云, server: 33618.laomao-53875.xyz, port: 50302, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03 - 老猫云, server: 33648.laomao-53875.xyz, port: 50303, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾04 - 老猫云, server: 3948.laomao-53875.xyz, port: 50304, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾05 - 老猫云, server: 91618.laomao-53875.xyz, port: 50305, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾06 - 老猫云, server: 33918.laomao-53875.xyz, port: 50306, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾07 - 老猫云, server: 91418.laomao-53875.xyz, port: 50307, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾08 - 老猫云, server: 33698.laomao-53875.xyz, port: 50308, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾09 - 老猫云, server: 71618.laomao-53875.xyz, port: 50309, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾10 - 老猫云, server: 33668.laomao-53875.xyz, port: 50310, type: trojan, password: b2ed935f-1de0-47b5-89e8-ca9d5072df9e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id001 {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id002 {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id003 {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id004 {name: 🇹🇼 Game 台湾04-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 908, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id005 {name: 🇹🇼 Game 台湾05-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9040, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id006 {name: 🇹🇼 Game 台湾06-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 835, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id007 {name: 🇹🇼 Game 台湾07-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 905, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id008 {name: 🇹🇼 Game 台湾08-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 904, type: ss, cipher: aes-128-gcm, password: a12cloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id009 {name: 🇹🇼 Video 台湾A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9048, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id010 {name: 🇹🇼 Video 台湾B-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9022, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id011 {name: 🇹🇼 Video 台湾C-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 916, type: ss, cipher: aes-128-gcm, password: fsfal2, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id012 {name: 🇹🇼 Video 台湾D-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 926, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id013 {name: 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 39004, type: ss, cipher: aes-128-gcm, password: ayds23sd1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- &id014 {name: 🇹🇼 Web 台湾I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
-- *id012
-- *id013
-- *id014
+- {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Game 台湾04-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 908, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Game 台湾05-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9040, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Game 台湾06-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 835, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Game 台湾07-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 905, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Game 台湾08-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 904, type: ss, cipher: aes-128-gcm, password: a12cloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Video 台湾A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9048, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Video 台湾B-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9022, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Video 台湾C-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 916, type: ss, cipher: aes-128-gcm, password: fsfal2, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Video 台湾D-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 926, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 39004, type: ss, cipher: aes-128-gcm, password: ayds23sd1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Web 台湾I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}

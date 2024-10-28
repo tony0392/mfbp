@@ -5,7 +5,7 @@ email  zfqsofpr413@gmail.com
 last_checkin  2024-10-28 10:52:22.831247+08:00
 name  MG Network
 node_n  11
-sub_info  908.1M  6.817G  2024-10-28 23:11:44+08:00  (剩余 5.931G 9:27:03.454345)
+sub_info  908.9M  6.817G  2024-10-28 23:11:44+08:00  (剩余 5.93G 8:37:32.354245)
 sub_url  https://www.mgnet.sbs/link/dcwoeTqIJgX66vq5?sub=3
 time  2024-10-26 22:11:46.040434+08:00
 type  sspanel
@@ -13,7 +13,7 @@ type  sspanel
 [vipxgyun.com#西瓜皮]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ojoavrj396@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(dvdbyrlt826@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [2.flybar20.cc]
 email  bfrzuzff135@jkb.tmmad.com
@@ -21,7 +21,7 @@ invite_code  d3vC  10000
 last_checkin  2024-10-28 11:27:15.311038+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.16G  2024-10-29 11:27:13+08:00  (剩余 10.16G 21:42:29.069738)
+sub_info  5.26M  10.16G  2024-10-29 11:27:13+08:00  (剩余 10.15G 20:53:00.295635)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/wHhel4Eg8RHrBXdB?sub=3
 time  2024-10-28 11:27:16.632987+08:00
 type  sspanel
@@ -33,25 +33,25 @@ type  sspanel
 [v.spwvpn.com#麻雀加速器]
 name  Sparrow 麻雀加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(aonmgvjwo812@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(ocijkvk868@gmail.com): 本站已关闭注册
 
 [koumakan.quickline.top#红魔]
-banned_domains  btcstar.site
+banned_domains  btcstar.site  111.vzfpx.shop
 name  红魔馆网络
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(bpvmnewcn35@btcstar.site)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ajqooysbf483@111.vzfpx.shop)
 
 [www.1jichang.xyz#一机场]
 
 [zhenshihui.shop]
 name  真实惠
 type  v2board
-更新订阅链接/续费续签失败  注册失败(iadgtzh160@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(lojynber31@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 name  云猫机场 - 免费公益
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fdfzbnhys169@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xrnisqrqt999@gmail.com): 'NoneType' object is not subscriptable
 
 [huamaoyun.live#花猫云]
 
@@ -73,18 +73,18 @@ type  v2board
 api_host  ww38.cloud.doushimeng.com
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(tlialnq825@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(uwzmwujw865@gmail.com): HTTPSConnectionPool(host='ww38.cloud.doushimeng.com', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ww38.cloud.doushimeng.com'. (_ssl.c:1007)")))
 
 [www.yongdong.xyz]
 
 [cloud.colacloud.site #可乐云]
 
 [portal.passgfw.top]
-email  vddzqopyg643@gmail.com
+email  vbdezogu543@gmail.com
 name  WindyCloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=74e0d9a8789b26174006b1b57bd0e8fd
-time  2024-10-28 13:44:40.906270+08:00
+sub_url  https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=7c72f36b159850821e964203d128ef77
+time  2024-10-28 14:34:19.301684+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -96,7 +96,7 @@ type  v2board
 api_host  www.bigme.pro
 name  高可用性服务商 | BigME
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hascwfe214@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(pkimuio592@gmail.com): 'NoneType' object is not subscriptable
 
 [pigvip.xyz]
 
@@ -111,12 +111,12 @@ type  v2board
 [ftq.wiki]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(nvxkxcuot760@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-n-head-ssr lang="en" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22en%22%7D%7D">\n <head >\n <meta data-n-head="ssr" charset="utf-8"><meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><meta data-n-head="ssr" data-hid="description" name="description" content=""><meta data-n-head="ssr" name="format-detection" content="telephone=no"><meta data-n-head="ssr" httpEquiv="x-dns-prefetch-control" content="on"><meta data-n-head="ssr" name="DNS-Prefetch" content="on"><meta data-n-head="ssr" name="google" content="notranslate"><meta data-n-head="ssr" name="og:title" content=""><meta data-n-head="ssr" name="og:url" content=""><meta data-n-head="ssr" name="og:description" content=""><meta data-n-head="ssr" name="og:image" content=""><meta data-n-head="ssr" name="og:type" content="website"><link data-n-head="ssr" rel="icon" type="image/x-icon" href="data:;base64,="><link data-n-head="ssr" type="font/woff2" href="/assets/iconfont/style.css" rel="preload"><link data-n-head="ssr" rel="icon" type="image/x-icon" href=""><script data-n-head="ssr" data-hid="ldjson-schema-facebook" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-google" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-tiktok" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-line" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-snapchat" async defer></script><link rel="preload" href="/_nuxt/runtime.d0a83b8.js" as="script"><link rel="preload" href="/_nuxt/commons/app/9c3c11b1.b6debbd.js" as="script"><link rel="preload" href="/_nuxt/commons/app/2a42e354.2f65e48.js" as="script"><link rel="preload" href="/_nuxt/commons/app/d939e436.ca626a3.js" as="script"><link rel="preload" href="/_nuxt/commons/app/93acefaf.8bd80b1.js" as="script"><link rel="preload" href="/_nuxt/commons/app/f9ca8911.9a84fda.js" as="script"><link rel="preload" href="/_nuxt/commons/app/90405b64.ad6de4a.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/69780e7c.ea82306.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/8adeac4a.1871965.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/b5906859.3668b95.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/fdadd360.f1e5e67.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/cfbf0a2e.46dcf45.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/b9dfcab5.86f8041.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/205977d4.265b73a.js" as="script"><link rel="preload" href="/_nuxt/app/f69643ec.699d26f.js" as="script"><link rel="preload" href="/_nuxt/app/8efa95d1.6a0a77c.js" as="script"><link rel="preload" href="/_nuxt/app/62c9d40e.94106ae.js" as="script"><link rel="preload" href="/_nuxt/app/01e7b97c.f2634ca.js" as="script"><link rel="preload" href="/_nuxt/app/30ccc425.134c27f.js" as="script"><link rel="preload" href="/_nuxt/pages/productDetail/index/01e7b97c.857104b.js" as="script"><style data-vue-ssr-id="27366cd4:0">body,html{overflow-x:hidden}*{box-sizing:border-box;margin:0;padding:0}</style><style data-vue-ssr-id="7d676bdd:0">.nuxt-progress{background-color:#000;height:2px;left:0;opacity:1;position:fixed;right:0;top:0;transition:width .1s,opacity .4s;width:0;z-index:999999}.nuxt-progress.nuxt-progress-notransition{transition:none}.nuxt-progress-failed{background-color:red}</style><style data-vue-ssr-id="35af3a51:0">.loading-bg[data-v-17d6c11c]{background-color:#f5f8fb;height:100vh;margin:0 auto;width:100vw}.loading-bg[data-v-17d6c11c],.loading-wrap[data-v-17d6c11c]{align-items:center;display:flex;justify-content:center}.loading-wrap[data-v-17d6c11c]{height:100%;left:0;position:absolute;top:0;width:100%}.loading[data-v-17d6c11c]{animation:loading-17d6c11c .75s linear infinite;border:3px solid;border-color:#999 #999 transparent;border-radius:50%;display:inline-block;height:40px;margin:6px;vertical-align:middle;width:40px}@keyframes loading-17d6c11c{0%{-webkit-transform:rotate(0deg)}50%{-webkit-transform:rotate(180deg)}to{-webkit-transform:rotate(1turn)}}</style>\n </head>\n <body >\n <div data-server-rendered="true" id="__nuxt"><!----><div id="__layout"><div data-v-17d6c11c><div class="client-only-placeholder" data-v-17d6c11c data-v-17d6c11c><div class="loading-bg" data-v-17d6c11c><img src="/_nuxt/img/empty-img.f7c5ff7.png" alt="" style="width:100%;max-width:375px;" data-v-17d6c11c></div> <div class="loading-wrap" data-v-17d6c11c><div class="loading" data-v-17d6c11c>\xa0</div></div></div></div></div></div><script>window.__NUXT__=(function(a,b,c){return {layout:"default",data:[{title:a,url:a,introductoryTitle:a,coverUrl:a}],fetch:{},error:b,state:{detail:{theme:a,lang:a,currency_symbol:a,currencyCode:a,sale_price:a,market_price:a,identity_tag:a,userFormSettings:a,sale_type:a,title:a,introductoryTitle:a,product_banner:[],product_logo:a,service_charge:a,service_email:a,zone_freight:a,remoteAreasPostage:a,zone_title:a,zone_title_out:a,zone_id:a,telephoneAreaCode:a,whatsappLink:a,lineLink:a,facebookLink:a,whatsapp:a,facebook:a,line:a,productList:[],skuList:[],productComboList:a,logisticsMethods:a,backHomeFlag:a,url:a,navigationName:a,navigationId:a,specificationType:a,iconUrl:a,level:a,saleQty:2526,symbolReverse:c,productSizeUrl:a,productCouponList:[],regionId:a,multiLocaleSetupProductDetails:[],recommendProductDetails:a,recommendProductType:a,productRecommendDTOList:a,paymentMethods:a,content:a,sellerContactWhatsapp:a,sellerContactLine:a,sellerContactFacebook:a,sellerContactMessenger:a,sellerContactInstagram:a,templateCode:a,slideshow:[],comprehensiveStationStyle:a,buyUpperLimit:100,siteType:a,regionLogisticsMethodUploadUrlDTOList:[]},sku:{},form:{},coupon:{hasGetCoupon:c,proId:a},order:{},orderStyle:a,lang:"1",paymentResult:a,navigation:[],tabIndex:b,index1:b,index2:b,region:1,lastCache:a,cart:[],i18n:{routeParams:{}}},serverRendered:true,routePath:"\\u002Fauth\\u002Fregister",config:{_app:{basePath:"\\u002F",assetsPath:"\\u002F_nuxt\\u002F",cdnURL:b}}}}("",null,false));</script><script src="/_nuxt/runtime.d0a83b8.js" defer></script><script src="/_nuxt/pages/productDetail/index/01e7b97c.857104b.js" defer></script><script src="/_nuxt/commons/app/9c3c11b1.b6debbd.js" defer></script><script src="/_nuxt/commons/app/2a42e354.2f65e48.js" defer></script><script src="/_nuxt/commons/app/d939e436.ca626a3.js" defer></script><script src="/_nuxt/commons/app/93acefaf.8bd80b1.js" defer></script><script src="/_nuxt/commons/app/f9ca8911.9a84fda.js" defer></script><script src="/_nuxt/commons/app/90405b64.ad6de4a.js" defer></script><script src="/_nuxt/vendors/app/69780e7c.ea82306.js" defer></script><script src="/_nuxt/vendors/app/8adeac4a.1871965.js" defer></script><script src="/_nuxt/vendors/app/b5906859.3668b95.js" defer></script><script src="/_nuxt/vendors/app/fdadd360.f1e5e67.js" defer></script><script src="/_nuxt/vendors/app/cfbf0a2e.46dcf45.js" defer></script><script src="/_nuxt/vendors/app/b9dfcab5.86f8041.js" defer></script><script src="/_nuxt/vendors/app/205977d4.265b73a.js" defer></script><script src="/_nuxt/app/f69643ec.699d26f.js" defer></script><script src="/_nuxt/app/8efa95d1.6a0a77c.js" defer></script><script src="/_nuxt/app/62c9d40e.94106ae.js" defer></script><script src="/_nuxt/app/01e7b97c.f2634ca.js" defer></script><script src="/_nuxt/app/30ccc425.134c27f.js" defer></script>\n </body>\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(hrmthau207@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-n-head-ssr lang="en" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22en%22%7D%7D">\n <head >\n <meta data-n-head="ssr" charset="utf-8"><meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><meta data-n-head="ssr" data-hid="description" name="description" content=""><meta data-n-head="ssr" name="format-detection" content="telephone=no"><meta data-n-head="ssr" httpEquiv="x-dns-prefetch-control" content="on"><meta data-n-head="ssr" name="DNS-Prefetch" content="on"><meta data-n-head="ssr" name="google" content="notranslate"><meta data-n-head="ssr" name="og:title" content=""><meta data-n-head="ssr" name="og:url" content=""><meta data-n-head="ssr" name="og:description" content=""><meta data-n-head="ssr" name="og:image" content=""><meta data-n-head="ssr" name="og:type" content="website"><link data-n-head="ssr" rel="icon" type="image/x-icon" href="data:;base64,="><link data-n-head="ssr" type="font/woff2" href="/assets/iconfont/style.css" rel="preload"><link data-n-head="ssr" rel="icon" type="image/x-icon" href=""><script data-n-head="ssr" data-hid="ldjson-schema-facebook" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-google" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-tiktok" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-line" async defer></script><script data-n-head="ssr" data-hid="ldjson-schema-snapchat" async defer></script><link rel="preload" href="/_nuxt/runtime.d0a83b8.js" as="script"><link rel="preload" href="/_nuxt/commons/app/9c3c11b1.b6debbd.js" as="script"><link rel="preload" href="/_nuxt/commons/app/2a42e354.2f65e48.js" as="script"><link rel="preload" href="/_nuxt/commons/app/d939e436.ca626a3.js" as="script"><link rel="preload" href="/_nuxt/commons/app/93acefaf.8bd80b1.js" as="script"><link rel="preload" href="/_nuxt/commons/app/f9ca8911.9a84fda.js" as="script"><link rel="preload" href="/_nuxt/commons/app/90405b64.ad6de4a.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/69780e7c.ea82306.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/8adeac4a.1871965.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/b5906859.3668b95.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/fdadd360.f1e5e67.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/cfbf0a2e.46dcf45.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/b9dfcab5.86f8041.js" as="script"><link rel="preload" href="/_nuxt/vendors/app/205977d4.265b73a.js" as="script"><link rel="preload" href="/_nuxt/app/f69643ec.699d26f.js" as="script"><link rel="preload" href="/_nuxt/app/8efa95d1.6a0a77c.js" as="script"><link rel="preload" href="/_nuxt/app/62c9d40e.94106ae.js" as="script"><link rel="preload" href="/_nuxt/app/01e7b97c.f2634ca.js" as="script"><link rel="preload" href="/_nuxt/app/30ccc425.134c27f.js" as="script"><link rel="preload" href="/_nuxt/pages/productDetail/index/01e7b97c.857104b.js" as="script"><style data-vue-ssr-id="27366cd4:0">body,html{overflow-x:hidden}*{box-sizing:border-box;margin:0;padding:0}</style><style data-vue-ssr-id="7d676bdd:0">.nuxt-progress{background-color:#000;height:2px;left:0;opacity:1;position:fixed;right:0;top:0;transition:width .1s,opacity .4s;width:0;z-index:999999}.nuxt-progress.nuxt-progress-notransition{transition:none}.nuxt-progress-failed{background-color:red}</style><style data-vue-ssr-id="35af3a51:0">.loading-bg[data-v-17d6c11c]{background-color:#f5f8fb;height:100vh;margin:0 auto;width:100vw}.loading-bg[data-v-17d6c11c],.loading-wrap[data-v-17d6c11c]{align-items:center;display:flex;justify-content:center}.loading-wrap[data-v-17d6c11c]{height:100%;left:0;position:absolute;top:0;width:100%}.loading[data-v-17d6c11c]{animation:loading-17d6c11c .75s linear infinite;border:3px solid;border-color:#999 #999 transparent;border-radius:50%;display:inline-block;height:40px;margin:6px;vertical-align:middle;width:40px}@keyframes loading-17d6c11c{0%{-webkit-transform:rotate(0deg)}50%{-webkit-transform:rotate(180deg)}to{-webkit-transform:rotate(1turn)}}</style>\n </head>\n <body >\n <div data-server-rendered="true" id="__nuxt"><!----><div id="__layout"><div data-v-17d6c11c><div class="client-only-placeholder" data-v-17d6c11c data-v-17d6c11c><div class="loading-bg" data-v-17d6c11c><img src="/_nuxt/img/empty-img.f7c5ff7.png" alt="" style="width:100%;max-width:375px;" data-v-17d6c11c></div> <div class="loading-wrap" data-v-17d6c11c><div class="loading" data-v-17d6c11c>\xa0</div></div></div></div></div></div><script>window.__NUXT__=(function(a,b,c){return {layout:"default",data:[{title:a,url:a,introductoryTitle:a,coverUrl:a}],fetch:{},error:b,state:{detail:{theme:a,lang:a,currency_symbol:a,currencyCode:a,sale_price:a,market_price:a,identity_tag:a,userFormSettings:a,sale_type:a,title:a,introductoryTitle:a,product_banner:[],product_logo:a,service_charge:a,service_email:a,zone_freight:a,remoteAreasPostage:a,zone_title:a,zone_title_out:a,zone_id:a,telephoneAreaCode:a,whatsappLink:a,lineLink:a,facebookLink:a,whatsapp:a,facebook:a,line:a,productList:[],skuList:[],productComboList:a,logisticsMethods:a,backHomeFlag:a,url:a,navigationName:a,navigationId:a,specificationType:a,iconUrl:a,level:a,saleQty:2526,symbolReverse:c,productSizeUrl:a,productCouponList:[],regionId:a,multiLocaleSetupProductDetails:[],recommendProductDetails:a,recommendProductType:a,productRecommendDTOList:a,paymentMethods:a,content:a,sellerContactWhatsapp:a,sellerContactLine:a,sellerContactFacebook:a,sellerContactMessenger:a,sellerContactInstagram:a,templateCode:a,slideshow:[],comprehensiveStationStyle:a,buyUpperLimit:100,siteType:a,regionLogisticsMethodUploadUrlDTOList:[]},sku:{},form:{},coupon:{hasGetCoupon:c,proId:a},order:{},orderStyle:a,lang:"1",paymentResult:a,navigation:[],tabIndex:b,index1:b,index2:b,region:1,lastCache:a,cart:[],i18n:{routeParams:{}}},serverRendered:true,routePath:"\\u002Fauth\\u002Fregister",config:{_app:{basePath:"\\u002F",assetsPath:"\\u002F_nuxt\\u002F",cdnURL:b}}}}("",null,false));</script><script src="/_nuxt/runtime.d0a83b8.js" defer></script><script src="/_nuxt/pages/productDetail/index/01e7b97c.857104b.js" defer></script><script src="/_nuxt/commons/app/9c3c11b1.b6debbd.js" defer></script><script src="/_nuxt/commons/app/2a42e354.2f65e48.js" defer></script><script src="/_nuxt/commons/app/d939e436.ca626a3.js" defer></script><script src="/_nuxt/commons/app/93acefaf.8bd80b1.js" defer></script><script src="/_nuxt/commons/app/f9ca8911.9a84fda.js" defer></script><script src="/_nuxt/commons/app/90405b64.ad6de4a.js" defer></script><script src="/_nuxt/vendors/app/69780e7c.ea82306.js" defer></script><script src="/_nuxt/vendors/app/8adeac4a.1871965.js" defer></script><script src="/_nuxt/vendors/app/b5906859.3668b95.js" defer></script><script src="/_nuxt/vendors/app/fdadd360.f1e5e67.js" defer></script><script src="/_nuxt/vendors/app/cfbf0a2e.46dcf45.js" defer></script><script src="/_nuxt/vendors/app/b9dfcab5.86f8041.js" defer></script><script src="/_nuxt/vendors/app/205977d4.265b73a.js" defer></script><script src="/_nuxt/app/f69643ec.699d26f.js" defer></script><script src="/_nuxt/app/8efa95d1.6a0a77c.js" defer></script><script src="/_nuxt/app/62c9d40e.94106ae.js" defer></script><script src="/_nuxt/app/01e7b97c.f2634ca.js" defer></script><script src="/_nuxt/app/30ccc425.134c27f.js" defer></script>\n </body>\n</html>\n')
 
 [22.lownet.xyz]
 name  fastest
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vegcvriio412@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(tknnycj958@gmail.com): 'NoneType' object is not subscriptable
 
 [mg.1yuancn.top]
 
@@ -143,12 +143,12 @@ type  v2board
 banned_domains  tmail.ws
 name  Tannel中继网络服务
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"excwcocq534@mxl001.win","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ptjqizqth809@teml.net): {'ret': 0, 'msg': '非法请求'}
 
 [www.17kana.com]
 name  一起飞
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(koiqybpac631@gmail.com): 未开放注册。
+更新订阅链接/续费续签失败  注册失败(yydbbpjql573@gmail.com): 未开放注册。
 
 [bee.sulepay.com]
 
@@ -157,7 +157,7 @@ email  gllmuhde807@gmail.com
 last_checkin  2024-10-28 13:44:40.719535+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2024-11-27 13:44:40+08:00  (剩余 1T 29 days, 23:59:54.940071)
+sub_info  193.4M  1T  2024-11-27 13:44:40+08:00  (剩余 1024G 29 days, 23:10:23.570297)
 sub_url  https://tt1.db-link.in/link/6xj0owv4TjmJV5P9?sub=3
 time  2024-10-28 13:44:41.618554+08:00
 type  sspanel
@@ -178,7 +178,7 @@ type  sspanel
 buy  period=month_price&plan_id=8
 email  tinpazv908@gmail.com
 name  养老机场-Hy2
-sub_info  0B  20G  2024-11-28 13:45:26+08:00  (剩余 20G 30 days, 23:55:51.376168)
+sub_info  0B  20G  2024-11-28 13:45:26+08:00  (剩余 20G 30 days, 23:04:32.983682)
 sub_url  https://0a4846fa-2216-4cc7-9aa4-8554a6b0e477.xn--l6qx3lcvp58x.com/api/v1/client/subscribe?token=3d2a8ab63821c69683fd03b3e8366ed8
 time  2024-10-28 13:44:42.168343+08:00
 type  v2board
@@ -191,17 +191,17 @@ type  v2board
 [www.chaojijichang.com]
 name  超级机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(kgwvtmeim329@linshiyou.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [www.ckcloud.xyz]
 
 [fastestcloud.xyz]
 buy  pass
-email  lpnitud887@gmail.com
+email  euibhxtr596@gmail.com
 name  FastFly
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=784c42877525978966186439e6d9a6a0
-time  2024-10-28 13:44:41.877663+08:00
+sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=75a5d6b3ff7e06948fc629c77b3da198
+time  2024-10-28 14:34:23.161262+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -220,11 +220,13 @@ type  v2board
 [sockboom.link]
 name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cuhwuilan640@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+更新订阅链接/续费续签失败  注册失败(ddmertfpw468@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
 [cyanmori.com]
 
 [www.flybar4.cc]
+auto_invite  T
+invite_code  coKa  10000
 name  飞翔吧
 type  sspanel
 更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
@@ -237,24 +239,24 @@ type  sspanel
 
 [yingwuyun.top]
 buy  pass
-email  ocrovyrl213@gmail.com
+email  pbevotpv674@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.club/api/v1/client/subscribe?token=33ec1874ab49dc67830c1ab22ed816fd
-time  2024-10-28 13:44:43.003866+08:00
+sub_url  https://yingwuyun.club/api/v1/client/subscribe?token=b648fcde00cd617f7f20ae64ad679df4
+time  2024-10-28 14:34:17.698273+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [iqiaqia.xyz]
-banned_domains  guerrillamail.com
+banned_domains  guerrillamail.com  guerrillamail.org
 name  恰恰- 有情怀的Ai加速服务商
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(tgevhezm172@guerrillamail.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(qwrjvpwhs820@guerrillamail.org)
 
 [cryxr.xyz]
 name  探索者
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rblnouitb131@mydefipet.live): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"suhqbyk552@mail.wvwvw.tech","success":"false"}'
 
 [www.crew.icu]
 
@@ -265,15 +267,15 @@ type  v2board
 [ziyun.cyou]
 name  紫云VPN服务商
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(whuhjba626@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="120"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "ziyun.cyou",cType: \'non-interactive\',cRay: \'8d989d921b017e95\',cH: \'8ek6KeWgCRWufUKBVqGlhvxa1zSSqsUSYDm062TZNrM-1730094282-1.2.1.1-1shdH9EwaWRHZhYrA1RMpVsME4RujrAnEMXSD_jkk_tOpnQHwDIU6CwhyZLcy4_Z\',cUPMDTk: "\\/auth\\/register?__cf_chl_tk=0ytq4HadxbfqPhV1IXWIon9XkRgHbNN4EfbrtBc2x1M-1730094282-1.0.1.1-I4E2LoelHVCozYCFi9iyvXH5M2f4au1nrpXXzZgwKnU",cFPWv: \'b\',cITimeS: \'1730094282\',cTTimeMs: \'1000\',cMTimeMs: \'120000\',cTplV: 5,cTplB: \'cf\',cK: "",fa: "\\/auth\\/register?__cf_chl_f_tk=0ytq4HadxbfqPhV1IXWIon9XkRgHbNN4EfbrtBc2x1M-1730094282-1.0.1.1-I4E2LoelHVCozYCFi9iyvXH5M2f4au1nrpXXzZgwKnU",md: "34laNvSG4HEorxaBqO.cAClLRslWu08dckduxHZLyWU-1730094282-1.2.1.1-SFXqbfu1IMIvK2cV6.bV6g.XgTH5xQNzeIyTekPdLfTunnp7qCGJLVULIQGo5S9IVUTDxGP_QbZK18LC_r_n3KcB26QhfMW5a62VIRGQ3WDeYgutfZ6kPyO6DpgtKsUU9zd95CyjeP3VZtItDW1nzXlwlcPgvgSZ8koeX5POLlnd1WDPKlJqix0huqINFXyntN8KfilR4LOSvSOSgxAAgzXZDsxdDQXmKbaRSmakmpt0H.mBcWEm0sVPbcTzrpstbjJjd8YZp0Nev.ouOUpfXLHNZKtkLVMyxhJNVNZIhbOCQu3c3qu6n8g8XrTrlKexTa8iiewxp4HGC.8SgbY3EiHDgDjerRYeqjPpZnLpB.QHytGnbl9WZPUnpRWGCO771UDwK8_JHqLzB6dyR3iMOHaBa1WgbUaf3Z6ohts0Ve_SOOTZQx.0kYOhSOxyZZAXPxsbktSkWZHtljIta9JFWDQ4RSaSqJHiH3T6UaCzWkcChMP_WdT_fWhZXTy0qDbhQnfink7JiQmA7w9hFzJLCe2yGaFQHBxXfbsfojSV.Zec8v7Qqo.kxJnhTIlcaDwdPGjnZeR6DokGq4BsKdI9nxyL8mc6U9ZEw0gSksRVBmFaFXAYKcMC7MHjPpvuOHsMu1uCDVsNmkJG3dvXqOStWld2htZwWCBFqt2EWNjB35VNcSEUOut3gnwpa_chipGC7oX.drN4_GpbfqwVgHSXmjKXJzHmabB2OgLiNzVEU37WCLiD9bKCSwEQs4iTvOQAhbYhNyeoNMC3Z8SBMYhkIFjUqwZgy1a0LQfs.sRyoicoWQ1tBHAC_fAN0CZlF9l7_IiEa0vnC2p.8GSrYWPQaRD4MXm_HZSEcfwtGTH4O1Tz9qCRP_z3YaNsXrBDS0UUWgE9vUTWE87n_gAG9zLZLjoNBOScAm5WiScCPUhnB88vztaAEKTpJpy8.WJ08FT_zrc3P9x7ERETGCrDk.O.oh.s1zOq0jGO_n9._hyuAzJXhQce3CTjPl3GF0nC03KECbVe8zkdsMJUNmYRRjTn54jxlGYgsaZZuUvhVoVIeFICag0.6CD2AO.Lg6dl22AxfVRuUJl9CUgkYfuU__gLK0m3aaeRoCCZEXcUuKB5Sd9YDc32LgJCbX_.zvVJThjyygg0hw9sqDmBFrTVFlj9e.UjaYD1eoLbfl_R7xlQRAHeaivRs8.uDscioteGta_EIo4ASgtzcf9VzaPEaWEoEniPQGe3isbbtOXv8CBzgCTCQ9I2eWWKutL.vtIqNbwrqr4cMkerRiW9146sEGt2eMN_tm_BppOm2d1hUuYhEszHGG9qEbO5EtkutnbM9Surif6LFgOPBx0gL8HRfw0Cxyx53x1zXPSW_EOMiKRVWXVYMjPfT_ANXV.5AKHt42tvDA1l1k_w2fPcE39MTkRzZBDJcll_X9US8QZuvB6Ae73aabGj36kK30zq0KQPnrQPVKfJrIONe2l9hldL.q9c4a.fG90.6cXBiEbssmrhvicoPbTKWpXo1TFFGMXsLyhKQ35O4660YJzTg9nbQL1XhTffKFh1Y.qhfuPUsf110JQ3Xq_KRo2hhmwOnCfyw.4IhZGBIJ58Bua1DqIfyNelASIGPbrDRRZufc6CjSupm06cyt0uXnaj4.2jXq6gD.EVzdQwCi..sOYG9mopshJXRNRekVpqrB0oyj.T.E5qmIIGGD11GrGu_L9c9VxgL0pVFjgPXg2yueGYp92dS6e0HOmhCTd2iKK5IE5jItXncX4ltbAuYGNFrT1ZUflEPZEqHhl2ddE6q649VESxTOdLXKV19WwiTXGp2tbWj.lcfF3bStb7SqNKh93H14aFRuciWwaxu2LCrbyk.MWxmJ5DhsbknTynWMRKaf9X2nV8f7knButF7HNKXUNH61xP6vQMArqIpWCSZbCvf0ZF5lSN6Q",mdrd: "QrGx05ifiDpEX3NfAoF6HpzdTdtUNhttdX4wj2t1tp4-1730094282-1.2.1.1-6AkQLEwO6ExjowiZgc33sxEDc43w8SAWAXNYK9StfsCLyDbUpXU.ICVt1CZA30kMbOmfsgLX9lwk_Gf_RCFMGXHiYL64z7JBgdSbvcge81EkVGXRADxV3iqocVl47P3MK_Qby2ShBpejiVLJ30m5Q6JswiF8exIlMfUU4QKPFsRFQlAivFJO_p_sNaf1RjrDE9XFdnicCnba9xiE5VcllRLDvqlM3P34a2zbNgF6NTH_PT2h0pqo9nu66MjQayeVkWVXZYWZBHDv_3d9MKr12y_u2FcnqzupTm_uAkAH4u.UhaYvZmWMSxGf5mjQyCNst3gg26nQgydXiM6zECHuSCKfWpe2av9x82uethXxQejnCqe3jRz2NgzPNRYZCGJXsPMtHbVMUHw.bYj8PNbZfArbzcsavBmOzQEOleAvAKcTTiq16BJTeY2_i9JJIyOJt13ciTMM0HlnLeyU3ntIdMddj_Ev1n9bOUUQxw7l9wRZOGEkur2gunmgC3oxYT10PPJVZrsCMYKJRWMfrTbJvZ4n8z9uNp9COrsdeH7GvFpErdAm5vONwX_WsK0i65V1Pu9UOMcKxLB.GojtRma2iNnWnvrfwiQjgZm.59J8grPzyfx_3BJj0svq6KYiDVd2AJQAxC4pod4Jnc8xE7JynVFqTqdkXfq42GxOAzWAhgk5MNSMkxaeFB_lqrH5zL7fxxgEmvS8DKSVdMUyMlgTU5VmnonkJ22.EKUOBQAvAvFfUD8bZzmiVLVc7h41PqK1KvEwrajXSqvYsLHNBZ2xH5TsVUnA1uEuAwvpJH5VexJqRyVK.LRxu7fQTMYqcOHHCAIub7cYeAeh0QV8hU0ThLIZgtZKO_WIZdS8lUfPjJ5s6j1KEkcIo9TYQotLlPRIWK8KPPpCdM32jmAO0zVFIZD5hg5gf0fbdV8txFD861JODoeFhXNs0QBRTiP.DB0HP5GfhDmE1Qlh1CWADLuL9UOVTvBFkfm2Ya48FfS0ie7gbeSz1tznzUu65nEQkqoE3cm7YgG2lIgzfek_EtAGcJzORbEcszPYLDdCX0kgZVlJT3lo2KpexoNK89.Bhx.TMsMxs0_n7JelptjE98PanQflCMdohZZXsJsO.JqOnp3KUyzQskQinKilKLdDv7Z25YCnuLlx14u.MtoEeevVFJqhVO7Dw9KsOpPr8CYEne81OUXdRV8dcDRjp5xFQtIdDTcIcrs3pk6UhbbnYdKrd64jrSWpnE71mRjgvyXgGoR4iaBcCQnXqTDGTIHJpDiXXW7ez0qy38qda3pOBNqyA1QC3m7IUJee9gXtm7HCnwez0XWBJRV.oICMr.zN0w9K17oycR7QdMkSrwa0dTlVhw6R98koM2ej09C4RL5gmsR8.RkHM0Xi7G4Rfltv9qoLCpDtm71kv1JgTyQivkptZPTGVW7xNqTTfrBZztjxJNVY0jFRALCrWFMKDuNHliyDy2oYzIusevML4HRCsa22SMKg7lR0Hv_Pj8ofkHrBpD1X9PT8bF_.u1XPt7G5CWtmuSAPgn4e2KvQFusONF1AZfnQUuRYt0JixwmHM59xeIVcwq6Vyder6qHMp_9sCLE8zoM7cmtgroX1G5_0cc5SSvcpiyTYJzT4MC0MrG9_7h69QBAXhneHJrQ07IZXWOukTRYMaha_5woF4QxggChfTP1uJj1mDUP.OX_eqgeFv0Nn8IxE0XL0zKINtXyZbbcXN44rSfup.6oLyFzxct2BJ.VAnhOlQ94E0NYs5UuE2jWNvcdJjd2GJ4e98hLDTM4hqSojurNp3f.4YKSFDXaO.2NQc.nhJtuzzjpJOi8S4ccxB3lrq9bBRdSczEd19k8MgU5oS1nXm05mGQCGE4gwcGi6.pXHltvbmw1IVgLvyQgwM6vS4vMFIyATxJZ8Yd6eI67Cq6WTC1Ixf9A2ZZPdYLUf9mwASe0DzzJ0SPTFhbwbaejm9xBXidB9sb6ERZvYXFq3TPfXHNFAFy1i2omb0pJS4oN1j11DgiNIlvCvgR6NbIUJaHC50CH6j3OAwebdO32mIKJqFpxMyVqfB5bHu4YZD1d4DoMm_OG4zTYL9annwkvaK0F8zgsz4_1mJoEus4T4ss2uiVbS4.yF9XsdAJraNYfxaVUj0.toIQZiR3M7gf7flnvw8BpO7wmiI_NbBp1vEsPo3V0psYGirn3mEtbu2DQRRrbWsb_N39kYmfGfMv3Egya_wErdPVtaHMExfhaW7IVNszaeykLK7EogY2HLtoVAi2Z90eiQ9AoOm6Wtc0COlgVm4MeZ9OPw5H6qkPHcPpSvWf2ZX0HlvVXkecR0g10Kl4IBWUMh4Iopw0B2epdz5qyR0RnrzMrCN5CZ8k1v_ojkJtgOppLXfiq3QNfv7U6VQVmIg4.jomOP8VI"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8d989d921b017e95\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/auth\\/register?__cf_chl_rt_tk=0ytq4HadxbfqPhV1IXWIon9XkRgHbNN4EfbrtBc2x1M-1730094282-1.0.1.1-I4E2LoelHVCozYCFi9iyvXH5M2f4au1nrpXXzZgwKnU" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
+更新订阅链接/续费续签失败  注册失败(eugrwoj41@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="120"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "ziyun.cyou",cType: \'non-interactive\',cRay: \'8d98e61b2deb3b8c\',cH: \'2PeNRiiquEcZ2Z2VjTpeZfx7PL6_6IeXImUI2vqjyBw-1730097253-1.2.1.1-Q5Hv2584KJ25QNSlGc6rfrFaMlr0q.88l9C9qTuvlAlws4FV.hsmDfqpx7WGk2w9\',cUPMDTk: "\\/auth\\/register?__cf_chl_tk=7FerW_IYmxG.1RaLGw_CV5.soNL2QKowZkU4bnXcj4s-1730097253-1.0.1.1-0JJcmlQ6xrFXaZt3V7ZVsL11d_ECl.r5ZEcmUaIZ7hM",cFPWv: \'b\',cITimeS: \'1730097253\',cTTimeMs: \'1000\',cMTimeMs: \'120000\',cTplV: 5,cTplB: \'cf\',cK: "",fa: "\\/auth\\/register?__cf_chl_f_tk=7FerW_IYmxG.1RaLGw_CV5.soNL2QKowZkU4bnXcj4s-1730097253-1.0.1.1-0JJcmlQ6xrFXaZt3V7ZVsL11d_ECl.r5ZEcmUaIZ7hM",md: "rJHfFp4lEQTX1.Up4J97a5ixb0bo0AuARI374oW15DE-1730097253-1.2.1.1-tzEhy5Dh56.cfxkaqum45Vb.O4OoQV3GQ8442NgFev0IiC9sxOqXGGzGxqVTap3pxvw.HkCO3_e.f6OEWTIRnmIhqUTMrynbrc0bu04tGvTfIZyt7pxa7vOuQ5e_jZh_dj.q1XXJOA.ILL5bsrFMHd1gru2_C9y54xIfYK9K5iRs8weSTPH1i51DOEwISu5l6Jn1CQCteel_OcKClpNc98BYE.xm.Q0_VUTWUuRv9s.QQsVivpGParFwBjir0iMxaHiWLVC7LGgX_KQLWgea5qkNahutqCJ.ETL3Y.P6.beUUZkPVC5rE007WKxUqggGkvieuykwE4hM2XK6YcZJXeEhBfUttRNuHBoqSKXSOgvxt8WYRgRQ6Tcs_cRlsiCC9nnu.TFzdOtRigq55fcN7DUnjFGXlVvPlvPNsuQjIcbb2Zak3J_4qjE1U9luIAX7IKqgBTuZ9_R8Z2SUi1thrbdHZxD45a.1M3DdC9mJO6_oVCumuCXqg1X4GV4NpdY69orvVW4s6ZrEHNCc3d6dc31HuaWOZCyWvxE7DYsCpFyh3mptpNeHCDeOhT7wMSkvrkbJxZFJaRbgRknmDHkpL90.b_J4tD4sEYso0Ka2waYzXDReMPd7CKeQSIHeFjzodIx94RZIyF.9fNK0C_Oe4ITgWI3U6SAsNeQQt2U6XhJW7QUWSql5BBJYrbuKczFi4b8p6vwRZB2GAbXODWSkDdc3zKAb3VJwz4TFD8jJsbbEJj2SjL8DJzAXlwebKBdZC0umkhxqPFMcj8JqEJpMF0Wrd28zTv5TDB1oS9j89KKlF3.POTLM5so1U2NcU1bcCHPrDlt2kFmDM3n1MpukW4ez.qZB6B92wfC__SUsvnOltLxDcHZGCa_4Rz3tNuVzxCVN1qOlX6KHAw5C.pOBzVtbwHRAzL8_YbXr3eJsuFGJYB.zQ8vLdk.BiK7KJNxSHNvu7Ncq1YtlVcHbh5bi5nOTsWQdMjOVmslrMMrZWJ2.mRBIln1.Oin5uZL9wRUFaagqI1HSmJ0T7Z8vdFWDwtXQzrYe5ByQq1e7FzrGpFd7H9bXJvg4RuDGAp9.AFBdc0H7pgOYROQo1NPHH_y6LkVWFa5ak0YPNRKQrMqdsYcGeKtc7cJxTDYJHf31IE6fnS3hHUNBM0KdjFCWnvQgUf46dyYD0jullfBTwKmNaiAL9hoEnKhHBgkiZz_LpvXjmwjUiTHLlBpD6014cenhkRO1N_oLHwkeOTlvWv3wKpv3mMsc3YZeEiGwme4ZLU3AWy6qgZ7ZVnm7X_NMKd1VhVOsXWz6HhDY6Y48bNopqEc8xilVsBPQGUrq9ktGsgsmua.XUflCuXN5YDZfrueeE7Tu9oohTp05bPjM_t.Vbh267dUYADlRT0XBEnycWAQfGoggEnXOlyzG_EhKiFILULLra9WGDhbJRQyxKCEThkimLIyNSIqlrOrJyBVTwA.PbHQ7u8h47xIer2hEiUEcAxLPneNSnV40BgvdiyXfo2uxa0HsnxEZZJjWxTdt7Yig0IHqggR6KEks4kMqAeNq6bMpmyN_WbenHUKUOFfzuU2z9bhY_QRmw.BGU_ElsvA1SuxjaRTHbKcPxDi7m5ai31I8_6DCYb0DcIaE19bdSf.X0NwmHkc0.qBtX849JFC45Pi6TIjaazA89iS.VQ66FF5OZ9h5TgyzMCJGLXwffGgp0SpTb_Mm0w7ivNaakhwHOixjzvVx7afKAFq4zZPmuh.Wob83YAEK5YDvAZUz6x1rZrv7VS90KReq4xZV.NTJkBsKU3wewag056NZRpVHkxa3jFyhrOJissoEeTizaCXB8JE_sbUz.57zwpVncJWVLtjW.a75Fo4tR5B.N1AwbPx21W6DsxuYqupEdGEW5xHaK6yaj9xSfA52MbTz5QRc",mdrd: "RZbvkSBSD4naq_GMaW85PGKHKbNyvOTK0CGmXHLi_hs-1730097253-1.2.1.1-MAxk9U5QRdq9e9BvXpo3Kse2iKHxJbHkpP5K2IPPep8Kl7aCJK5fzYWp9WH6CqYS.Nt9k3B3MadfqLLV2FOblAF7ub7O0yBZJa0vrNmYdPahjNd4ji.dFt_aP3gYHo189j3TBSqo26HWVuOL8QHDuvLD2ae7MAML1B_nvWz8xVgBK10RrcsnetMX3DxBYbxDUxHMMUEgmPBmelZ45ezybaKD3lXkmGimaBFGDWihcoDxpxI5O9Tf.S9Hhy5mdksED9y7fE3OcW37duwtkQXHTUYcB3WRACTOcuSUxjIdYDYdir_KatbQ2_L7sH3ZqCXJFdcf0tzW1FH__vzGEbc5z6eN1yzyV7uWejcumJ3MlFYefnuQkm415haR_XcypfMBptu.yv7hjtKasctruT82Q1f0n3iJEsIlJS2aSgOkSWJGJRbWXCYvsxLJGp8XZSWUTYCBqi2C3ILO2_3agqqTdTHS_w.smmPVL8T7GVndJpJnQrXsEvpPX2T0ycw6Bij8POcWKe.3Z3zxd4WZWRznedSLjAZfLGIIQuaJES9cIhUYstT36joOqVD.1_BNVBh9zc8WplWGO99Gr0tF8FLdL.jKqAs0xXib5P0k8dTqaCUlZcoKiEdUR2ygf2d7rqJbsBYiLS1drCQHZTCbHDAhY3v2EafmS9F2N0q4.uffn_eyixGVmLBcPdnfeBCzgOLQ5wwkIM5Tx6mD4Tyc6P0MSHhSFBp7vt0YyNtAshdkNbx783y6FJtyyL8vzItr7HIWQeV08h7hI7jNCRjDjmB.k28McanaaEUYtmX_ZoZYtk0XUaQK3Kj.r2xehL7I2tMuBTXbQmRSLZp3CBvmqOF8S5JMzqY1nHy60hpwmP.T1JYQNeetzpJgz3YSJ9qNArqe8fnPX_QnOca80zcPWRIba2vk35giWJ0AZMH6lPrtR1CNeAU6.6pkORV2FXdtPzKndlH41NoQkA0dWZnoF0mdDP69Df3FQmUf2xtQieg3M8M6BtRKgf39xXjZu9J4pTe6vMlsgulSea6w5QtEuKhA1u6MgovKuxnIGTSvxqgfNsXuYVJdyDdf86INPn74yo.6tJliWJWenRewTXM0wIBZ0jDjW6KtJgnk9SguP0Pkwy7zeE_NN074yWxxFn3DeMqTTb6PMpF8g42lpjguIQVUtYbs5rdvRz9h5GjSweq8aWCoo5SPqB6VUxX8x3tm7IAF7fTxpeQrxY1gN26pWi2Gud8zosLjP49eUbumC68fQMaTGnnd9wvBlTMBmmLmbd4BNLc4m9aaU.G1_vtbTbNaVU0r5IDtLYrgEKwPecHwn0qe50wXwzfe..TD6CSpmz9itX2hKsRA.7KBrUp934vkKGPGX4OE0Hheov2ZbDECpt2aC93PON4VpZuFR6o3.gZxI17Hb3HrKq3I.nszxo4MA1rcww5pidfQotl.6zS1nfP9U5EFwJgsJRTvZXB_I5.AfpKm9ly3SpAOSb0AwxUqG9PazaT.jBAzdg89bgOKSHNMKWDp1QCmlt_0FBo3KrVKbT3gR_s_xN8Ui2JWpBSRp73BQDzy3xraiYzLMgyCT83Kj.fgCjEwV0vOcI7tZ80x5VL_pX6RqZ4NztH3YdOrXYBFvbRkbfio9CoT_IIdRBr09nclpJou_Gi_SHVspx8Z2bTry89SHxkoO8bMnGIp63D7NivpvYmp.FurAHHwA17U7j4Ec5c5ff4GfTcKZY76_ARLYU8kslaPG0rscdfFzxLoilFFBlOhUof7kwkHSUOgN8d9r3h4u.aklHMOCSEkllPT.rc650D7EVu.ePXfBI8gIwct0m5A.Jm4Dw6o19B.H2QnbcFtyAzNdJCGCsTULrmVQ3pfruEhN78MBOhK2EhHuNiieuhPxoAPrCVN.0DDFuTaNxZ2WG7gtsTUxBBB5wFkXoCTbSWzF6ennG_2cIFwzi2rJeyRpAskjFt1NjiAx8hOIP0O9pdm7QOigYwVUoQWLn3YCYQGfOZYkNlDdWpf7iTIKVG_mpCvUGbj5HSc3gLKYuH0Cpwhq0x8qF69xH3DHfaTMcDPtmsLLqHIjEIhgJHym3aEdm8Ku8RwFLSzWqPGbcPWwOXxSuu2_T3Tv7l.5SqmcY2WoSHpI1FrSPwkmbvQ7nr_XxvKeBY4hRol6X84YUaGeWik0H72l365NmoXtKewtB0NvfHvPpgSZCbXx2Ydr_7dcs1E8OrZ9N2TNUzctTR09MOx6GCQujFvxdSl3sidQWO4qozONdukPQ7rZuhRRec.tuKeySeEXKXEtN71839oet6Sb0rXOxFMllc5KoNh0xgkrnffze9XR1JJrkmP75zGfq4_tHwJrAoSnbWd5rxRubakhDUFRXrJsqUgd4eOjNVMpJsLGp3fu0im83gta_I37tDcmLq7XCpxGLhaMZj0WfxUqq6A_Zq1"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8d98e61b2deb3b8c\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/auth\\/register?__cf_chl_rt_tk=7FerW_IYmxG.1RaLGw_CV5.soNL2QKowZkU4bnXcj4s-1730097253-1.0.1.1-0JJcmlQ6xrFXaZt3V7ZVsL11d_ECl.r5ZEcmUaIZ7hM" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
 
 [lm.laomaoyun.me]
-email  bsvkyifm21@gmail.com
+email  hgfhyuz796@gmail.com
 name  老猫云
 node_n  60
-sub_info  0B  10G  2024-10-28 14:44:43+08:00  (剩余 10G 0:57:55.041004)
-sub_url  https://04.laomao88.xyz/api/v1/client/subscribe?token=4809f50f76e3ac6f83edcc05573f854f
-time  2024-10-28 13:44:44.448485+08:00
+sub_info  0B  10G  2024-10-28 15:35:22+08:00  (剩余 10G 0:59:56.594062)
+sub_url  https://05.laomao88.xyz/api/v1/client/subscribe?token=6e0cbb506056f867b407b0ed7951713e
+time  2024-10-28 14:35:23.544437+08:00
 type  v2board
 
 [qhcy.cc]
@@ -288,7 +290,7 @@ type  v2board
 api_host  directstore.kakocloud.pro
 name  Kako Cloud
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(igywxkc470@disbox.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"yyzkyvsh548@jkb.tmmad.com","success":"false"}'
 
 [v2link.org]
 
@@ -304,22 +306,9 @@ email  epmclmq82@grr.la
 last_checkin  2024-10-28 13:44:58.567908+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.038G  2024-10-29 13:44:57+08:00  (剩余 1.038G 23:59:51.448944)
+sub_info  320.6M  1.038G  2024-10-29 13:44:57+08:00  (剩余 742.4M 23:10:30.383959)
 sub_url  https://network.ayucloud.nl/link/ZegX2VmZjd2sJra9?clash=1
 time  2024-10-28 13:44:59.291642+08:00
-type  sspanel
-
-[bbs.cloudnetwork.pro]
-auth_path  user
-auto_invite  F
-buy  pass
-email  jyswrvo838@mail.shouyou789.com
-last_checkin  2024-10-28 13:44:52.806581+08:00
-name  AyucLouD-Services
-node_n  99
-sub_info  0B  1.121G  2024-10-29 13:44:51+08:00  (剩余 1.121G 23:59:54.882893)
-sub_url  https://network.ayucloud.nl/link/hIZKNKYora7P4Vb8?clash=1
-time  2024-10-28 13:44:53.455293+08:00
 type  sspanel
 
 [doumao.top]
@@ -330,13 +319,69 @@ type  sspanel
 email_domain  freedom
 name  Kangaroo✦Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(jhtwnppxq760@disbox.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"gzknoed756@111.vupkl.shop","success":"false"}'
 
 [proxyvip.xyz]
 name  Proxyvip
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xjesmita765@btcstar.site","success":"false"}'
 
 [console.ly520.me]
 
 [api.kyjs.xyz]
+
+[https://xn--4gq62f52gdss.biz#一元机场]
+name  一元机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(atnixcc557@bareed.ws): 邮箱后缀不处于白名单中
+
+[https://xn--mes358acgm99l.com#极速机场]
+
+[https://xn--4gqx1hgtfdmt.com#一分机场]
+
+[https://ju-feng.azure-api.net#飓风Cloud]
+name  飓风Cloud
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"tnpauviv727@mail.wvwvw.tech","success":"false"}'
+
+[https://xn--h5qy75o.com#飞兔云]
+
+[https://azumase.ren#Yukihasu]
+error  <string>:2 Unexpected "f" at column 18
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(rvaquvb956@tmpmail.net): {'message': '验证码有误'}
+
+[https://www.xn--9kq49wbqk.site#外星云]
+
+[https://lmweb01.lmspeed.pro#龙猫云]
+email  ywsbgxzgq108@gmail.com
+type  v2board
+更新订阅链接/续费续签失败  'NoneType' object is not subscriptable
+
+[https://feiniaoyun01.life#飞鸟云]
+buy  pass
+email  etfzmwm12@gmail.com
+name  飞鸟云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://fn1.170809.xyz/api/v1/client/subscribe?token=12a08d940230ea9c5201e79c05fac576
+time  2024-10-28 14:34:12.108295+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://dash.fscloud.cc#FSCLOUD]
+name  FSCloud
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"exfxvilm283@111.vtnli.shop","success":"false"}'
+
+[https://ng.69hub.cc]
+
+[https://v2.nyanss.com#NyanSS]
+
+[https://www.cacapex.com]
+name  CAC Apex
+type  v2board
+更新订阅链接/续费续签失败  注册失败(vojbqvxiz274@gmail.com): 'NoneType' object is not subscriptable
+
+[https://123xxx456.net buy]
+
+[https://jaybest.one#杰云]
