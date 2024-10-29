@@ -11,28 +11,17 @@ proxies:
 - {name: 🇯🇵 日本08 - 老猫云, server: 548718.laomao-53875.xyz, port: 50108, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本09 - 老猫云, server: 548748.laomao-53875.xyz, port: 50109, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本10 - 老猫云, server: 541778.laomao-53875.xyz, port: 50110, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- &id001 {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id002 {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id003 {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- &id004 {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- &id005 {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id006 {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id007 {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id008 {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id009 {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- &id010 {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- &id011 {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 83bf1b2f-2406-3d83-a1fa-d405e4489fea, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 66b23101798.download.windowsupdate.com}, udp: true}
