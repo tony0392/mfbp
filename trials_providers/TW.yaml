@@ -1,16 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - 老猫云, server: 33358.laomao-53875.xyz, port: 50301, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾02 - 老猫云, server: 33618.laomao-53875.xyz, port: 50302, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾03 - 老猫云, server: 33648.laomao-53875.xyz, port: 50303, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾04 - 老猫云, server: 3948.laomao-53875.xyz, port: 50304, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾05 - 老猫云, server: 91618.laomao-53875.xyz, port: 50305, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾06 - 老猫云, server: 33918.laomao-53875.xyz, port: 50306, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾07 - 老猫云, server: 91418.laomao-53875.xyz, port: 50307, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾08 - 老猫云, server: 33698.laomao-53875.xyz, port: 50308, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾09 - 老猫云, server: 71618.laomao-53875.xyz, port: 50309, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾10 - 老猫云, server: 33668.laomao-53875.xyz, port: 50310, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01 - 老猫云, server: 33358.laomao-53875.xyz, port: 50301, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾02 - 老猫云, server: 33618.laomao-53875.xyz, port: 50302, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03 - 老猫云, server: 33648.laomao-53875.xyz, port: 50303, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾04 - 老猫云, server: 3948.laomao-53875.xyz, port: 50304, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾05 - 老猫云, server: 91618.laomao-53875.xyz, port: 50305, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾06 - 老猫云, server: 33918.laomao-53875.xyz, port: 50306, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾07 - 老猫云, server: 91418.laomao-53875.xyz, port: 50307, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾08 - 老猫云, server: 33698.laomao-53875.xyz, port: 50308, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾09 - 老猫云, server: 71618.laomao-53875.xyz, port: 50309, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾10 - 老猫云, server: 33668.laomao-53875.xyz, port: 50310, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - &id001 {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - &id002 {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - &id003 {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 802fa957-18d1-3200-95d2-00ccaaf8a78f, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}

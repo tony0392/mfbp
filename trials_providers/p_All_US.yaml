@@ -1,18 +1,18 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01 - 老猫云, server: 95848.laomao-53875.xyz, port: 50201, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 老猫云, server: 95348.laomao-53875.xyz, port: 50202, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03 - 老猫云, server: 95341.laomao-53875.xyz, port: 50203, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国04 - 老猫云, server: 95328.laomao-53875.xyz, port: 50204, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国05 - 老猫云, server: 95858.laomao-53875.xyz, port: 50205, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国06 - 老猫云, server: 93448.laomao-53875.xyz, port: 50206, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国07 - 老猫云, server: 95748.laomao-53875.xyz, port: 50207, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国08 - 老猫云, server: 95148.laomao-53875.xyz, port: 50208, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国09 - 老猫云, server: 95548.laomao-53875.xyz, port: 50209, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国10 - 老猫云, server: 95348.laomao-53875.xyz, port: 50210, type: trojan, password: e904c396-4237-4133-a8b8-f911bc122340, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: cece8580-ef3d-353c-befd-f06fcbf4452b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: cece8580-ef3d-353c-befd-f06fcbf4452b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: 🇺🇸 美国01 - 老猫云, server: 95848.laomao-53875.xyz, port: 50201, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - 老猫云, server: 95348.laomao-53875.xyz, port: 50202, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03 - 老猫云, server: 95341.laomao-53875.xyz, port: 50203, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国04 - 老猫云, server: 95328.laomao-53875.xyz, port: 50204, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国05 - 老猫云, server: 95858.laomao-53875.xyz, port: 50205, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国06 - 老猫云, server: 93448.laomao-53875.xyz, port: 50206, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国07 - 老猫云, server: 95748.laomao-53875.xyz, port: 50207, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国08 - 老猫云, server: 95148.laomao-53875.xyz, port: 50208, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国09 - 老猫云, server: 95548.laomao-53875.xyz, port: 50209, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国10 - 老猫云, server: 95348.laomao-53875.xyz, port: 50210, type: trojan, password: 64248bd9-aad4-4f9e-92d3-d347ad986cf7, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 6438ac74-9993-306b-a9b4-46c7fc9338b4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 6438ac74-9993-306b-a9b4-46c7fc9338b4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: d8314801-ba63-3020-be24-64da8df36e99, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: d8314801-ba63-3020-be24-64da8df36e99, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: d8314801-ba63-3020-be24-64da8df36e99, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
