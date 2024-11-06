@@ -12,3 +12,5 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 79852465-aefe-383c-85b9-01cfa114e286, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 79852465-aefe-383c-85b9-01cfa114e286, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 79852465-aefe-383c-85b9-01cfa114e286, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 206517a81e83d3de8fb8976fff880fd0.node.tro.node-is.green, port: 41887, type: trojan, password: 04197574-7c59-47fe-b6c4-efe2fc21f956, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: c01c2ede2af691df924740255eab8683.node.tro.node-is.green, port: 44940, type: trojan, password: 04197574-7c59-47fe-b6c4-efe2fc21f956, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
