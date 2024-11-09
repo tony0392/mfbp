@@ -1,5 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 40512dd5a574c2f96976b14e7890e890.node.tro.node-is.green, port: 45891, type: trojan, password: bc572d27-005f-4e34-a2b9-5b520e96af14, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 31fb4701730dad116ed83b36a552881d.node.tro.node-is.green, port: 45370, type: trojan, password: bc572d27-005f-4e34-a2b9-5b520e96af14, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: fcaa087684ddd8017b13236918d83f4c.node.tro.node-is.green, port: 44809, type: trojan, password: 4e41f33d-9fc4-4305-8db6-e728c36a9ad0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: a360fa1c8962d2d021e80922a59db8bc.node.tro.node-is.green, port: 43675, type: trojan, password: 4e41f33d-9fc4-4305-8db6-e728c36a9ad0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
