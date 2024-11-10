@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: fcaa087684ddd8017b13236918d83f4c.node.tro.node-is.green, port: 44809, type: trojan, password: 4e41f33d-9fc4-4305-8db6-e728c36a9ad0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: a360fa1c8962d2d021e80922a59db8bc.node.tro.node-is.green, port: 43675, type: trojan, password: 4e41f33d-9fc4-4305-8db6-e728c36a9ad0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: ba2da615-e7d2-3402-9e00-d0b1d14e9b64, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 59041659e1edee2fe86eeb3ec1971237.node.tro.node-is.green, port: 40798, type: trojan, password: 38278336-c9f7-4e84-a61c-ef36280f6312, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: e0c3a1d2ff9f016f3d8000127b08926a.node.tro.node-is.green, port: 45222, type: trojan, password: 38278336-c9f7-4e84-a61c-ef36280f6312, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 3df8dc02-2718-3547-9273-b50539980f9a, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 3df8dc02-2718-3547-9273-b50539980f9a, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 3df8dc02-2718-3547-9273-b50539980f9a, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 3df8dc02-2718-3547-9273-b50539980f9a, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
