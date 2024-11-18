@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港宇宙量子专线 - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, udp: true}
-- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 77549e13b2b69e446196fed3c6eb1690.node.tro.node-is.green, port: 45291, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: live.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: f2528e6a8e0da583bf8e44b7b4b17570.node.tro.node-is.green, port: 42745, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 154548a614769f023471e9704dec37fd.node.tro.node-is.green, port: 45767, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: a0dd20e4f8ff0abef9cc6c3a5d55ddf0.node.tro.node-is.green, port: 43414, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: e4e50ab1f08a9caa63c19f3e73df46aa.node.tro.node-is.green, port: 49065, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: fe571982e5c7b8c8ce889e71f200d339.node.tro.node-is.green, port: 43453, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: b4c9a0d1e80d02d0678c4237eda6fea5.node.tro.node-is.green, port: 44347, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港宇宙量子专线 - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, udp: true}
+- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 68664605edda4871be85cd02929b663f.node.tro.node-is.green, port: 46222, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: live.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: c4e5dbc62dd8a219731d9b0df8729d64.node.tro.node-is.green, port: 49344, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: f2710861ebaf4296d36877cb9f515d24.node.tro.node-is.green, port: 40330, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: fcf0b521c2419bef10c68f38bda1859d.node.tro.node-is.green, port: 45267, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: a12605c20275029a2e008bc966fb0e54.node.tro.node-is.green, port: 47867, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 57b7e0eab6a833ff8bc5168bf0150472.node.tro.node-is.green, port: 49592, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: b318ceea6446f6c8be5622805dc52394.node.tro.node-is.green, port: 49700, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -22,8 +22,7 @@ proxies:
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.mamamajd.site, port: 23608, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港2 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: dab129d4-0034-3705-8977-aafa52709b74, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
 - {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: dab129d4-0034-3705-8977-aafa52709b74, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
 - {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: dab129d4-0034-3705-8977-aafa52709b74, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}

@@ -47,8 +47,6 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 广港•香港294•高速 - 飞翔吧
-  - 🇭🇰 [vip①]香港1 - MG Network
-  - 🇭🇰 [vip①]香港2 - MG Network
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -76,6 +74,7 @@ proxy-groups:
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -97,8 +96,8 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
-  - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇸🇬 [vip①]新加坡2 - MG Network
+  - 🇸🇬 [vip①]①新加坡 - MG Network
+  - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -311,8 +310,6 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 广港•香港294•高速 - 飞翔吧
-  - 🇭🇰 [vip①]香港1 - MG Network
-  - 🇭🇰 [vip①]香港2 - MG Network
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -346,6 +343,7 @@ proxy-groups:
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -381,8 +379,6 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 广港•香港294•高速 - 飞翔吧
-  - 🇭🇰 [vip①]香港1 - MG Network
-  - 🇭🇰 [vip①]香港2 - MG Network
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -410,6 +406,7 @@ proxy-groups:
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -437,8 +434,8 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
-  - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇸🇬 [vip①]新加坡2 - MG Network
+  - 🇸🇬 [vip①]①新加坡 - MG Network
+  - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -627,25 +624,25 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a5b82c0a-52b2-46ba-a9a0-7cfecb039d4a, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a5b82c0a-52b2-46ba-a9a0-7cfecb039d4a, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a5b82c0a-52b2-46ba-a9a0-7cfecb039d4a, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 103de2819d1fe437e1c88c57bdcd1392.node.tro.node-is.green, port: 47384, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 75a5f5a293a2dd30e741e6d1eb4fbcb8.node.tro.node-is.green, port: 47839, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港宇宙量子专线 - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, udp: true}
-- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 77549e13b2b69e446196fed3c6eb1690.node.tro.node-is.green, port: 45291, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: live.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: f2528e6a8e0da583bf8e44b7b4b17570.node.tro.node-is.green, port: 42745, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 154548a614769f023471e9704dec37fd.node.tro.node-is.green, port: 45767, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: a0dd20e4f8ff0abef9cc6c3a5d55ddf0.node.tro.node-is.green, port: 43414, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: e4e50ab1f08a9caa63c19f3e73df46aa.node.tro.node-is.green, port: 49065, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: fe571982e5c7b8c8ce889e71f200d339.node.tro.node-is.green, port: 43453, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: b4c9a0d1e80d02d0678c4237eda6fea5.node.tro.node-is.green, port: 44347, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 4db430881a5454f33bd241f93b35a708.node.tro.node-is.green, port: 46568, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: ccbc73e4f73f1d85724fa983d831b7bf.node.tro.node-is.green, port: 46349, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 019f535105c08d985de1e75e0be7e86a.node.tro.node-is.green, port: 44789, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: bfcef2adfa81d824953ede8f8b5429ce.node.tro.node-is.green, port: 47469, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 4834f527d1172796db7df85fcfc3ec66.node.tro.node-is.green, port: 43448, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 7159e7a33bb75d9c597c29e189a01c9a.node.tro.node-is.green, port: 48115, type: trojan, password: 18bb86eb-533f-424c-92bb-139bcb3761a8, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 4ad70b14-810f-4b29-b996-0ece294095f0, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 4ad70b14-810f-4b29-b996-0ece294095f0, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 4ad70b14-810f-4b29-b996-0ece294095f0, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 2da665fe70bbb5f1c852a8f659520e16.node.tro.node-is.green, port: 41723, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: fda35e69c5d4d14af8693648fdc586a6.node.tro.node-is.green, port: 46431, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港宇宙量子专线 - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, udp: true}
+- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 68664605edda4871be85cd02929b663f.node.tro.node-is.green, port: 46222, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: live.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: c4e5dbc62dd8a219731d9b0df8729d64.node.tro.node-is.green, port: 49344, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: f2710861ebaf4296d36877cb9f515d24.node.tro.node-is.green, port: 40330, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: fcf0b521c2419bef10c68f38bda1859d.node.tro.node-is.green, port: 45267, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: a12605c20275029a2e008bc966fb0e54.node.tro.node-is.green, port: 47867, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 57b7e0eab6a833ff8bc5168bf0150472.node.tro.node-is.green, port: 49592, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: b318ceea6446f6c8be5622805dc52394.node.tro.node-is.green, port: 49700, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: be87127fd5f411fa105b8e785dc8d00c.node.tro.node-is.green, port: 45361, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 53111d47e3c28431bd80ee53cbcb1465.node.tro.node-is.green, port: 46027, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 9d67857a3974d16480289d87850e0c1e.node.tro.node-is.green, port: 48768, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: 02a762bcd1f115557314b2a912894b63.node.tro.node-is.green, port: 42733, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 3cf4b313c786b75e4070d9075816840d.node.tro.node-is.green, port: 42728, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: ec94e4d815dae7b6172544ccb98c971b.node.tro.node-is.green, port: 43465, type: trojan, password: ef64e697-6d5a-4a81-b8bf-c3dcf2570de0, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
@@ -692,10 +689,9 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: f8e8d916-4f95-3484-8074-d6553bc91f5b, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.mamamajd.site, port: 23608, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港2 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
 - {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: b0ab4082-bb2e-3b28-afa1-19e262f8a2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
@@ -733,13 +729,13 @@ proxies:
 - {name: 🇲🇾 马来西亚 001 - 墙了个墙, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: dab129d4-0034-3705-8977-aafa52709b74, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 - {name: 🇲🇾 马来西亚 002 - 墙了个墙, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: dab129d4-0034-3705-8977-aafa52709b74, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 - {name: 🇲🇾 马来西亚 003 - 墙了个墙, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: dab129d4-0034-3705-8977-aafa52709b74, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2095, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.134.105, headers: {Host: 100-162-150-210.s3.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2086, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.32.230, headers: {Host: 100-114-1-104.s4.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2052, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.53.38, headers: {Host: 100-67-196-76.s3.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 8080, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.56.81, headers: {Host: 100-195-31-227.s1.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.db-link01.top, port: 80, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.115.170, headers: {Host: 100-73-158-207.s1.db-link01.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.cn-db.top, port: 2082, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.93.99, headers: {Host: 100-124-84-52.s3.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.cn-db.top, port: 8080, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.22.115, headers: {Host: 100-120-192-89.s3.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 80, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.172.100, headers: {Host: 100-215-207-172.s4.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 8080, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.142.131, headers: {Host: 100-140-209-36.s4.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 80, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.161.30, headers: {Host: 100-86-42-70.s3.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2082, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.130.187, headers: {Host: 100-218-66-239.s4.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.db-link01.top, port: 2052, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.111.12, headers: {Host: 100-218-127-85.s1.db-link01.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s4.cn-db.top, port: 80, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.58.183, headers: {Host: 100-118-46-169.s4.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.cn-db.top, port: 80, type: vmess, uuid: 06e466dd-984e-34c7-b253-f943561ccc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.9.146, headers: {Host: 100-23-243-194.s3.cn-db.top}}, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: fb480102746.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: fb480102746.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: fb480102746.download.windowsupdate.com}, udp: true}
