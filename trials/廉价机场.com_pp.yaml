@@ -16,7 +16,6 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
@@ -24,7 +23,6 @@ proxy-groups:
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -35,7 +33,6 @@ proxy-groups:
   - SG
   - JP
   - US
-  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -67,13 +64,11 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -113,11 +108,6 @@ proxy-groups:
   tolerance: 300
   use: &id007
   - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id008
-  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -139,60 +129,48 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id008
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/廉价机场.com/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/廉价机场.com/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/廉价机场.com/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/廉价机场.com/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/廉价机场.com/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/廉价机场.com/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/廉价机场.com/JP.yaml
     interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/廉价机场.com/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/廉价机场.com/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
+    path: trials_providers/廉价机场.com/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
