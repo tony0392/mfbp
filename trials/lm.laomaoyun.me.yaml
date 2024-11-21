@@ -55,9 +55,9 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 556248fa-1993-4872-b9e6-09cc36b9bf1d, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 556248fa-1993-4872-b9e6-09cc36b9bf1d, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 556248fa-1993-4872-b9e6-09cc36b9bf1d, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: f5cbc24c-d298-4676-83f8-1d6e5d342004, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: f5cbc24c-d298-4676-83f8-1d6e5d342004, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: f5cbc24c-d298-4676-83f8-1d6e5d342004, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -94,6 +94,21 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
+- DOMAIN-SUFFIX,bgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,dgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,fgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,hgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,igithub.xyz,DIRECT
+- DOMAIN-SUFFIX,jgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,lgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,4git.xyz,DIRECT
+- DOMAIN-SUFFIX,5git.xyz,DIRECT
+- DOMAIN-SUFFIX,6git.xyz,DIRECT
+- DOMAIN-SUFFIX,mgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ngithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ogithub.xyz,DIRECT
+- DOMAIN-SUFFIX,pgithub.xyz,DIRECT
+- DOMAIN,hub.whtrys.space,DIRECT
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
