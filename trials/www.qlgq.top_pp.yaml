@@ -11,41 +11,23 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港宇宙量子专线 - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
+  use: &id001
+  - HK
+  - SG
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -63,25 +45,19 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -92,102 +68,76 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港宇宙量子专线 - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港宇宙量子专线 - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
+  use: &id002
+  - HK
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
+  use: &id003
+  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
+  use: &id004
+  - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 100
+  use: &id005
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
+  use: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
+  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
-proxies:
-- {name: 🇭🇰 香港宇宙量子专线 - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, udp: true}
-- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: c5641e5da83d68877ba01ae6afe3b309.node.tro.node-is.green, port: 47301, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: live.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 7544606ced4ff34d58b96892a0d873f4.node.tro.node-is.green, port: 47719, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 13f9fa31640f208e9f50b5d02d5146c7.node.tro.node-is.green, port: 49220, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: bd1e6535b44f4d45b778c7377cfe541b.node.tro.node-is.green, port: 47512, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: c0b14775f1fdc66f9ddb5af0eb8be821.node.tro.node-is.green, port: 47047, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: f5e235cfa5906d8e0483fc1066f1207a.node.tro.node-is.green, port: 41890, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: bbb11a9121778f7dc33a80d6c25e51e1.node.tro.node-is.green, port: 40264, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 31bc2059d4f17264f99867089a4c7b8c.node.tro.node-is.green, port: 47449, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: fca900cbc86b05aad3893782bdf5329a.node.tro.node-is.green, port: 47998, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 6a81b25ba670585b167d28c8d40caf6d.node.tro.node-is.green, port: 46207, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 4cc24a383bddb8d0ce2b9a46cbf8c55c.node.tro.node-is.green, port: 40236, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: 2d91a16852cda6e0673293b15c9bebd0.node.tro.node-is.green, port: 42108, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: 86a47dc3ff894021ebd90096762e7c9a.node.tro.node-is.green, port: 45387, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: e184a534d93a11da6c70835462cc3cb0.node.tro.node-is.green, port: 41199, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: d76c31afb454a9a6a92fea08b8cd3c2d.node.tro.node-is.green, port: 46435, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+  use: *id004
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id005
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.qlgq.top/HK.yaml
+    interval: 180
+    path: trials_providers/www.qlgq.top/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.qlgq.top/SG.yaml
+    interval: 180
+    path: trials_providers/www.qlgq.top/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.qlgq.top/US.yaml
+    interval: 180
+    path: trials_providers/www.qlgq.top/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/www.qlgq.top/Other.yaml
+    interval: 180
+    path: trials_providers/www.qlgq.top/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

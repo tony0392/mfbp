@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 1b3228de2cf7c5042b804da961f3ee80.node.tro.node-is.green, port: 49864, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: be640e737f0a8f02480468a684f01e65.node.tro.node-is.green, port: 43606, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 31bc2059d4f17264f99867089a4c7b8c.node.tro.node-is.green, port: 47449, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: fca900cbc86b05aad3893782bdf5329a.node.tro.node-is.green, port: 47998, type: trojan, password: 1b62e6ea-30c5-4b8f-8052-fb4c6330b528, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 033d0dda-2f94-3e51-991a-31f982408bd3, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 033d0dda-2f94-3e51-991a-31f982408bd3, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 033d0dda-2f94-3e51-991a-31f982408bd3, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
