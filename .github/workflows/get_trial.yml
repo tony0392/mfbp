@@ -2,7 +2,7 @@ name: get_trial.py
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '50 8 * * *'
+    - cron:  '45 8 * * *'
 permissions: write-all
 jobs:
   main:
