@@ -1,8 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 802cf15db744b9704a49e8012bba71d9.node.tro.node-is.green, port: 49885, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: fe11d195d82e86c317ae603e51793ed1.node.tro.node-is.green, port: 40336, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 2de454ba44af9fc235ed29d5da452e26.node.tro.node-is.green, port: 45513, type: trojan, password: 84237b76-e3b5-440b-9602-2c192ee8e6d8, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: a4157fda8a0e9f336d0ccce3bf8219b1.node.tro.node-is.green, port: 44294, type: trojan, password: 84237b76-e3b5-440b-9602-2c192ee8e6d8, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 4eb0dd10-c0cd-35f1-b206-4660312a8e05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 4eb0dd10-c0cd-35f1-b206-4660312a8e05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a2d5f103026.download.windowsupdate.com}, udp: true}
