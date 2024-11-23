@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: b590fe1500c002e56b516517df0429ac.node.tro.node-is.green, port: 40212, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: fc0bcb3af1f2ae651faeac918497e1d3.node.tro.node-is.green, port: 47413, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}

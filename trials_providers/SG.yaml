@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 6092b513f2e0df71697908422c664b6f.node.tro.node-is.green, port: 46092, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 9c4c461478269d6fea11813d6002cf83.node.tro.node-is.green, port: 40846, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}

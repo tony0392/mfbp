@@ -10,64 +10,24 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港宇宙量子专线 - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
-  - 🇸🇬 [vip①]①新加坡 - MG Network
-  - 🇸🇬 [vip①]②新加坡 - MG Network
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
-  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
-  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
-  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
-  - ℹ️ 您还未购买服务 - 老猫云
-  - 🇱🇦 请登录laomao.biz 购买 - 老猫云
-  - ℹ️ 购买后请更新订阅 - 老猫云
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
+  use: &id001
+  - TW
+  - SG
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -84,13 +44,9 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
@@ -98,13 +54,11 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -114,154 +68,78 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港宇宙量子专线 - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港宇宙量子专线 - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
+  use: &id002
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
-  - 🇸🇬 [vip①]①新加坡 - MG Network
-  - 🇸🇬 [vip①]②新加坡 - MG Network
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
+  use: &id003
+  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
-  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
-  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
-  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  use: &id004
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id008
-  - ℹ️ 您还未购买服务 - 老猫云
-  - 🇱🇦 请登录laomao.biz 购买 - 老猫云
-  - ℹ️ 购买后请更新订阅 - 老猫云
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
+  use: &id005
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
+  use: *id001
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
+  use: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
+  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: ef08f9bd-3aeb-4d80-a9b3-796d930bef2d, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: ef08f9bd-3aeb-4d80-a9b3-796d930bef2d, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: ef08f9bd-3aeb-4d80-a9b3-796d930bef2d, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 6092b513f2e0df71697908422c664b6f.node.tro.node-is.green, port: 46092, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 9c4c461478269d6fea11813d6002cf83.node.tro.node-is.green, port: 40846, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港宇宙量子专线 - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 4e653213-122b-42d5-b652-09e1de741b9c, udp: true}
-- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 1d1c2bf600cbe37779d68ad6b5a4f6cd.node.tro.node-is.green, port: 44514, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: live.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 876bd0fa2f0b17b80ccb7666e014598d.node.tro.node-is.green, port: 44618, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 30131d4cadb18f88ac20f9fc1d135c4b.node.tro.node-is.green, port: 41110, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: d186eeda05394a6af502d2788751dc13.node.tro.node-is.green, port: 41462, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: 58b8229c5b01e73a5365a6fe407fb003.node.tro.node-is.green, port: 47290, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: b75b35602b7063b4b8132e489cbce653.node.tro.node-is.green, port: 47382, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: f15471cd2f07264410a2a6fa1f38e022.node.tro.node-is.green, port: 43943, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 67bdd9793f549b6ef1fc46e86fe18d5b.node.tro.node-is.green, port: 40044, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: e6f42fbe1a76998c1849a46c7686a900.node.tro.node-is.green, port: 49448, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 65d415c299b3621a91c684ccc7adbcf6.node.tro.node-is.green, port: 46257, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: 905739f3fa728f6a66267e45baa25bfb.node.tro.node-is.green, port: 45596, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: b590fe1500c002e56b516517df0429ac.node.tro.node-is.green, port: 40212, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: fc0bcb3af1f2ae651faeac918497e1d3.node.tro.node-is.green, port: 47413, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2086, type: vmess, uuid: 924527d3-7e07-37be-a4ce-bc1924db0177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.101.139, headers: {Host: 100-73-128-164.s1.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2082, type: vmess, uuid: 924527d3-7e07-37be-a4ce-bc1924db0177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.227.126, headers: {Host: 100-240-92-148.s4.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2086, type: vmess, uuid: 924527d3-7e07-37be-a4ce-bc1924db0177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.59.254, headers: {Host: 100-149-43-170.s4.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2095, type: vmess, uuid: 924527d3-7e07-37be-a4ce-bc1924db0177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.82.86, headers: {Host: 100-219-126-69.s1.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s3.cn-db.top, port: 2052, type: vmess, uuid: 924527d3-7e07-37be-a4ce-bc1924db0177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.72.87, headers: {Host: 100-91-162-106.s3.cn-db.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.db-link01.top, port: 2086, type: vmess, uuid: 924527d3-7e07-37be-a4ce-bc1924db0177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.20.74, headers: {Host: 100-251-17-162.s1.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s4.cn-db.top, port: 2095, type: vmess, uuid: 924527d3-7e07-37be-a4ce-bc1924db0177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.145.225, headers: {Host: 100-148-50-210.s4.cn-db.top}}, udp: true}
+  use: *id005
+proxy-providers:
+  TW:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/TW.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/SG.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/US.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/Other.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

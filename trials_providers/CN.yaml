@@ -1,0 +1,12 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港宇宙量子专线 - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 4e653213-122b-42d5-b652-09e1de741b9c, udp: true}
+- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 1d1c2bf600cbe37779d68ad6b5a4f6cd.node.tro.node-is.green, port: 44514, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: live.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 876bd0fa2f0b17b80ccb7666e014598d.node.tro.node-is.green, port: 44618, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 30131d4cadb18f88ac20f9fc1d135c4b.node.tro.node-is.green, port: 41110, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: d186eeda05394a6af502d2788751dc13.node.tro.node-is.green, port: 41462, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: 58b8229c5b01e73a5365a6fe407fb003.node.tro.node-is.green, port: 47290, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: b75b35602b7063b4b8132e489cbce653.node.tro.node-is.green, port: 47382, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: f15471cd2f07264410a2a6fa1f38e022.node.tro.node-is.green, port: 43943, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 21d8697b-b944-3128-9aa2-d4ab7438a2e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
