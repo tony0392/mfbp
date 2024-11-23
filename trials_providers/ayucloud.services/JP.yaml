@@ -1,8 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 9335aaa39d19411e8165e5d7b31e8d07.node.tro.node-is.green, port: 42996, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: d818124169569b06127c2b36fcdcc9d9.node.tro.node-is.green, port: 45425, type: trojan, password: 4e653213-122b-42d5-b652-09e1de741b9c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: a2d5f103026.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: a2d5f103026.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: a2d5f103026.download.windowsupdate.com}, udp: true}
