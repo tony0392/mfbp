@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 6cec42a754c1e9acc874ae79cb771abe.node.tro.node-is.green, port: 49269, type: trojan, password: c4785be3-d109-48a6-93ab-6118f9db983c, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: ed16d633826d4c08d169c0339ea8a9f6.node.tro.node-is.green, port: 42424, type: trojan, password: c4785be3-d109-48a6-93ab-6118f9db983c, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 80861464cb4e602c6b42b9498844123c.node.tro.node-is.green, port: 47685, type: trojan, password: 91fd5c9e-0a55-4c20-8e60-f15a41e5b6f3, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 3ea4feec525cea1fd0f9387c5c79c6d0.node.tro.node-is.green, port: 48662, type: trojan, password: 91fd5c9e-0a55-4c20-8e60-f15a41e5b6f3, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 4eb0dd10-c0cd-35f1-b206-4660312a8e05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: e7ebf103072.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: e7ebf103072.download.windowsupdate.com}, udp: true}

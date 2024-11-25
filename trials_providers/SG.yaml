@@ -1,20 +1,20 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 3273b00105f603d0b70362dfed6cc9d8.node.tro.node-is.green, port: 41871, type: trojan, password: c4785be3-d109-48a6-93ab-6118f9db983c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 3d61cd1c6d4e5455223ca276e49330ef.node.tro.node-is.green, port: 45012, type: trojan, password: c4785be3-d109-48a6-93ab-6118f9db983c, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 4f0ce210-2ff0-38e4-8319-5203c8835863, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 4031437da749e3fda6ec8edaadb735c6.node.tro.node-is.green, port: 42222, type: trojan, password: 91fd5c9e-0a55-4c20-8e60-f15a41e5b6f3, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: d9975451b5672dff8ee0a622cf23dd33.node.tro.node-is.green, port: 46582, type: trojan, password: 91fd5c9e-0a55-4c20-8e60-f15a41e5b6f3, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 4eb0dd10-c0cd-35f1-b206-4660312a8e05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 4eb0dd10-c0cd-35f1-b206-4660312a8e05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 72570ee4-46c9-34ce-b0be-41cc84f0b409, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 72570ee4-46c9-34ce-b0be-41cc84f0b409, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 72570ee4-46c9-34ce-b0be-41cc84f0b409, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 72570ee4-46c9-34ce-b0be-41cc84f0b409, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 72570ee4-46c9-34ce-b0be-41cc84f0b409, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 82f50ef8-8de4-30a3-a518-b880fa62594c, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 82f50ef8-8de4-30a3-a518-b880fa62594c, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 82f50ef8-8de4-30a3-a518-b880fa62594c, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 82f50ef8-8de4-30a3-a518-b880fa62594c, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 82f50ef8-8de4-30a3-a518-b880fa62594c, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: e7ebf103072.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: e7ebf103072.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: e7ebf103072.download.windowsupdate.com}, udp: true}
