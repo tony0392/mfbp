@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: e2422739524f5d703f12f5efa56f8897.node.tro.node-is.green, port: 40548, type: trojan, password: bb2d4eda-7235-4589-8001-0f29c7f3da7a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: d8c7f9e8ea805f0466482f730925a41c.node.tro.node-is.green, port: 42943, type: trojan, password: bb2d4eda-7235-4589-8001-0f29c7f3da7a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 4793476d4ec6566d21ec44f847b7b99f.node.tro.node-is.green, port: 43497, type: trojan, password: bb2d4eda-7235-4589-8001-0f29c7f3da7a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: f522e91c4090237405c907162f02bcfc.node.tro.node-is.green, port: 41029, type: trojan, password: bb2d4eda-7235-4589-8001-0f29c7f3da7a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 56aff9a4-2d51-3f78-8163-d0f29055000f, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
