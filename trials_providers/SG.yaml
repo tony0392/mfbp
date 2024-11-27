@@ -3,11 +3,11 @@
 proxies:
 - {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 019bfc7e04b18f2245c047732c40ffc2.node.tro.node-is.green, port: 44497, type: trojan, password: a506dd56-1920-429b-a8dc-f2b3a2633788, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: d9b774761c012474a7b2fc256869808b.node.tro.node-is.green, port: 45038, type: trojan, password: a506dd56-1920-429b-a8dc-f2b3a2633788, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 8fbd6a85-2d52-39b3-8672-13a261a2aa50, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 8fbd6a85-2d52-39b3-8672-13a261a2aa50, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 8fbd6a85-2d52-39b3-8672-13a261a2aa50, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 8fbd6a85-2d52-39b3-8672-13a261a2aa50, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 8fbd6a85-2d52-39b3-8672-13a261a2aa50, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 574db91c-5cf3-30b9-9f18-2b2ebc6f7626, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 574db91c-5cf3-30b9-9f18-2b2ebc6f7626, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 574db91c-5cf3-30b9-9f18-2b2ebc6f7626, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 574db91c-5cf3-30b9-9f18-2b2ebc6f7626, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 574db91c-5cf3-30b9-9f18-2b2ebc6f7626, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f7bc05e9-1dcc-36a5-934b-9cdca9f9698d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: f7bc05e9-1dcc-36a5-934b-9cdca9f9698d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 18efd537-136f-39bf-bc5a-4036529edb92, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
