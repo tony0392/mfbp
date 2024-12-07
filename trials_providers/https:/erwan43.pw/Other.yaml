@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: ℹ️ 网站回家页：https://ewhome.net - 尔湾云, server: 1.1.1.1, port: 1234, type: ss, cipher: aes-256-gcm, password: SSJT7oMXYdc2jmjg, udp: true}
