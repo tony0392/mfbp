@@ -106,36 +106,36 @@ proxy-groups:
 proxy-providers:
   TW:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/mgnet.vip/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/mgnet.vip/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/mgnet.vip/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/Other.yaml
+    url: https://raw.kgithub.com/tony0392/mfbp/main/trials_providers/mgnet.vip/Other.yaml
     interval: 180
-    path: trials_providers/Other.yaml
+    path: trials_providers/mgnet.vip/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
