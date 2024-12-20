@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 15d982a7-fc8c-3f95-a808-70302dd8c188, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: c789b3b3-bf15-3c6e-b105-e149077fb851, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip102.qlgq.fun, port: 11789, type: trojan, password: d17a9ed5-f2bb-3d15-91d1-786bb2e4a69b, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
 - {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip102.qlgq.fun, port: 21789, type: trojan, password: d17a9ed5-f2bb-3d15-91d1-786bb2e4a69b, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
 - {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip102.qlgq.fun, port: 31789, type: trojan, password: d17a9ed5-f2bb-3d15-91d1-786bb2e4a69b, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
