@@ -5,6 +5,7 @@ on:
     - cron:  '40 08 * * *'
 permissions: write-all
 
+
   workflow_dispatch:
   
 jobs:
