@@ -1,10 +1,10 @@
 name: get_trial.py
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '51 08 * * *'
-  push:
-    paths-ignore:
-      - '**'
+    - cron:  '40 08 * * *'
+permissions: write-all
+
   workflow_dispatch:
   
 jobs:
