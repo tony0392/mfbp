@@ -1,9 +1,12 @@
 name: get_trial.py
 on:
-  workflow_dispatch:
   schedule:
-    - cron:  '40 08 * * *'
-permissions: write-all
+    - cron: '51 08 * * *'
+  push:
+    paths-ignore:
+      - '**'
+  workflow_dispatch:
+  
 jobs:
   main:
     runs-on: ubuntu-latest
