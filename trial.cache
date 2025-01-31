@@ -1,8 +1,8 @@
 [2.flybar20.cc]
-banned_domains  psnator.com  bareed.ws  tmpmail.net  tmpmail.org  moakt.ws  xxxhi.cc  nespressopixie.com  disbox.net  tmail.ws  tmails.net
+banned_domains  psnator.com  bareed.ws  tmpmail.net  tmpmail.org  moakt.ws  xxxhi.cc  nespressopixie.com  disbox.net  tmail.ws  tmails.net  disbox.org  mydefipet.live
 email  wbfzhpz849@guerrillamail.de
 invite_code  QZXq  10000
-last_checkin  2025-01-30 16:44:54.275452+08:00
+last_checkin  2025-01-31 16:45:09.695129+08:00
 name  飞翔吧
 node_n  47
 sub_info  0B  10.16G  2025-01-30 16:46:29+08:00  (剩余 10.16G 23:59:53.837114)
@@ -11,26 +11,26 @@ time  2025-01-29 16:46:31.888670+08:00
 type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"dnkzqqizr805@mail.shouyou789.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱验证码超时(nwjtdnjim38@mydefipet.live)
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  ciztaexrb567@gmail.com
-last_checkin  2025-01-30 16:45:17.132026+08:00
+last_checkin  2025-01-31 16:45:09.695535+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.524G  2025-02-01 17:45:16+08:00  (剩余 5.524G 2 days, 0:59:57.012755)
+sub_info  0B  6.096G  2025-02-01 17:45:16+08:00  (剩余 6.096G 1 day, 1:00:03.219243)
 sub_url  https://www.mgnet.sbs/link/mDbIeRgksULcCUz6?sub=3
 time  2025-01-30 16:45:17.605358+08:00
 type  sspanel
 
 [aa.dabai.in]
 email  qfcnkqjoj356@gmail.com
-last_checkin  2025-01-30 16:44:54.277590+08:00
+last_checkin  2025-01-31 16:45:09.695905+08:00
 name  大白
 node_n  7
-sub_info  2.77G  1.001T  2025-02-12 11:47:55+08:00  (剩余 1022G 12 days, 19:02:58.179959)
+sub_info  2.775G  1.001T  2025-02-12 11:47:55+08:00  (剩余 1022G 11 days, 19:02:42.892913)
 sub_url  https://aa.dabai.in/link/PsVcse9T7WV6y8dV?sub=3
 time  2025-01-13 11:47:56.555338+08:00
 type  sspanel
@@ -40,43 +40,43 @@ type  sspanel
 [lm.laomaoyun.me]
 
 [123xxx456.net#九离紫火云]
-banned_domains  guerrillamail.org  guerrillamail.biz  tmpbox.net  youxiang.dev  spam4.me  sharklasers.com  guerrillamail.de  lista.cc  555.cvrmpr.shop  tmpmail.org  mail.wvwvw.tech
+banned_domains  guerrillamail.org  guerrillamail.biz  tmpbox.net  youxiang.dev  spam4.me  sharklasers.com  guerrillamail.de  lista.cc  555.cvrmpr.shop  tmpmail.org  mail.wvwvw.tech  tmail.ws
 name  九紫离火雲
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"gffvloiqd613@lyx13.xyz","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱验证码超时(tynlrwkih483@tmail.ws)
 
 [17kana.com#一起飞]
 
 [22.lownet.xyz#fastest]
 name  fastest
 type  v2board
-更新订阅链接/续费续签失败  注册失败(chisnxx74@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(njbbaaxaz735@gmail.com): 'NoneType' object is not subscriptable
 
 [a.wly614.com#稳连云]
 buy  pass
-email  cqelrim19@gmail.com
+email  uhobtmycw484@gmail.com
 name  稳连云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://su.wlsub.com:8888/api/v1/client/subscribe?token=1634a0b0b91d1ba8f9d55b6e6a195e9d
-time  2025-01-30 16:45:06.151340+08:00
+sub_url  https://su.wlsub.com:8888/api/v1/client/subscribe?token=ce36dc3ce67c62f274a996f7c5a504a9
+time  2025-01-31 16:45:31.805319+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [azumase.ren#Yukihasu]
 error  <string>:2 Unexpected "f" at column 18
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(epbfxwto221@teml.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(rfwiouqq6@guerrillamail.org): {'message': '验证码有误'}
 
 [cacapex.com#CAC]
 name  CAC Apex
 type  v2board
-更新订阅链接/续费续签失败  注册失败(juaxzlw860@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(uripkqa770@gmail.com): 'NoneType' object is not subscriptable
 
 [cloud.bigme.pro#bigme]
 api_host  www.bigme.pro
 name  高可用性服务商 | BigME
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ycpbiwbo322@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nhuqibwu207@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 
@@ -86,35 +86,35 @@ type  v2board
 banned_domains  lista.cc  snapmail.cc
 name  探索者
 type  v2board
-更新订阅链接/续费续签失败  注册失败(lfkmeafp159@gmail.com): HTTPSConnectionPool(host='cryxr.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)')))
+更新订阅链接/续费续签失败  注册失败(ydfhaov168@teml.net): 邮箱后缀不处于白名单中
 
 [dash.fscloud.cc#FSCLOUD]
 name  FSCloud
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"vcewpjj332@mxl001.win","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(fipsyqgh937@tmails.net): {'message': '邮箱后缀不处于白名单中'}
 
 [directstore.kakocloud.pro#kako]
 name  Kako Cloud
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ljhbdfv870@jkb.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(efauhsawr294@tmpbox.net): {'message': '验证码有误'}
 
 [fastestcloud.xyz#FastFly]
 buy  pass
-email  wmaysjkj946@gmail.com
+email  letlzhjtj548@gmail.com
 name  FastFly
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.fastfly.sbs/api/v1/client/subscribe?token=ace8d68bfcf4ca2f39c6e408b6da81c1
-time  2025-01-30 16:45:05.509651+08:00
+sub_url  https://www.fastfly.sbs/api/v1/client/subscribe?token=d26d548711ec1670b5d6e4f2967f7b0b
+time  2025-01-31 16:45:18.847708+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [feiniaoyun01.life#飞鸟云]
 buy  pass
-email  lzfzmmunc69@gmail.com
+email  ywwgpoij638@gmail.com
 name  飞鸟云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fn1.feiniaoyun13.life/api/v1/client/subscribe?token=1d4473d3129fbd25f181b89825706b54
-time  2025-01-30 16:45:08.121825+08:00
+sub_url  https://fn1.feiniaoyun13.life/api/v1/client/subscribe?token=2355eaf02b40e868430bdba344419523
+time  2025-01-31 16:45:16.893329+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
 
@@ -125,50 +125,50 @@ type  v2board
 [jianjiaoyun.link#SNKnetwork]
 
 [ju-feng.azure-api.net#飓风]
-banned_domains  snapmail.cc  guerrillamail.com  disbox.net  teml.net  moakt.cc  guerrillamail.net  maxamba.com  bareed.ws  tmails.net  youxiang.dev  guerrillamail.de  linshiyou.com  moakt.ws  sharklasers.com
+banned_domains  snapmail.cc  guerrillamail.com  disbox.net  teml.net  moakt.cc  guerrillamail.net  maxamba.com  bareed.ws  tmails.net  youxiang.dev  guerrillamail.de  linshiyou.com  moakt.ws  sharklasers.com  teihu.com
 name  飓风Cloud
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(mhpjrja352@sharklasers.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(uorbnsq808@teihu.com)
 
 [kan.gar.ooo#Kangaroo]
 email_domain  freedom
 name  Kangaroo✦Network
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"zasophtf163@ipiso.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(jegaykkw416@spam4.me): {'message': '验证码有误'}
 
 [koumakan.quickline.top#红魔]
-banned_domains  sharklasers.com  moakt.co  555.cvrmpr.shop  lista.cc  youxiang.dev  tmpmail.net  tmail.ws  linshiyou.com  guerrillamail.com  grr.la  teml.net  guerrillamail.net  tmpeml.com  guerrillamail.biz  teihu.com  965.tmmad.com  xxxhi.cc
+banned_domains  sharklasers.com  moakt.co  555.cvrmpr.shop  lista.cc  youxiang.dev  tmpmail.net  tmail.ws  linshiyou.com  guerrillamail.com  grr.la  teml.net  guerrillamail.net  tmpeml.com  guerrillamail.biz  teihu.com  965.tmmad.com  xxxhi.cc  oakon.com
 name  红魔馆网络
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  获取邮箱验证码超时(qnbgbzbrb845@oakon.com)
 
 [ktmcloud.cloud#KTM]
 buy  pass
-email  nkfusyrej400@gmail.com
+email  gupopyvx645@gmail.com
 name  KTM Cloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=6e0496eb8cad8a82d298aa0af12fa8fe
-time  2025-01-30 16:45:00.526531+08:00
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=38c5be5f401daf352e7234f8dc9595f5
+time  2025-01-31 16:45:21.525899+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [lmweb01.lmspeed.pro#龙猫云]
-email  scdsjqvqu154@gmail.com
+email  bqpivhf184@gmail.com
 type  v2board
 更新订阅链接/续费续签失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!DOCTYPE html>\r\n<html lang="zh-CN">\r\n<head>\r\n <meta charset="UTF-8">\r\n <title>访问提示</title>\r\n <style>\r\n body {\r\n font-family: Arial, sans-serif;\r\n background-color: #f0f0f0;\r\n display: flex;\r\n justify-content: center;\r\n align-items: center;\r\n height: 100vh;\r\n margin: 0;\r\n }\r\n .container {\r\n background-color: #ffffff;\r\n padding: 40px;\r\n border-radius: 8px;\r\n box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\r\n text-align: center;\r\n }\r\n h1 {\r\n color: #333333;\r\n }\r\n p {\r\n color: #555555;\r\n margin: 20px 0;\r\n }\r\n a.button {\r\n display: inline-block;\r\n padding: 12px 24px;\r\n background-color: #007BFF;\r\n color: #ffffff;\r\n text-decoration: none;\r\n border-radius: 4px;\r\n transition: background-color 0.3s ease;\r\n }\r\n a.button:hover {\r\n background-color: #0056b3;\r\n }\r\n </style>\r\n</head>\r\n<body>\r\n <div class="container">\r\n <h1>欢迎访问！</h1>\r\n <p>要打开网站，请点击下方按钮。</p>\r\n <a href="https://lmnody.lmspeed.co" class="button">点击前往官网</a>\r\n </div>\r\n</body>\r\n</html>\r\n')
 
 [proxyvip.xyz#Proxyvip]
-banned_domains  moakt.co  guerrillamail.com  tmails.net  linshiyou.com  muatoc.com  moakt.cc  moakt.ws  xxxhi.cc  guerrillamail.biz  snapmail.cc  bareed.ws  lplso.tmmad.com  teihu.com  spam4.me  555.vtnli.shop  disbox.net  oakon.com  guerrillamail.org
+banned_domains  moakt.co  guerrillamail.com  tmails.net  linshiyou.com  muatoc.com  moakt.cc  moakt.ws  xxxhi.cc  guerrillamail.biz  snapmail.cc  bareed.ws  lplso.tmmad.com  teihu.com  spam4.me  555.vtnli.shop  disbox.net  oakon.com  guerrillamail.org  bccto.cc
 name  Proxyvip
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  获取邮箱验证码超时(oxgkiifqf735@bccto.cc)
 
 [shiyuanyinian.xyz#十元一年]
 
 [skyvpn.one#sky vpn]
 name  SKY VPN
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  发送邮箱验证码失败(mcvnzghxz837@sharklasers.com): {'ret': 0, 'msg': '非法请求'}
 
 [skyvvips.shop#sky]
 
@@ -176,12 +176,12 @@ type  sspanel
 banned_domains  tmpmail.net  tmail.ws  tmails.net  moakt.co  bareed.ws
 name  Tannel中继网络服务
 type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(sbhasjcm646@rgzx.tmmad.com): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(kcjcpcng173@xxxhi.cc): {'ret': 0, 'msg': '非法请求'}
 
 [v.spwvpn.com#麻雀加速器]
 name  Sparrow 麻雀加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(sjkikmoa587@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(mzflzwv441@gmail.com): 本站已关闭注册
 
 [vipxgyun.com#西瓜皮]
 
@@ -189,20 +189,20 @@ type  v2board
 banned_domains  guerrillamail.de
 name  Helium Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(mqleaztd36@pastryofistanbul.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (429 Too Many Requests '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n<title>Access denied | web.henet.uk used Cloudflare to restrict access</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n<script>\n(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");\nb.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();\n</script>\n\n<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>\n</head>\n<body>\n <div id="cf-wrapper">\n <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">\n <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">\n <span data-translate="error">Error</span>\n <span>1015</span>\n </h1>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 90a02ee1586829bb &bull;</span>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-01-30 08:44:58 UTC</span>\n <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>\n </header>\n\n <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div id="what-happened-section" class="w-1/2 md:w-full">\n <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>\n <p>The owner of this website (web.henet.uk) has banned you temporarily from accessing this website.</p>\n \n </div>\n\n \n </section>\n\n <div class="feedback-hidden py-8 text-center" id="error-feedback">\n <div id="error-feedback-survey" class="footer-line-wrapper">\n Was this page helpful?\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>\n </div>\n <div class="feedback-success feedback-hidden" id="error-feedback-success">\n Thank you for your feedback!\n </div>\n</div>\n\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90a02ee1586829bb</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.42.51.76</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div><!-- /#cf-error-details -->\n </div><!-- /#cf-wrapper -->\n\n <script>\n window._cf_translation = {};\n \n \n</script>\n\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  发送邮箱验证码失败(lolwqkreh361@disbox.net): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (429 Too Many Requests '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n<title>Access denied | web.henet.uk used Cloudflare to restrict access</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n<script>\n(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");\nb.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();\n</script>\n\n<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>\n</head>\n<body>\n <div id="cf-wrapper">\n <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">\n <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">\n <span data-translate="error">Error</span>\n <span>1015</span>\n </h1>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 90a86c9399f8084c &bull;</span>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-01-31 08:45:11 UTC</span>\n <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>\n </header>\n\n <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div id="what-happened-section" class="w-1/2 md:w-full">\n <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>\n <p>The owner of this website (web.henet.uk) has banned you temporarily from accessing this website.</p>\n \n </div>\n\n \n </section>\n\n <div class="feedback-hidden py-8 text-center" id="error-feedback">\n <div id="error-feedback-survey" class="footer-line-wrapper">\n Was this page helpful?\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>\n </div>\n <div class="feedback-success feedback-hidden" id="error-feedback-success">\n Thank you for your feedback!\n </div>\n</div>\n\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90a86c9399f8084c</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.57.46.42</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div><!-- /#cf-error-details -->\n </div><!-- /#cf-wrapper -->\n\n <script>\n window._cf_translation = {};\n \n \n</script>\n\n</body>\n</html>\n')
 
 [yifang.win#一方加速器]
 name  一方加速器
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(qhpqhhxer592@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!doctype html><html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Slim Application Error</title> <style> body{margin:0;padding:30px;font:12px/1.5 Helvetica,Arial,Verdana,sans-serif} h1{margin:0;font-size:48px;font-weight:normal;line-height:48px} strong{display:inline-block;width:65px} </style> </head> <body> <h1>Slim Application Error</h1> <div><p>The application could not run because of the following error:</p><h2>Details</h2><div><strong>Type:</strong> TypeError</div><div><strong>Code:</strong> 0</div><div><strong>Message:</strong> trim(): Argument #1 ($string) must be of type string, null given</div><div><strong>File:</strong> /www/wwwroot/2.2/src/Controllers/AuthController.php</div><div><strong>Line:</strong> 299</div><h2>Trace</h2><pre>#0 /www/wwwroot/2.2/src/Controllers/AuthController.php(299): trim()\n#1 /www/wwwroot/2.2/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(38): App\\Controllers\\AuthController-&gt;registerHandle()\n#2 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(363): Slim\\Handlers\\Strategies\\RequestResponse-&gt;__invoke()\n#3 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Slim\\Routing\\Route-&gt;handle()\n#4 /www/wwwroot/2.2/src/Middleware/Guest.php(26): Slim\\MiddlewareDispatcher-&gt;handle()\n#5 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\Guest-&gt;process()\n#6 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#7 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(321): Slim\\MiddlewareDispatcher-&gt;handle()\n#8 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/RouteRunner.php(74): Slim\\Routing\\Route-&gt;run()\n#9 /www/wwwroot/2.2/src/Middleware/ErrorHandler.php(44): Slim\\Routing\\RouteRunner-&gt;handle()\n#10 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\ErrorHandler-&gt;process()\n#11 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#12 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(209): Slim\\MiddlewareDispatcher-&gt;handle()\n#13 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(193): Slim\\App-&gt;handle()\n#14 /www/wwwroot/2.2/public/index.php(40): Slim\\App-&gt;run()\n#15 {main}</pre></div> <a href="#" onclick="window.history.go(-1)">Go Back</a> </body></html>')
+更新订阅链接/续费续签失败  注册失败(mebfxohkb412@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!doctype html><html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Slim Application Error</title> <style> body{margin:0;padding:30px;font:12px/1.5 Helvetica,Arial,Verdana,sans-serif} h1{margin:0;font-size:48px;font-weight:normal;line-height:48px} strong{display:inline-block;width:65px} </style> </head> <body> <h1>Slim Application Error</h1> <div><p>The application could not run because of the following error:</p><h2>Details</h2><div><strong>Type:</strong> TypeError</div><div><strong>Code:</strong> 0</div><div><strong>Message:</strong> trim(): Argument #1 ($string) must be of type string, null given</div><div><strong>File:</strong> /www/wwwroot/2.2/src/Controllers/AuthController.php</div><div><strong>Line:</strong> 299</div><h2>Trace</h2><pre>#0 /www/wwwroot/2.2/src/Controllers/AuthController.php(299): trim()\n#1 /www/wwwroot/2.2/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(38): App\\Controllers\\AuthController-&gt;registerHandle()\n#2 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(363): Slim\\Handlers\\Strategies\\RequestResponse-&gt;__invoke()\n#3 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Slim\\Routing\\Route-&gt;handle()\n#4 /www/wwwroot/2.2/src/Middleware/Guest.php(26): Slim\\MiddlewareDispatcher-&gt;handle()\n#5 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\Guest-&gt;process()\n#6 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#7 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(321): Slim\\MiddlewareDispatcher-&gt;handle()\n#8 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/RouteRunner.php(74): Slim\\Routing\\Route-&gt;run()\n#9 /www/wwwroot/2.2/src/Middleware/ErrorHandler.php(44): Slim\\Routing\\RouteRunner-&gt;handle()\n#10 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\ErrorHandler-&gt;process()\n#11 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#12 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(209): Slim\\MiddlewareDispatcher-&gt;handle()\n#13 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(193): Slim\\App-&gt;handle()\n#14 /www/wwwroot/2.2/public/index.php(40): Slim\\App-&gt;run()\n#15 {main}</pre></div> <a href="#" onclick="window.history.go(-1)">Go Back</a> </body></html>')
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  jenukkr818@gmail.com
+email  ynduutwz297@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.club/api/v1/client/subscribe?token=b920e5ace5226c4bfb013795755ec7c3
-time  2025-01-30 16:45:02.799766+08:00
+sub_url  https://yingwuyun.club/api/v1/client/subscribe?token=104461023fd44a26c85deb59f1114ad5
+time  2025-01-31 16:45:20.612953+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -213,19 +213,19 @@ sub_info  0B  0B  永不过期  (剩余 0B)
 sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=189b46ae91a415096e585744f4beadf8
 time  2025-01-24 16:45:51.153069+08:00
 type  v2board
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
-更新订阅链接/续费续签失败  注册失败(gfuoahbi111@gmail.com): 'NoneType' object is not subscriptable
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(jfziphig32@gmail.com): 'NoneType' object is not subscriptable
 
 [ziyun. cyou#紫云]
 
 [养老机场.com]
 name  养老机场-Hy2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(syjcaah785@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wjvrxbinr383@gmail.com): 'NoneType' object is not subscriptable
 
 [一元机场.biz#一元机场]
 name  一元机场
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"wvtpstuw651@555.66liu.shop","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(zjmdhoree800@teihu.com): {'message': '邮箱后缀不处于白名单中'}
 
 [www.qlgq.top]
