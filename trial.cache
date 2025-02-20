@@ -1,8 +1,8 @@
 [2.flybar20.cc]
-banned_domains  psnator.com  bareed.ws  tmpmail.net  tmpmail.org  moakt.ws  xxxhi.cc  nespressopixie.com  disbox.net  tmail.ws  tmails.net  disbox.org  mydefipet.live  moakt.co
+banned_domains  psnator.com  bareed.ws  tmpmail.net  tmpmail.org  moakt.ws  xxxhi.cc  nespressopixie.com  disbox.net  tmail.ws  tmails.net  disbox.org  mydefipet.live  moakt.co  lplso.tmmad.com
 email  vzgleik349@965.tmmad.com
 invite_code  JWht  9999
-last_checkin  2025-02-19 16:48:01.812087+08:00
+last_checkin  2025-02-20 16:47:30.514844+08:00
 name  飞翔吧
 node_n  46
 sub_info  0B  10.18G  2025-02-19 16:47:54+08:00  (剩余 10.18G 23:59:54.535233)
@@ -11,26 +11,26 @@ time  2025-02-18 16:47:56.666424+08:00
 type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+更新订阅链接/续费续签失败  获取邮箱验证码超时(qqdythmd836@lplso.tmmad.com)
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  klpytyr781@gmail.com
-last_checkin  2025-02-19 16:48:01.812677+08:00
+last_checkin  2025-02-20 16:47:30.515354+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.969G  2025-02-20 17:47:58+08:00  (剩余 5.969G 1 day, 0:59:48.985958)
+sub_info  295M  6.371G  2025-02-20 17:47:58+08:00  (剩余 6.083G 1:00:25.013355)
 sub_url  https://www.mgnet.sbs/link/nxPbbHPUksNAhEiD?sub=3
 time  2025-02-18 16:47:59.142235+08:00
 type  sspanel
 
 [aa.dabai.in]
 email  rmwifgon625@gmail.com
-last_checkin  2025-02-19 16:48:01.814725+08:00
+last_checkin  2025-02-20 16:47:30.515702+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-20 16:47:48+08:00  (剩余 1T 28 days, 23:59:43.353615)
+sub_info  4.118M  1T  2025-03-20 16:47:48+08:00  (剩余 1T 28 days, 0:00:09.836738)
 sub_url  https://aa.dabai.in/link/xXQru3Ht1csMZgRv?sub=3
 time  2025-02-18 16:47:49.421444+08:00
 type  sspanel
@@ -43,40 +43,40 @@ type  sspanel
 banned_domains  guerrillamail.org  guerrillamail.biz  tmpbox.net  youxiang.dev  spam4.me  sharklasers.com  guerrillamail.de  lista.cc  555.cvrmpr.shop  tmpmail.org  mail.wvwvw.tech  tmail.ws  wfes.site  linshiyou.com  tmails.net  disbox.net  rgzx.tmmad.com  mxl001.win  disbox.org  tmpeml.com  bareed.ws  555.vupkl.shop  snapmail.cc  teml.net
 name  九紫离火雲
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"qpvptihm236@442587.xyz","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [17kana.com#一起飞]
 
 [22.lownet.xyz#fastest]
 name  fastest
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ugkrwmhuy548@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ubutqffso861@gmail.com): 'NoneType' object is not subscriptable
 
 [a.wly614.com#稳连云]
 buy  pass
-email  ualurgn679@gmail.com
+email  rwinaler686@gmail.com
 name  稳连云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://su.wlsub.com:8888/api/v1/client/subscribe?token=9fb9b5d0ad12ea458bf5835ae9ee6d45
-time  2025-02-19 16:48:14.516522+08:00
+sub_url  https://su.wlsub.com:8888/api/v1/client/subscribe?token=8c10a0585e2d184b0d846bda3a709ef9
+time  2025-02-20 16:47:34.730030+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [azumase.ren#Yukihasu]
 error  <string>:2 Unexpected "f" at column 18
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"pabtbov392@zz.vlvitp.shop","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"heyrcowr175@rgzx.tmmad.com","success":"false"}'
 
 [cacapex.com#CAC]
 name  CAC Apex
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mewonpe166@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(jscmnva720@gmail.com): 'NoneType' object is not subscriptable
 
 [cloud.bigme.pro#bigme]
 api_host  www.bigme.pro
 name  高可用性服务商 | BigME
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mxcryifao897@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(vfrhtjw44@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 
@@ -86,25 +86,25 @@ type  v2board
 banned_domains  lista.cc  snapmail.cc  psnator.com
 name  探索者
 type  v2board
-更新订阅链接/续费续签失败  注册失败(klkfrigi524@tmpmail.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [dash.fscloud.cc#FSCLOUD]
 name  FSCloud
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"hypkwqz682@rgzx.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [directstore.kakocloud.pro#kako]
 name  Kako Cloud
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(husuyjp31@mail.shouyou789.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"cvbnktxev770@965.tmmad.com","success":"false"}'
 
 [fastestcloud.xyz#FastFly]
 buy  pass
-email  txtymffz64@gmail.com
+email  foinljzmp250@gmail.com
 name  FastFly
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=55d9c014acd0f6c6ed88d614c76e18c5
-time  2025-02-19 16:48:13.463607+08:00
+sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=441e21d93206fd04a059226de4cec680
+time  2025-02-20 16:47:45.760183+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -129,40 +129,40 @@ type  v2board
 banned_domains  snapmail.cc  guerrillamail.com  disbox.net  teml.net  moakt.cc  guerrillamail.net  maxamba.com  bareed.ws  tmails.net  youxiang.dev  guerrillamail.de  linshiyou.com  moakt.ws  sharklasers.com  teihu.com  tmpnator.live  tmpeml.com  lista.cc  moakt.co  disbox.org  questtechsystems.com  guerrillamail.org  xxxhi.cc  guerrillamail.biz
 name  飓风Cloud
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"gmstsrjd735@qwer.usphms.shop","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"fzgauod670@zz.vlvitp.shop","success":"false"}'
 
 [kan.gar.ooo#Kangaroo]
 email_domain  freedom
 name  Kangaroo✦Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zswwxvh278@bareed.ws): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(reddglcra679@tmails.net): {'message': '验证码有误'}
 
 [koumakan.quickline.top#红魔]
 banned_domains  sharklasers.com  moakt.co  555.cvrmpr.shop  lista.cc  youxiang.dev  tmpmail.net  tmail.ws  linshiyou.com  guerrillamail.com  grr.la  teml.net  guerrillamail.net  tmpeml.com  guerrillamail.biz  teihu.com  965.tmmad.com  xxxhi.cc  oakon.com  tmpbox.net  questtechsystems.com  psnator.com  xiaoyaoemail.cc  mail.wvwvw.tech  rgzx.tmmad.com  lplso.tmmad.com
 name  红魔馆网络
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"uzaahgsx529@zz.vlvitp.shop","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"kofqqgffv590@edu.chqu.school","success":"false"}'
 
 [ktmcloud.cloud#KTM]
 buy  pass
-email  vytmzfkcj226@gmail.com
+email  ekqseko761@gmail.com
 name  KTM Cloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=3ab7feb7097c1a4c58e21636cb9cf8cc
-time  2025-02-19 16:48:10.995841+08:00
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=e66b8408e827c13bd28557d48d875375
+time  2025-02-20 16:47:40.082608+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [lmweb01.lmspeed.pro#龙猫云]
 email  skvlybla440@gmail.com
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ryoidizy998@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "lmweb01.lmspeed.pro",cType: \'managed\',cRay: \'9144fedbbd26cec5\',cH: \'7qUCr_6OMIOJAVt2FOCVfeZxObMSTt5JlELrcXNxL.U-1739954881-1.2.1.1-dox2GEgaQP6ygHj1J1MxM3OSMBH46NwRvgO41rjbPq1HBGCpqYKL0iVs.3Io7_zF\',cUPMDTk: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_tk=77JKGzXb3t3wR8JILiry4R.aG4nL0kDPz2ho8Hq0nsY-1739954881-1.0.1.1-k5ubsJpjHweSZh7YF_uLTq2XhjgN2gdtLRfkhN0UGjk",cFPWv: \'g\',cITimeS: \'1739954881\',cTTimeMs: \'1000\',cMTimeMs: \'390000\',cTplC: 0,cTplV: 5,cTplB: \'cf\',cK: "unsupported-browser",fa: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_f_tk=77JKGzXb3t3wR8JILiry4R.aG4nL0kDPz2ho8Hq0nsY-1739954881-1.0.1.1-k5ubsJpjHweSZh7YF_uLTq2XhjgN2gdtLRfkhN0UGjk",md: "cl4kpAbgB6OgpGAaYepqBUstEbcQq_VYzZRtzWr.E0o-1739954881-1.2.1.1-AE4kSqd0MUANEax6B5akc5XDeC08vglodoP6iSMCiO...yYpcyOOKcJm3mSOHMGYD8O6RNutppwToY6xn4fwtJXiqgdSP5l71cxaw9BbhAdVSmFhUGPZVweEa_7ju6FFum9BNjXpc6IYxZmCpxrngdAN2SHXj8f3xOjFHyCeN1O9AlYV6NSPDWA7l3cboc0zMalP7IoaeAuKpCg1heYfOvHzdnSG0qOXHH0KZSGQpA5mWvvFEXEKPjO30nGrjwo2_NUYeAFs2BbaXkdA7pOkyDoCk8XmL8MDZBKTz0V79Cx7covxosQlpTM1HclDfdNnmaRAQ8zkH05bdx1U5tmuQT8ia7_8ma3G03c4f4TIaJaY_SYxyxCiCqveSObNU1eM8U3p_7HSGvewo0MI20J6n5ixNdPTrSgesLqT1yMlUQVgVzNglX2bIsrKMYZD_XYiFoeH7xmVNj0OUWVc0Vk6p9tHrItuMickvnBUwoE.NYJeYeQKMaHFPQUa3dUdfzi4mI19_5goa2FBBJRwqYENTpnLdVmUEVxNYfdJUEdjumzxGh28kBKLIBiYTC2qUsU6v0eczB28lOk6DkheXnYO1qo2xW1vqh815Xqsv7bWeA8Ako.ck.RmBXg6SuA9KvCJOR3PVVPgQjKR2j907XgNtfKa0fWP8fYWMYK.LXtjOwfNR7MFtOCdE9IzMWX4WuPKiKY5NSL.F0ES23u6QZIrGt_wjZWtra5FlJVvWwHMWgKYm1ylszILRte4MeIlG_0gn62RUI.LL2Am26jYsFspJKBvBsVBf2go2f9AkVnN4.5TgGbhCsb1xYtHTrc3kQ6dNM9wExUwMEJsWGJxsit1BNbv1LNUr0fx3op4MUyMTwrcNFxhtTVhG37HLZaIg0s2WYalNX1Q6YozAzwWiDHuy3Mnm.KfH4XPfV._8op8vw9Gph6qFFYIsvKkrp0Cncs6_663HIv34cIT7o9PotegsUzfFwBHAq1H.GPUxwKeD7U58JLIVO6bOP9EyADHD9Sb316o6QQWmoLqyhXJV9jkFVkvqeNjq9x0_X3ipjiPqqLGLEgmR_ry_Z1aHvmjRcau81OaU74XLhbppmQI.14ac4YGs6rscQL6NtS9xk2lwyXAjT8TkLV9535v6iIbRHbz1dVHWNoZTcXV._iO3fnN8TfhQjwltB6p5MO.R3hKmq1WDr9.gitowOju2Njh1.EvuQE.V7UIHhqwUmJJKWhPbQnECxdzynUZuA9oWyvrpxpZOfm.Q08R1H7WKwRR.vaGLSu4GGKLzukeJRftzgjj39HJTi_kw77AebCkoSBq0wySsiJVkRzN7tvA111gtqmVboHewOPx7G1d0_N6aB0rdU.96.qj7zoOvRu1x1TGoiJnG0cELPHk653UYLIdNXxPnPwAgNO6gKVu4AvYd0EhLQyrP5Z1g8UT.yzNhKRV69YWYEuY9JKwcNKh4W8aUyUoF0mF308fMV3k8nhh3mNWJeMCRoHNkR2A2FSuosjkMPVDfgBdbUT2RFC7WFkY.l0Vtx4tNsiO46lOEGGE8WElLZzuENh_pQkDdn_4FFbvv8iNN75XOHgOZ9Y8iT8Jciy8Bid__khMPKQK3RmL3IwQz5ef3x4qrFBufZeds3M0mGCBnd7d68kR5uv1jIRI0szhP3Suq.u.baOPpH8SqmrCeT.R8XqvHBC5lBF7sq7iwg7NfrgRkBjz4GPISBwfKhMkFAsH16HappN_XAxyRXg6Szjc30MXGWsmaOd3ng37600dZ39zF_Z_ZjaPgjeWYL_bizDy3Qo2XSsepycHLUoZ6LPNy.CtQyDAgICCSIa3M5N4vMriokfKJqQbai8_qiHx67L2XMSiEtfuNR_XS79ZmZ5Qr_egM_FyrE3ohMzgrVJsdCzCP5c1IgSDr3efTgnz9pPmVgqVLOIkx_bGtiLwn4AY8G7NbS1SVIL.SOxOv996boDwFSDnd.neU1MUnzJHphgzGbt15mgrBWjxjKMX1sorT_IXeTBLC1RzcgEYk9RtaO6GlUu3OtI3.tNEvT6HRgM1FoVc3F5j6TN9mVGJ3JnmxtYlpUTAmH7N496D9hAisUwn9wGZhP22bD9uE4wL4KxN_IsB2KHLMtxbJePY683PQJjetMcrlpGWDemnAYmhuuEMVIPtNp83GHrtFl1sZEHOO6BWaS7r4JdYeLABlA9fGcIIX5R45dngEu5iAzYSOdqf1StSgZ8hKett7OlrdBHo4ONd1nSgjbBdHq9WSqBrcbh7a.UuH_tQ2JX6_eAB0mIUK8EQhjuwg1cnO2lrNtgf_pGhI1eTQzm0qcE427g.M3DADIYSF1rdA2YIN_FjfgnrcVUa2vFWdipxF1tK4boazWc42XY9O49fCLkFvQ",mdrd: "eObph0CyrWuv5Vadb2L08eFJHNaCLTs0cguPiLTBwnI-1739954881-1.2.1.1-bSLzW8SYM1FwcFZsEWJ6hIY9lAE7x_CGcz8VFGzdbDQJ9lvSwvgHhEEYXP7I2fb6PwfWuIH1hCjrRvQrysgninDV1BOV62ay_l7uIzLzsTQTFRzT7y5hYvRxRtwqhiSN9jf67XoKqv.5FKB55zariuAkyQvmOpd2xo_HQGK15YPPfrFqpUI.oRewk4Ncd0.j2mExg1KAagUSSpJxR.GWUh4ioU3ilLrdf22v161SLjNagCxJdGwZHfvzKLzh.8RZYiguCHMoHmeUTFsy9qUJwA.D3CMO9CypRB1oaPwlDSR4HW_pTTzlJ40akGPS3.NtRVm42ZpM_79vdr2TIAVqY_S8zSdhAQCG9lC6e6Mb_c6DTr0k8j5nBko6AsY1SErABGTJB8ETPI_Jvw91xpGSrcc7GmsI6Qo3qOAu1ENKJDhlZWkV_KY.y6KvA5W5dJdSmsSPNDCCM1oaKbzIhXYWg.V0Kp8OqLzDgZX_pU_n.MzdFy_Ulz15kGOMwA0DD2Eh3VzZcC4gQ18Tm9bqL_bfYIFc2C2OnSubybF4LputE9_ulrgNBleDmBsL4.mmE9HnMHtE2namYoCDaXiyjWyc7sOB0sxpjF0GIe_gQ2i3eDemE066E1jMxeNVbsXxOGcGq6pSOwQ06z2W4KR5PA724.3KgplziuV_uwEwBCsipG.yGEFI7m6OcKKQA9vNfEtL2NGpAr7pAF8qZrmM0XjQ_6hTgeDnhhm8VY_OyBP1UwlFTTV7pu77RrWhAENKiIqVCnmgBvKF_LWLlL3L4shuAv5ZzDfaafISS_MlPrsqp5VzM8tY3wd_rwq.E8QznfhEa6XrVJr7N2Mbw3QcBnNgiLQWfwpOL3t4CiMw422LJ4yEE4hpFwys_2j9Vh_9W.H6z5F4.NzDLyKXaZorJDofEU7Bl1zBIm1Jo4qPms8XPdS1jxcdERDKIY1Ah_Wpc_B4fjwz1MxJkYmM8wHukuG_outSxh96M_9B790aZFTF4Je9zt8kLFYPVhxLrGyWG_9fmy9uY41dXVLEX1yACdpN1hHuSjqVDGYUbuBuRDuLDNFj3nIgCVdb.WnVQ7MuUja.HI33YvfxPlKW4oFF2689JcHQvh5HAZPiimteZ5sWtP0dnpZdA5x9nvmcHoXe2utKxuRXlbLLbyIbjgSJXhYmoUN0hCKIyvDToJYgrjj40iLEqeTXX3zC7y1QNBVtmz70yNCeIEdD1PRTaRbMZL7tkAmp_kCuzIw1vv73rKBqoN.VEkcML4xYzzbumvsuJuoPcjObNMj53x0z0q6A2tjrcDfcrvanOosaDDaMnpU52f7ZdsNAq1Pv0fIQT1YdRcEl7_9V6ddv2VnUgvTzcnqwz8PJp.muvCQu3L1qzsglX.FY4Qk9_15PLtNqh.AU0eERzql.OFaDbASydgJfhnO8ZVPAo9Sllrzy1V5dt0rJ.RFqehThp7fuorfYpfGzSHBZXOJHDbcJryngIoM3VFrUGJaiF8Xel5ykHLP..f01D3VpLvk73DEtZtA11O.flFdLbtE4n8cM2xfRUex.95zu4uq5Z8Sho4Uz8sRWkmkE50FubO2_uYcRMGYN6R_GRFCtiABW0sDF0mHov9uSnFbzvW9dNoFmqGnUY.aUFuKQR.dGaY7Hu0e2qxB5YJ1RsesPd956xSbo2y5SR7OR.0AeAtziaeZVQtCKqlDQkeOSwFC4v6inhJfxqybtqgB2bDdMHh49e.wXGTuyBDMsjMxY0szLYqEK15HkCv_ctoeZc7XOtkoxsHMMVAlF_u8PAqc_tifAUCG2aXLEe.32QVNC3pP7L8VBagiz8guKB9Y0dS1hDLt46ZzCzdtJpMU1MqXIYqLJmtfxupJT_5qJhv5SHS3DK3f_7JJ1j1rb.BHIfaS2I8UePsSQo1WPH53s8KjZ3pzdD37VH6Aro22ylHH0S8247HN0h7o1xro3Sgo0aFI968k_F1OP7XC70bxddsRCL_jEACb9v90pbLKCfw0znDjbLIonfvwdyRrUCgvGRgyYhZsj_IeGe7ToT908ws0QbUyHqxzGmDhChKETWoAYw07pIEBG9oPzl8F3nhD2PMGrfKX7TU1sim1J9PXbyPezPW7HFIQo.NGRIGdeuZlUPSdxkDPOmU999MoBElsJGVS8wKWgO5KkQ2qgC4YPFtDcY5S7kuKW4Xx3Fxl945muFlNk3F73.X5.q3c.ASzAKRS_koKcmPFcf6GOXAIU9.QDdzjmFVPGPPslxDx4nO_5jZqvkK60oFRShybzASzlUQvq_5w7Xsqz1n20P4w_OXr8R.R5W.kdMMaQRwYk1cxSXsvNIXoCgrc6RozY3P9.mcXABDo6Lb6HAaSLMfIIK5ULfQwVN7sUH0elT.UW90XS8szD.GckyeWvWWmnk3x3AoTntSK0E99nfylt3rxSIY6MWj14okZCAFXk.NSVavxvyg"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9144fedbbd26cec5\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_rt_tk=77JKGzXb3t3wR8JILiry4R.aG4nL0kDPz2ho8Hq0nsY-1739954881-1.0.1.1-k5ubsJpjHweSZh7YF_uLTq2XhjgN2gdtLRfkhN0UGjk" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
+更新订阅链接/续费续签失败  注册失败(bltbztitc603@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "lmweb01.lmspeed.pro",cType: \'managed\',cRay: \'914d3b783970e25a\',cH: \'toDQPoKFJlCIjkUIqHgssNwi2fSudgaIHiP.NZ696Xc-1740041250-1.2.1.1-dClHRu9QRozwmFPYSuzfE7gwdLrSGonVMaAimVW8Xm7_cXYIBjX3pXntu0jecXTq\',cUPMDTk: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_tk=E9ARlhAh_qArsQVPljL.k8UFhdVzyb3HP61s5Bb7glA-1740041250-1.0.1.1-zxJnL629tUlfYrMdhSPc53WK4sT0mztPruNuocdsGRo",cFPWv: \'g\',cITimeS: \'1740041250\',cTTimeMs: \'1000\',cMTimeMs: \'390000\',cTplC: 0,cTplV: 5,cTplB: \'cf\',cK: "unsupported-browser",fa: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_f_tk=E9ARlhAh_qArsQVPljL.k8UFhdVzyb3HP61s5Bb7glA-1740041250-1.0.1.1-zxJnL629tUlfYrMdhSPc53WK4sT0mztPruNuocdsGRo",md: "dFkaZ_tTK1dHRYmf37s9OojIsSioCjobWjEcNlUlIzE-1740041250-1.2.1.1-7LHX.IYvqC6Q0ZPZfy308pG5UomOtN.LrfhMH_m9vWQarO51mv9cxPvbkdbxQztVNnxKGye7ILli3qhaUcqKm0dvhxJeYdNpK6Q1myNm1sdbkKuctJ_IXpZ03xC8wm7V5qpIAKbdCSTgKySY_ieJ1FG2cTBE3qn71HhnNK5.JUxOnz92sMkfrYwFEgI7wfwVGnbkEDTPsY.GQaRZJPfNyq7UmrFfrjWTYtEXVXZQ1BBOOtlS7ujUt07wJMyfil.0INPjlzbq5aba3TNX2Hxbzy4l8zYAkm.dT_Oo2woNlmp_5zpdQDMen1LUGHFw_YBS2u7SkfXlcp_3NC5aeRHJIBFfYu2tg2VRrkU6VbrDxwNLUfXd4txZLMWP5t1IxxdI0lSio_hRp0Q.VJCtBF.zpxEWXk8Npa62SsWJ2ZvMSJibjDSuMgDlRfelEzp5MEptDQezJOaAoBDQyx6ZOTpO5PicpoVrOXw6sNQIGyfVhmB5h9zzdyANMjOcSBNG8qm5VHpfoy9MVCfvyZ0g1wQWusSWHhnrV9X93xGIDFjITj7FmBOHLIybna810IeywnJ5NTXSRAA8YukXKDb0r88TYNc1d7Ty3aEDYe5oUhMsYxLR39f.2OgP2RADI7eMxCoHH73ZLJSFlCUKX8ekPjN3eSP3VyWsm69a8db4juHl4kYVBHjR.I8KX3tj0xfiuD..azZvL91jqyqkylJkeD._g379U_ZnrGftZIkA695_Y4lagea1Pj0dKlEFpnoWkMpTPanC96ljf_XqJYL135BZZ3ZL8E9J82KjU7TpQ51qgLFeOzjPopkVIAajyOmQK89cubsPHqotkn0bdqtDs7NcuFHca.9ofcj8sU_w51aZVWqNaFb7fek_GaHFgUQBVEWcEh01APsdHh97lROoZhqM2oZMxle_L2YAqNe2FQR9DVjTJM.diexM6rgmBdwqDE._kG_.vrex33rNGpwMxo9M8I6Hi7UdMJX3AIWo1ErTtA3uN58BCVWpbZyGPLBzzBwzZXwnWQbiV3TinRWTZhEKlN2z9KiN5gdehzUiB1nFvakETbxyu6MHgvG_yLtifOsqo6DL2mTevGW.IwGGF6PGPUmVD.xSDAxWUx9WUvul4_Bu.bdC5ghb2PmOAiZn2va.Ryf1sUTPv8F9rdK08lCv8SFJMhfmmPNlBlqb.70__mWRXTIBKKUPLBKBt0u4QO6qwIuFXH4tmgQ7HXIn4XaIU.7ikWj7QZEJSd0KtRz7WNTTShkawYAfc_Yky3LL.NwleSXRL_G._dCwg7kwmIRnhFVATHj9bZ5f5zY8M4zfB3i20ZQpx6GIPbH.fGbRJ5XFcLQz3Iv3E2HV6KeedXdesB4vYFWO5xeNPAMtqDVAubVWzJMzEBY3ZEOdbONIECfpv0NVUcCImeRoBYKaKwn34Vr4D1aEA79ueUXgyI7cQBPtWfjeU0mG17M06APh_E8l7ntSdWAlInARyx5kP1cM6nFSym6VBF._yOEYrs7vOf9c5rtHkP7cVRuWGLRl5axP81GqSQbkPTWQBGJfWz5v926OIVcM_8awdnikxcanx25yDJE.8TiqP7EAMjPpslCeROF45BN5KXMOu6q50Zm0a3pNJwoUXfRiSJQDdswm0Pes3iK9WpeMmlo5VgnZaijZdQPHYw24xDukYADzbWIVNb34mrTjbWM62_gv745hl_phCMV58EoB6zNf32GRT5juf7HnHoOdE5QdxLHK5W4lnALRELIzgaFxIvqB.A0kI8reMhBA34PKE7BvUgls93a.rEOo7RybqkT.hNSvNEOZmOriaUWeoRBQbxoLdWQAcTNoMSi5KYdnaXdrXiQUvu3WE8uop9AqLW2wkLlJXuQnBDx5itlSenkXQ4cXR1yJNEd0DIb.fiKOyokYj8uVe2X7.C37azdr_8F35VLvbaNDjRV9PQ.UeFxidSeBYDTxaUsfwgAEzed6qUOoeMi2xt85BFJrt_3b95yx8aAyUaYaKMXPkTljAs4NkE95jO.Ld5DWLEHcEzgNl6Bfi7ya9OrSXDOD56I46pNh.ryFVNf4VFTSV3nC5fldVrpJUSZEZHdcFCO_koavmwfcrgT4dnEEfMPK5qquW0YCsyrg4nVWnzgUbU6pQ.mXpebd54j4.4hCWpmMJ0JNw4u8MZrMFbVzeNFUakHARP8qpX0RYJ48TRv_98xB57BiPlgXx_LH9ffMa2wIRttGJmqg2MrAl_D8EzHKeRGc93kCuqfwWKd7WDhdQcJdCCtoEbxS4yDYHXvHbqCUzMWNpe1FwK_arGlfqYz5DEXKgLe.mbXkSYMQGZ8cQJPHP9TrOyqNuQcj9.wo_cQ2_XPLdvnCUMVSu1nV.65Ms5wNJVLUMZtYuqci6w",mdrd: "bQk911cbhCG7EA3qzzvFFj_FgJwsqK0hFx_Dk5obwEQ-1740041250-1.2.1.1-Ep_MOF0LGK6oLyYr7Q7yDTiMUXoTYk_QfEZCuwc0TUcXXIAZJZFF_5.fsQ98XRR5FNpTSXub_tZ3AGFsBiYXL8HyKCXykd8yotcXzLuJOEAYA1iizEoMMEWQDEpWyueqex3B0v46MEuLhZXhZZdNwofHoKf0zujrECNhEiLUJU7EMBFwfPfAMt91hn.A.lWSpjIfWP98SPmgsWABz.crdXdmSy2y_VrVB49pArmqVqWbygA_PXM5dClqSfuVlBatGizeTEEERAVdZgPjpTj1DiGtmF0cMxOzS953hOx1hvMp9zn1sLgfm4L32pSCuHLPGPAFcg0dZgpd.yBZZwIWTmVFoCXzS65GIF.jfRcrDB0x.myKXx5EFTn6JP_JFBaLDVTJbhzCJtjdhZzvkodIl1QnxO5_N9Hmq5i0tj6vIX.7t0Mc5_6LBDojSdnk8BIQeeRSyTcQX3LOoSzDONC10HEk9EQv_yiFaLJh4rrkgZPFRazne7N6tSYamGpvIcDUTps4HFrn.o3MHghn2cREQhzFzgCz45HbmPdtv_aYBXRnNahIQPfza3qu.XDrMS8W9Ed85hg1qZv8fLzlDWs4nkVAHN9VofowI.3Fyn.7APUGKmiAF.0AHfJc0eylWIZ1fmIH2AbAYl.fuMlDaEreEKlGVYxtHMTDZHnonR1m9K3R6QPAr8a5fkSGzsWoBejqBEyl2ZHlJQpiOkQH43geM7NkEkVCiI7WJJ.GoMlsmuth0cn_An6Ht.e1gIvFbRVgw3RwN0OEinsvu4VcA29Va99Lwp4B7O9i0MIF1Pn3LUHAR7ZNzOns5yusqxsMNPfELd8BwyD5oQIjS4TcVgJTvk1V5ro0NjQ6ULHyjvAZxlHseZMZkqAB72gxtW268b435MZ66zkNxyz8qk6B.EW6gBoxK6Aym0VokZIxmB9a1Z0VSL5nwnYcZTGWYMOT3e0yQFZ50RcD1lURdPVdgL..rQTPxz32PX8f_rNFHA_QWEN4LH0MpTAtGE5GTqsoOLoBMWpbORFDF8I0zB5eFAa4RGmHTB6h.Q2RM7lkJnLU1YVbg4qsKOD3cHdr.i1parQ1XL5igFGo8NgqKISuU89R4mrZk0.1Xjc4_JgZnjs0S5mxgqEv.MCew.MTvAWXkoHrdw5li_jOJGIHviBOQieoXgMIK26.kxAuwjIOiHwDLfHhSel2Zy_WgRA0VPXaQIy5I3ZZvHCXkW4.jS6kZbFtc0zEQNqvLkGwVCfKXl5nOEHinwpYr_TCsIe4dKqkqFico3Ez_LLDrEWcM3QOut1bJXsTtlzSGigRFSSzWelGVaGAwE2xlZrfICzE0HZJQFjO9R91eaHph8yDH_qcLGZogIGIvsH...ZaZYNN0x42l1MSVNimGdkULWSV8PsdkIUafBqj84KQyhOfW_ajub7pipq1NWLfqL7sU_wI1mHftpb7IQJslDWCKw8bgjE.F7UB.a9i_Kt1zF.rLUkBZRBskxs1neffzsMAw_bocEQmK8SyGGcXSzSa0HuT3jTURgvlX3PaHg1XGf4FDiq5rV80NKoMO3JHIT9F1ege2jS3JzFTyIn4hDMUn80sxsjopaYwRowms92twHgDO0iFZfyJqQ0OHvTV2IwXflte23zfYiPQrIQYwmJxmx8BL7rC9DxytXkbSHT9nHXxz656OYDOmWpAaarz2WeOaj5_MLIUSTCckzDbqb31RmEN.QK4lyyHHCIOibrh3dN39HOOIdEJN6OzBKFqNq0LjfgFXRjf6DfV2.LLk5tvP_0R2LURfip9.4CYUCcYDp7SQdNoC44QAUIuDfI_JYKwadjtR1VnV9_ClbDbv1vuCM5KTRKrN0XVtd3k9O.AZGWUMoS0ozbjx23IETPUJjFd5ooRXIVpvfkU_cKrHO3jgjSVdvSOvAfcqyDNvWIyGLAYzIlBRJymWtfyyDO3Txl0QBjKVY.5H0StW2u_6FoCXRY66Vc7X1oIedgf30W4yAbZj7ZfTT8orOsRVEVsvHu65inO_f9UcnNWe5se_J1OnpVW8eKymMa6PAVWM0AgxpDpUMoUpNFdW3ibdmTKt3udowSB07KMZwxqvTnFJ_jR8O0EbtuAMKrkfdSVAvF1nGp3Hj1u7BESjfpXY_5HPePLx4JRR3KoyPD8s.XORF6P8_UhSl4G3FbNDVUCr45aM.chfiKae5hYZKnyfXGXvsLRV4fPwA2mZGJ0PZc_nxb4fCXJPlJY.yIyDm.t82IaK3VGWB2BplL_By9d3ADbfBfNXro8BdAQWFjsLwaYkQNX5ApB7Jb_DSe0m7gN6cVmFkf.MarpSP4CaxJLYrFcLKKCy.TvnVnTsggD_j0fHqLxoF30hLJW7T.D3qiIH9nLBp1s0ehQRcas.T3lRbpvdU.6b899NPYRkosSHaOUpEP85HPA11koEGJhMryugeCnlNul8WGUMe3N6w"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=914d3b783970e25a\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_rt_tk=E9ARlhAh_qArsQVPljL.k8UFhdVzyb3HP61s5Bb7glA-1740041250-1.0.1.1-zxJnL629tUlfYrMdhSPc53WK4sT0mztPruNuocdsGRo" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
 
 [proxyvip.xyz#Proxyvip]
 banned_domains  moakt.co  guerrillamail.com  tmails.net  linshiyou.com  muatoc.com  moakt.cc  moakt.ws  xxxhi.cc  guerrillamail.biz  snapmail.cc  bareed.ws  lplso.tmmad.com  teihu.com  spam4.me  555.vtnli.shop  disbox.net  oakon.com  guerrillamail.org  bccto.cc  555.anztyy.shop  mxl001.win  smartnator.com  teml.net  sharklasers.com  tmpmail.org  tmpbox.net  tmpmail.net  guerrillamail.de
 name  Proxyvip
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"mbbnziltn759@442587.xyz","success":"false"}'
 
 [shiyuanyinian.xyz#十元一年]
 
@@ -170,7 +170,7 @@ type  v2board
 banned_domains  bareed.ws  disbox.org  disbox.net  tmails.net
 name  SKY VPN
 type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(cmxnknxc700@snapmail.cc): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ywliwegk578@965.tmmad.com","success":"false"}'
 
 [skyvvips.shop#sky]
 
@@ -178,12 +178,12 @@ type  sspanel
 banned_domains  tmpmail.net  tmail.ws  tmails.net  moakt.co  bareed.ws
 name  Tannel中继网络服务
 type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(wpreqrdkd124@guerrillamail.net): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(barujhu296@guerrillamail.biz): {'ret': 0, 'msg': '非法请求'}
 
 [v.spwvpn.com#麻雀加速器]
 name  Sparrow 麻雀加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yazeptw309@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(ibcfjvejb555@gmail.com): 本站已关闭注册
 
 [vipxgyun.com#西瓜皮]
 
@@ -191,20 +191,20 @@ type  v2board
 banned_domains  guerrillamail.de
 name  Helium Network
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"rgrobgvg880@wfes.site","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"nrdzwjl393@mail.shouyou789.com","success":"false"}'
 
 [yifang.win#一方加速器]
 name  一方加速器
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(bpydrkr976@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!doctype html><html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Slim Application Error</title> <style> body{margin:0;padding:30px;font:12px/1.5 Helvetica,Arial,Verdana,sans-serif} h1{margin:0;font-size:48px;font-weight:normal;line-height:48px} strong{display:inline-block;width:65px} </style> </head> <body> <h1>Slim Application Error</h1> <div><p>The application could not run because of the following error:</p><h2>Details</h2><div><strong>Type:</strong> TypeError</div><div><strong>Code:</strong> 0</div><div><strong>Message:</strong> trim(): Argument #1 ($string) must be of type string, null given</div><div><strong>File:</strong> /www/wwwroot/2.2/src/Controllers/AuthController.php</div><div><strong>Line:</strong> 304</div><h2>Trace</h2><pre>#0 /www/wwwroot/2.2/src/Controllers/AuthController.php(304): trim()\n#1 /www/wwwroot/2.2/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(38): App\\Controllers\\AuthController-&gt;registerHandle()\n#2 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(363): Slim\\Handlers\\Strategies\\RequestResponse-&gt;__invoke()\n#3 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Slim\\Routing\\Route-&gt;handle()\n#4 /www/wwwroot/2.2/src/Middleware/Guest.php(26): Slim\\MiddlewareDispatcher-&gt;handle()\n#5 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\Guest-&gt;process()\n#6 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#7 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(321): Slim\\MiddlewareDispatcher-&gt;handle()\n#8 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/RouteRunner.php(74): Slim\\Routing\\Route-&gt;run()\n#9 /www/wwwroot/2.2/src/Middleware/ErrorHandler.php(44): Slim\\Routing\\RouteRunner-&gt;handle()\n#10 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\ErrorHandler-&gt;process()\n#11 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#12 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(209): Slim\\MiddlewareDispatcher-&gt;handle()\n#13 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(193): Slim\\App-&gt;handle()\n#14 /www/wwwroot/2.2/public/index.php(40): Slim\\App-&gt;run()\n#15 {main}</pre></div> <a href="#" onclick="window.history.go(-1)">Go Back</a> </body></html>')
+更新订阅链接/续费续签失败  注册失败(cldwdet879@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!doctype html><html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Slim Application Error</title> <style> body{margin:0;padding:30px;font:12px/1.5 Helvetica,Arial,Verdana,sans-serif} h1{margin:0;font-size:48px;font-weight:normal;line-height:48px} strong{display:inline-block;width:65px} </style> </head> <body> <h1>Slim Application Error</h1> <div><p>The application could not run because of the following error:</p><h2>Details</h2><div><strong>Type:</strong> TypeError</div><div><strong>Code:</strong> 0</div><div><strong>Message:</strong> trim(): Argument #1 ($string) must be of type string, null given</div><div><strong>File:</strong> /www/wwwroot/2.2/src/Controllers/AuthController.php</div><div><strong>Line:</strong> 304</div><h2>Trace</h2><pre>#0 /www/wwwroot/2.2/src/Controllers/AuthController.php(304): trim()\n#1 /www/wwwroot/2.2/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(38): App\\Controllers\\AuthController-&gt;registerHandle()\n#2 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(363): Slim\\Handlers\\Strategies\\RequestResponse-&gt;__invoke()\n#3 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Slim\\Routing\\Route-&gt;handle()\n#4 /www/wwwroot/2.2/src/Middleware/Guest.php(26): Slim\\MiddlewareDispatcher-&gt;handle()\n#5 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\Guest-&gt;process()\n#6 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#7 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/Route.php(321): Slim\\MiddlewareDispatcher-&gt;handle()\n#8 /www/wwwroot/2.2/vendor/slim/slim/Slim/Routing/RouteRunner.php(74): Slim\\Routing\\Route-&gt;run()\n#9 /www/wwwroot/2.2/src/Middleware/ErrorHandler.php(44): Slim\\Routing\\RouteRunner-&gt;handle()\n#10 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(129): App\\Middleware\\ErrorHandler-&gt;process()\n#11 /www/wwwroot/2.2/vendor/slim/slim/Slim/MiddlewareDispatcher.php(73): Psr\\Http\\Server\\RequestHandlerInterface@anonymous-&gt;handle()\n#12 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(209): Slim\\MiddlewareDispatcher-&gt;handle()\n#13 /www/wwwroot/2.2/vendor/slim/slim/Slim/App.php(193): Slim\\App-&gt;handle()\n#14 /www/wwwroot/2.2/public/index.php(40): Slim\\App-&gt;run()\n#15 {main}</pre></div> <a href="#" onclick="window.history.go(-1)">Go Back</a> </body></html>')
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  dotuciwks500@gmail.com
+email  ypprnkdu741@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.club/api/v1/client/subscribe?token=cfc4dfd8ba6742f468058e160709aa2a
-time  2025-02-19 16:48:10.485059+08:00
+sub_url  https://yingwuyun.club/api/v1/client/subscribe?token=1bef21d931d3970b22afa9462ac4801c
+time  2025-02-20 16:47:38.071168+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -216,18 +216,18 @@ sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=291cd57c04db6d1db
 time  2025-02-01 16:44:15.982792+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=291cd57c04db6d1db77bcfbb9cbeed4f): 523 '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>zhenshihui.shop | 523: Origin is unreachable</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Origin is unreachable</span>\n <span class="code-label">Error code 523</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2025-02-19 08:50:22 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">San Jose</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">zhenshihui.shop</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The origin web server is not reachable.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <h3 class="text-15 font-semibold mb-2">If you\'re a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you\'re the owner of this website:</h3>\n <p><span>Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed for your A record in your Cloudflare DNS Settings page.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171946-Error-523">Additional troubleshooting information here.</a></p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">91450237fe0867fa</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">52.234.42.181</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n'
+更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=291cd57c04db6d1db77bcfbb9cbeed4f): 523 '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>zhenshihui.shop | 523: Origin is unreachable</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Origin is unreachable</span>\n <span class="code-label">Error code 523</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2025-02-20 08:48:01 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Chicago</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">zhenshihui.shop</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The origin web server is not reachable.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <h3 class="text-15 font-semibold mb-2">If you\'re a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you\'re the owner of this website:</h3>\n <p><span>Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed for your A record in your Cloudflare DNS Settings page.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171946-Error-523">Additional troubleshooting information here.</a></p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">914d3c24dad8e262</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.25.192.45</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=zhenshihui.shop" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n'
 
 [ziyun. cyou#紫云]
 
 [养老机场.com]
 name  养老机场-Hy2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vejrfki47@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ldwsfhm633@gmail.com): 'NoneType' object is not subscriptable
 
 [一元机场.biz#一元机场]
 name  一元机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ugbisevj629@moakt.co): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(feygyskon652@mail.shouyou789.com): {'message': '邮箱后缀不处于白名单中'}
 
 [www.qlgq.top]
