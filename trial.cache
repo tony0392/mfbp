@@ -5,7 +5,7 @@ invite_code  CTpx  9999
 last_checkin  2025-04-28 00:48:24.069108+08:00
 name  飞翔吧
 node_n  46
-sub_info  47M  10.25G  2025-04-28 15:43:24+08:00  (剩余 10.2G 8:59:26.844687)
+sub_info  49.9M  10.25G  2025-04-28 15:43:24+08:00  (剩余 10.2G 7:59:13.305731)
 sub_url  http://175.178.9.20/link/v9WVLiWUQUlhpAzc?sub=3
 time  2025-04-27 15:43:25.521561+08:00
 type  sspanel
@@ -17,7 +17,7 @@ email  csovnze266@gmail.com
 last_checkin  2025-04-28 05:43:27.738453+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.405G  2025-04-30 06:43:27+08:00  (剩余 5.405G 1 day, 23:59:32.192300)
+sub_info  0B  5.405G  2025-04-30 06:43:27+08:00  (剩余 5.405G 1 day, 22:59:18.677928)
 sub_url  https://www.mgnet.sbs/link/oPOYfsp7vrmhCubQ?sub=3
 time  2025-04-28 05:43:28.215191+08:00
 type  sspanel
@@ -27,10 +27,11 @@ email  roujqvpm672@gmail.com
 last_checkin  2025-04-28 00:48:24.070916+08:00
 name  大白
 node_n  7
-sub_info  573.7K  1T  2025-05-27 14:48:31+08:00  (剩余 1T 29 days, 8:04:34.558618)
+sub_info  613.6K  1T  2025-05-27 14:48:31+08:00  (剩余 1T 29 days, 7:04:27.121856)
 sub_url  https://aa.dabai.in/link/fa34DIT6TAty7hFk?sub=3
 time  2025-04-27 14:48:32.510994+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [ayucloud.services]
 auth_path  user
@@ -40,8 +41,7 @@ email  fswlhgbo4@bookmorpho.cfd
 last_checkin  2025-04-28 00:48:40.037851+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.098G  2025-04-29 00:48:38+08:00  (剩余 1.098G 19:05:00.542719)
+sub_info  0B  1.098G  2025-04-29 00:48:38+08:00  (剩余 1.098G 17:04:30.974289)
 sub_url  https://network.ayucloud.nl/link/21H8xRUaZkKpiCDu?clash=1
 time  2025-04-28 00:48:40.855451+08:00
 type  sspanel
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
