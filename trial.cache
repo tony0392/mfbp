@@ -5,7 +5,7 @@ invite_code  3cxt  10000
 last_checkin  2025-05-01 14:52:02.637861+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2025-05-02 14:52:00+08:00  (剩余 10.12G 23:08:38.263409)
+sub_info  22.69K  10.12G  2025-05-02 14:52:00+08:00  (剩余 10.12G 22:00:56.781656)
 sub_url  http://175.178.9.20/link/QTEcZAR5ZLbIdIVa?sub=3
 time  2025-05-01 14:52:04.197377+08:00
 type  sspanel
@@ -17,18 +17,19 @@ email  hfbllpor779@gmail.com
 last_checkin  2025-05-01 01:44:13.195853+08:00
 name  MG Network
 node_n  10
-sub_info  6.754K  5.325G  2025-05-03 02:44:12+08:00  (剩余 5.325G 1 day, 11:00:50.914098)
+sub_info  12.73K  5.325G  2025-05-03 02:44:12+08:00  (剩余 5.325G 1 day, 9:52:39.368058)
 sub_url  https://www.mgnet.sbs/link/0ugMA53ycHKeL1Zu?sub=3
 time  2025-05-01 01:44:13.620796+08:00
 type  sspanel
 
 [aa.dabai.in]
-email  xxiurhnc799@gmail.com
-last_checkin  2025-05-01 12:50:10.818823+08:00
+email  qvwejrnbc504@gmail.com
+last_checkin  2025-05-01 16:51:03.874377+08:00
 name  大白
 node_n  7
 sub_info  0B  1T  2025-05-31 12:50:10+08:00  (剩余 1T 29 days, 21:06:49.244882)
-sub_url  https://aa.dabai.in/link/0nnty6rkpQE7gWQv?sub=3
-time  2025-05-01 12:50:12.162190+08:00
+sub_url  https://aa.dabai.in/link/CvJPHP5SPtyfP630?sub=3
+time  2025-05-01 16:51:04.924984+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
