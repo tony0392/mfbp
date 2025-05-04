@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, tfo: true, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: b5cdbc2a-c8ca-36e6-8cb7-65b1351313ec, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: c56274c5-2801-3175-a628-94620f18b0b9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link01.top, port: 2095, type: vmess, uuid: baf9ae24-4095-3d44-be51-6ce2d1efa97d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.84.16, headers: {Host: 100-227-150-123.s4.db-link01.top}}, udp: true}
 - {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 80, type: vmess, uuid: baf9ae24-4095-3d44-be51-6ce2d1efa97d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.116.202, headers: {Host: 100-43-63-24.s5.db-link01.top}}, udp: true}
