@@ -5,7 +5,7 @@ invite_code  IjdT  10000
 last_checkin  2025-05-06 07:45:00.127566+08:00
 name  飞翔吧
 node_n  46
-sub_info  3.154G  10.12G  2025-05-07 07:44:58+08:00  (剩余 6.968G 21:24:34.992676)
+sub_info  3.154G  10.12G  2025-05-07 07:44:58+08:00  (剩余 6.968G 20:15:48.773487)
 sub_url  http://175.178.9.20/link/5v8hrue2eKVkvu7t?sub=3
 time  2025-05-06 07:45:01.400822+08:00
 type  sspanel
@@ -17,17 +17,18 @@ email  uyawdfaq11@gmail.com
 last_checkin  2025-05-06 00:51:09.283000+08:00
 name  MG Network
 node_n  10
-sub_info  270.2M  6.93G  2025-05-06 23:43:47+08:00  (剩余 6.666G 13:23:28.181817)
+sub_info  270.4M  6.93G  2025-05-06 23:43:47+08:00  (剩余 6.666G 12:14:54.157304)
 sub_url  https://www.mgnet.sbs/link/3NYBgE55UofvwejM?sub=3
 time  2025-05-04 22:43:47.791458+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [aa.dabai.in]
 email  duekdyne308@gmail.com
 last_checkin  2025-05-06 07:44:52.046090+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-06-05 07:44:51+08:00  (剩余 1T 29 days, 21:24:30.701273)
+sub_info  1.623K  1T  2025-06-05 07:44:51+08:00  (剩余 1T 29 days, 20:15:57.046835)
 sub_url  https://aa.dabai.in/link/NzGOrWoqAm8sTG6J?sub=3
 time  2025-05-06 07:44:53.122522+08:00
 type  sspanel
