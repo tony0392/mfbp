@@ -73,7 +73,6 @@ proxy-groups:
   - 🇺🇸 中转•美国61•高速 - 飞翔吧
   - 🇺🇸 广港•美国266•高速 - 飞翔吧
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
-  - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
   - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
@@ -81,6 +80,7 @@ proxy-groups:
   - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
   - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
   - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇸 [vip①]美国1 - MG Network
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
   - 🇰🇷 广港•韩国264•高速 - 飞翔吧
   - 🇬🇧 中转•英国267•高速 - 飞翔吧
@@ -236,7 +236,6 @@ proxy-groups:
   - 🇺🇸 中转•美国61•高速 - 飞翔吧
   - 🇺🇸 广港•美国266•高速 - 飞翔吧
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
-  - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
   - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
@@ -244,6 +243,7 @@ proxy-groups:
   - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
   - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
   - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇸 [vip①]美国1 - MG Network
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -305,6 +305,22 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -317,22 +333,13 @@ proxies:
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: defad6b8-c9a9-3745-a2d9-9b787f7e9a92, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2086, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.213.113, headers: {Host: 100-184-78-44.s2.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2095, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.14.61, headers: {Host: 100-158-238-205.s1.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 2095, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.36.74, headers: {Host: 100-193-150-46.s2.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 2082, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.216.21, headers: {Host: 100-93-129-13.s2.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.cn-db.top, port: 2052, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.44.148, headers: {Host: 100-14-14-172.s2.cn-db.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.db-link02.top, port: 2052, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.93.214, headers: {Host: 100-53-105-99.s1.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s1.db-link02.top, port: 8880, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.94.10, headers: {Host: 100-200-84-77.s1.db-link02.top}}, udp: true}
 - {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 798b71ea-935f-3bab-986a-4a227731827c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
 - {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 798b71ea-935f-3bab-986a-4a227731827c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
 - {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 798b71ea-935f-3bab-986a-4a227731827c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
@@ -343,13 +350,6 @@ proxies:
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 798b71ea-935f-3bab-986a-4a227731827c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 798b71ea-935f-3bab-986a-4a227731827c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 798b71ea-935f-3bab-986a-4a227731827c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 80, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.2.123, headers: {Host: 100-39-160-87.s1.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 8880, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.93.59, headers: {Host: 100-185-220-82.s1.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 2082, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.224.199, headers: {Host: 100-167-28-98.s3.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 2086, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.230.243, headers: {Host: 100-249-223-190.s2.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s5.db-link02.top, port: 8080, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.132.25, headers: {Host: 100-94-189-173.s5.db-link02.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.db-link01.top, port: 8880, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.92.192, headers: {Host: 100-13-3-83.s1.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.db-link01.top, port: 8080, type: vmess, uuid: 46b429e9-9cb6-3d51-bd5b-d4b648737e00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.157.223, headers: {Host: 100-52-70-82.s3.db-link01.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
