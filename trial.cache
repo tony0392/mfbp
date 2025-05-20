@@ -9,3 +9,6 @@ sub_info  0B  10.17G  2025-05-21 21:51:14+08:00  (剩余 10.17G 23:59:50.082523)
 sub_url  http://175.178.9.20/link/UBhmI01dKs8sf7tv?sub=3
 time  2025-05-20 21:51:15.658469+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(urlfuay325@965.tmmad.com): 请不要频繁注册账号！
