@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 56e5292e-ba23-3a29-91f5-189d6428a9e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: f93d6c95-9e25-326a-8deb-5b089d10e0fe, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: f93d6c95-9e25-326a-8deb-5b089d10e0fe, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: f93d6c95-9e25-326a-8deb-5b089d10e0fe, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -10,3 +11,6 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: f93d6c95-9e25-326a-8deb-5b089d10e0fe, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: f93d6c95-9e25-326a-8deb-5b089d10e0fe, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: f93d6c95-9e25-326a-8deb-5b089d10e0fe, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 2b5cd773-0bb0-3c90-b691-9e41e8f9f9af, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: qoi.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 2b5cd773-0bb0-3c90-b691-9e41e8f9f9af, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: qfb.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 2b5cd773-0bb0-3c90-b691-9e41e8f9f9af, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
