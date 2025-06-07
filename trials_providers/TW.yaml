@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 343a6410-3540-3dcc-bf3c-07488eeeb621, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 0a97fba8-f373-35e5-9dec-8dcb6b7884fe, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 2072f110360.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 2072f110360.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 2072f110360.download.windowsupdate.com}, udp: true}
