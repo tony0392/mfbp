@@ -5,7 +5,7 @@ email  qiakcfv330@gmail.com
 last_checkin  2025-06-08 00:52:10.831033+08:00
 name  大白
 node_n  7
-sub_info  1.187M  1T  2025-07-07 22:44:41+08:00  (剩余 1T 29 days, 19:01:26.002137)
+sub_info  1.593M  1T  2025-07-07 22:44:41+08:00  (剩余 1T 29 days, 17:59:30.041742)
 sub_url  https://cc.dabai.in/link/qrfh4IkDOMMzQu0N?sub=3
 time  2025-06-07 22:44:43.322206+08:00
 type  sspanel
@@ -13,15 +13,14 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  gbaoofm594@gmail.com
-last_checkin  2025-06-08 03:43:15.912544+08:00
+email  khtfkho351@gmail.com
+last_checkin  2025-06-08 04:45:11.951227+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.188G  2025-06-08 03:43:15+08:00  (剩余 1.188G -1 day, 23:59:56.198352)
-sub_url  https://new.gfw.news/link/npTwpRtya1GomLyg?sub=3
-time  2025-06-08 03:43:16.415859+08:00
+sub_info  0B  1.021G  2025-06-08 04:45:11+08:00  (剩余 1.021G -1 day, 23:59:56.834611)
+sub_url  https://new.gfw.news/link/f4Ml5dLC0QJJaaZq?sub=3
+time  2025-06-08 04:45:12.465015+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -29,11 +28,10 @@ email  dqvyzhz773@lyx13.xyz
 last_checkin  2025-06-08 00:52:10.832017+08:00
 name  独孤乐天
 node_n  4
-sub_info  92.39K  1.066G  2025-06-08 08:07:11+08:00  (剩余 1.066G 5:17:23.300453)
+sub_info  92.39K  1.066G  2025-06-08 08:07:11+08:00  (剩余 1.066G 3:21:59.472245)
 sub_url  https://www.duguletian.com/link/zCWh0gvsZbxpHYgl?sub=3
 time  2025-06-07 08:07:13.267811+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip]
 auto_invite  F
@@ -42,7 +40,7 @@ email  auxrieuy404@gmail.com
 last_checkin  2025-06-08 00:52:10.833485+08:00
 name  MG Network
 node_n  10
-sub_info  2.551M  6.066G  2025-06-09 15:51:14+08:00  (剩余 6.064G 1 day, 12:07:59.200372)
+sub_info  3.527M  6.066G  2025-06-09 15:51:14+08:00  (剩余 6.063G 1 day, 11:06:01.688516)
 sub_url  https://www.mgnet.sbs/link/r1rX3bzatd7MMUoD?sub=3
 time  2025-06-07 14:51:15.415501+08:00
 type  sspanel
@@ -61,3 +59,6 @@ sub_info  0B  1.228G  2025-06-09 02:50:07+08:00  (剩余 1.228G 23:04:49.818259)
 sub_url  https://bbs.cloudnetwork.pro/link/L3Y3lOknNCkevhkB?clash=1#AyucLouD
 time  2025-06-08 02:50:08.729308+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(wqzkjrk834@tmpmail.org): 邮箱后缀已被拉黑
