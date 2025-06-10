@@ -1,25 +1,25 @@
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  lxlpbtaov325@gmail.com
-last_checkin  2025-06-10 02:52:11.740103+08:00
+email  edrfijsdq179@gmail.com
+last_checkin  2025-06-10 21:52:07.517530+08:00
 name  大白
 node_n  7
-sub_info  8.997M  1T  2025-07-10 02:52:11+08:00  (剩余 1T 29 days, 5:33:22.762364)
-sub_url  https://cc.dabai.in/link/hO7Fm2in0GOMHj3V?sub=3
-time  2025-06-10 02:52:13.001012+08:00
+sub_info  0B  1T  2025-07-10 21:52:07+08:00  (剩余 1T 29 days, 23:59:56.951472)
+sub_url  https://cc.dabai.in/link/f81jN9LBhlcdA8Jp?sub=3
+time  2025-06-10 21:52:08.646415+08:00
 type  sspanel
 
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  znoodnkps310@gmail.com
-last_checkin  2025-06-10 21:18:48.645375+08:00
+email  lqsyvqd255@gmail.com
+last_checkin  2025-06-10 21:52:08.053264+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.083G  2025-06-10 21:18:48+08:00  (剩余 1.083G -1 day, 23:59:57.141678)
-sub_url  https://new.gfw.news/link/iwwQbhg0fzCyzDEh?sub=3
-time  2025-06-10 21:18:49.264480+08:00
+sub_info  0B  1.045G  2025-06-10 21:52:07+08:00  (剩余 1.045G -1 day, 23:59:43.362260)
+sub_url  https://new.gfw.news/link/R4tkyYraHgG7JG1P?sub=3
+time  2025-06-10 21:52:08.603849+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -32,19 +32,19 @@ sub_info  4.425M  1.004G  2025-06-11 07:45:14+08:00  (剩余 1024M 10:26:25.1649
 sub_url  https://www.duguletian.com/link/B10JujeGutEXLA5U?sub=3
 time  2025-06-10 07:45:15.727037+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  nrodegrp440@gmail.com
-last_checkin  2025-06-10 12:52:24.002033+08:00
+email  szthokeoj38@gmail.com
+last_checkin  2025-06-10 21:52:06.693258+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.773G  2025-06-12 13:52:23+08:00  (剩余 5.773G 1 day, 16:33:35.196463)
-sub_url  https://www.mgnet.sbs/link/30XcSHM3FQ7CEkRi?sub=3
-time  2025-06-10 12:52:24.561402+08:00
+sub_info  0B  5.377G  2025-06-12 22:52:06+08:00  (剩余 5.377G 2 days, 0:59:58.131749)
+sub_url  https://www.mgnet.sbs/link/54LjHyUAhfqfFs95?sub=3
+time  2025-06-10 21:52:07.086478+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [2.flybar20.cc]
 
@@ -56,7 +56,7 @@ email  shbrjvlwg78@25ua.com
 last_checkin  2025-06-10 16:54:50.991212+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  119.4M  1.226G  2025-06-11 16:54:50+08:00  (剩余 1.109G 19:35:58.983643)
+sub_info  119.4M  1.226G  2025-06-11 16:54:50+08:00  (剩余 1.109G 19:02:32.560954)
 sub_url  https://network.ayucloud.nl/link/qj0cdXgxyoFcxvNM?clash=1#AyucLouD
 time  2025-06-10 16:54:51.794015+08:00
 type  sspanel
