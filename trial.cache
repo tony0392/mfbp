@@ -2,10 +2,10 @@
 auto_invite  F
 buy  shop=31
 email  muhfbzx910@gmail.com
-last_checkin  2025-06-12 00:53:34.351179+08:00
+last_checkin  2025-06-13 00:53:43.557725+08:00
 name  大白
 node_n  7
-sub_info  40.21M  1T  2025-07-11 13:48:48+08:00  (剩余 1T 28 days, 14:00:12.526312)
+sub_info  40.21M  1T  2025-07-11 13:48:48+08:00  (剩余 1T 28 days, 12:54:55.794420)
 sub_url  https://cc.dabai.in/link/5efrw5uJ2gZ7x8mv?sub=3
 time  2025-06-11 13:48:49.359027+08:00
 type  sspanel
@@ -13,35 +13,35 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  hudsjroh9@gmail.com
-last_checkin  2025-06-12 23:48:43.014205+08:00
+email  gcjgxyy674@gmail.com
+last_checkin  2025-06-13 00:53:46.760601+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.19G  2025-06-12 23:48:42+08:00  (剩余 1.19G -1 day, 23:59:57.827928)
-sub_url  https://new.gfw.news/link/gPemyobwlmFVb23G?sub=3
-time  2025-06-12 23:48:43.509188+08:00
+sub_info  0B  1.134G  2025-06-13 00:53:46+08:00  (剩余 1.134G -1 day, 23:59:55.777470)
+sub_url  https://new.gfw.news/link/lEF6UUv8psKUFni3?sub=3
+time  2025-06-13 00:53:47.247920+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 email  jblpoxh470@965.tmmad.com
-last_checkin  2025-06-12 07:46:05.867455+08:00
+last_checkin  2025-06-13 00:53:43.559931+08:00
 name  独孤乐天
 node_n  4
 sub_info  15.76K  1.012G  2025-06-13 07:46:04+08:00  (剩余 1.012G 7:57:28.520835)
 sub_url  https://www.duguletian.com/link/UgJ8jfU1cUOWW8gp?sub=3
 time  2025-06-12 07:46:06.740238+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  pwuxvkkk663@gmail.com
-last_checkin  2025-06-12 15:44:47.864096+08:00
+last_checkin  2025-06-13 00:53:43.562295+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.676G  2025-06-14 16:44:47+08:00  (剩余 5.676G 1 day, 16:56:12.238607)
+sub_info  0B  6.471G  2025-06-14 16:44:47+08:00  (剩余 6.471G 1 day, 15:50:59.115500)
 sub_url  https://www.mgnet.sbs/link/L07UHNpZVpfkbm4c?sub=3
 time  2025-06-12 15:44:48.285455+08:00
 type  sspanel
@@ -54,13 +54,10 @@ auto_invite  F
 banned_domains  xxxhi.cc  mydefipet.live
 buy  pass
 email  osyrxrowy121@guerrillamail.biz
-last_checkin  2025-06-12 04:47:52.544163+08:00
+last_checkin  2025-06-13 00:53:43.563318+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  973.5M  1.197G  2025-06-13 04:47:52+08:00  (剩余 252.5M 5:56:32.104685)
+sub_info  1.268G  1.79G  2025-06-13 04:47:52+08:00  (剩余 534.7M 3:54:02.468089)
 sub_url  https://network.ayucloud.nl/link/wNKMZaWEC9NGzThF?clash=1#AyucLouD
 time  2025-06-12 04:47:53.203875+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  获取邮箱验证码超时(umcyeslld290@mydefipet.live)
