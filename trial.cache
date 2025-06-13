@@ -5,7 +5,7 @@ email  bvsqfozzo0@gmail.com
 last_checkin  2025-06-14 00:52:25.809668+08:00
 name  大白
 node_n  7
-sub_info  8.331M  1T  2025-07-13 19:44:25+08:00  (剩余 1T 29 days, 17:58:36.665751)
+sub_info  8.331M  1T  2025-07-13 19:44:25+08:00  (剩余 1T 29 days, 16:51:22.653808)
 sub_url  https://cc.dabai.in/link/MDnHQAc9AvEdrcct?sub=3
 time  2025-06-13 19:44:27.160233+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  mvksdctam825@gmail.com
-last_checkin  2025-06-14 01:45:54.525289+08:00
+email  aamzxyez915@gmail.com
+last_checkin  2025-06-14 02:53:02.426447+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.125G  2025-06-14 01:45:54+08:00  (剩余 1.125G -1 day, 23:59:55.333349)
-sub_url  https://new.gfw.news/link/8gdxgB2z5k6jxvn6?sub=3
-time  2025-06-14 01:45:55.044270+08:00
+sub_info  0B  1.144G  2025-06-14 02:53:02+08:00  (剩余 1.144G -1 day, 23:59:54.038823)
+sub_url  https://new.gfw.news/link/BN1zsSn4RNFNjqjS?sub=3
+time  2025-06-14 02:53:02.940039+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -41,7 +41,7 @@ email  rwljbpc999@gmail.com
 last_checkin  2025-06-14 00:52:25.815345+08:00
 name  MG Network
 node_n  10
-sub_info  0B  6.194G  2025-06-16 00:47:24+08:00  (剩余 6.194G 1 day, 23:01:35.153865)
+sub_info  0B  6.194G  2025-06-16 00:47:24+08:00  (剩余 6.194G 1 day, 21:54:23.060759)
 sub_url  https://www.mgnet.sbs/link/TSJudPPzDgGHWUDr?sub=3
 time  2025-06-13 23:47:24.906630+08:00
 type  sspanel
@@ -51,7 +51,7 @@ type  sspanel
 [bbs.cloudnetwork.pro]
 auth_path  user
 auto_invite  F
-banned_domains  xxxhi.cc  mydefipet.live  smartnator.com  tmpnator.live
+banned_domains  xxxhi.cc  mydefipet.live  smartnator.com  tmpnator.live  psnator.com
 buy  pass
 email  piuvzrxwv787@huiplay.com
 last_checkin  2025-06-14 00:52:25.816330+08:00
@@ -61,3 +61,6 @@ sub_info  0B  1.695G  2025-06-14 14:55:01+08:00  (剩余 1.695G 13:09:03.844641)
 sub_url  https://network.ayucloud.nl/link/3Gr8DNYvpra5h6pk?clash=1#AyucLouD
 time  2025-06-13 14:55:02.133049+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(otxmfwo607@psnator.com)
