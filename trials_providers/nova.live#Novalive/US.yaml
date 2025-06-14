@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: cb55a93c-afea-39f3-bc77-adc82f725c19, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: 152a9297-3420-38d1-a7f7-10f621315306, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
