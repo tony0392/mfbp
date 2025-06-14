@@ -5,7 +5,7 @@ email  brvvgukjk692@gmail.com
 last_checkin  2025-06-14 10:22:09.616016+08:00
 name  大白
 node_n  7
-sub_info  209.4K  1T  2025-07-14 10:22:09+08:00  (剩余 1T 29 days, 17:48:17.007046)
+sub_info  261.7K  1T  2025-07-14 10:22:09+08:00  (剩余 1T 29 days, 17:31:55.261627)
 sub_url  https://cc.dabai.in/link/9zbgYhQPRPU3d4Oy?sub=3
 time  2025-06-14 10:22:10.904337+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  tkhtkfulf229@gmail.com
-last_checkin  2025-06-14 16:33:54.100928+08:00
+email  osotyzmy179@gmail.com
+last_checkin  2025-06-14 16:50:14.999309+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.096G  2025-06-14 16:33:53+08:00  (剩余 1.096G -1 day, 23:59:56.849739)
-sub_url  https://new.gfw.news/link/bQ8BZ7zMBXvObXyh?sub=3
-time  2025-06-14 16:33:54.762830+08:00
+sub_info  0B  1.188G  2025-06-14 16:50:14+08:00  (剩余 1.188G -1 day, 23:59:48.271230)
+sub_url  https://new.gfw.news/link/984m5aTNHJHh5GK5?sub=3
+time  2025-06-14 16:50:15.600609+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -32,18 +32,18 @@ sub_info  122.5K  1.027G  2025-06-15 07:45:27+08:00  (剩余 1.027G 15:11:30.782
 sub_url  https://www.duguletian.com/link/BYoXpgwmKIXX75Zo?sub=3
 time  2025-06-14 07:45:29.331119+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  rwljbpc999@gmail.com
-last_checkin  2025-06-14 00:52:25.815345+08:00
+email  hfqedqn792@gmail.com
+last_checkin  2025-06-14 16:50:14.621312+08:00
 name  MG Network
 node_n  10
-sub_info  146.1M  6.194G  2025-06-16 00:47:24+08:00  (剩余 6.052G 1 day, 8:13:33.364169)
-sub_url  https://www.mgnet.sbs/link/TSJudPPzDgGHWUDr?sub=3
-time  2025-06-13 23:47:24.906630+08:00
+sub_info  0B  5.53G  2025-06-16 17:50:14+08:00  (剩余 5.53G 2 days, 0:59:57.195729)
+sub_url  https://www.mgnet.sbs/link/E46qNhMGpubqsXot?sub=3
+time  2025-06-14 16:50:15.133208+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [2.flybar20.cc]
