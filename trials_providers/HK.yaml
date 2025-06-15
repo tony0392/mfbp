@@ -2,6 +2,6 @@
 ---
 proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f027f9c6-0091-3cef-b18b-0d66ae3be59c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, tfo: true, type: trojan, password: 47e11bae-dd98-318b-8e62-4619e0bdf4d8, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, tfo: true, type: trojan, password: 47e11bae-dd98-318b-8e62-4619e0bdf4d8, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, tfo: true, type: trojan, password: 47e11bae-dd98-318b-8e62-4619e0bdf4d8, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 447, tfo: true, type: trojan, password: 5e813818-64e9-3b7e-9514-ccce817ec633, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, tfo: true, type: trojan, password: 5e813818-64e9-3b7e-9514-ccce817ec633, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, tfo: true, type: trojan, password: 5e813818-64e9-3b7e-9514-ccce817ec633, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
