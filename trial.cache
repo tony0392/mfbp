@@ -5,7 +5,7 @@ email  ttropktj983@gmail.com
 last_checkin  2025-06-16 06:46:45.303766+08:00
 name  大白
 node_n  7
-sub_info  322.1K  1T  2025-07-16 06:46:45+08:00  (剩余 1T 29 days, 15:00:10.466797)
+sub_info  349.5K  1T  2025-07-16 06:46:45+08:00  (剩余 1T 29 days, 13:51:39.907824)
 sub_url  https://cc.dabai.in/link/rI5uhg4owsysEs9n?sub=3
 time  2025-06-16 06:46:46.734320+08:00
 type  sspanel
@@ -13,15 +13,14 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  wxmkrio950@gmail.com
-last_checkin  2025-06-16 15:46:35.601587+08:00
+email  ocdumwi584@gmail.com
+last_checkin  2025-06-16 16:55:06.255595+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.12G  2025-06-16 15:46:35+08:00  (剩余 1.12G -1 day, 23:59:57.394404)
-sub_url  https://new.gfw.news/link/CCPp0PJG1J1KSLqb?sub=3
-time  2025-06-16 15:46:36.345049+08:00
+sub_info  0B  1.165G  2025-06-16 16:55:05+08:00  (剩余 1.165G -1 day, 23:59:55.018731)
+sub_url  https://new.gfw.news/link/HqGuYwHvY5x1HAZc?sub=3
+time  2025-06-16 16:55:06.787428+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -33,6 +32,7 @@ sub_info  691.6M  1.027G  2025-06-16 22:46:02+08:00  (剩余 360.4M 6:59:26.9564
 sub_url  https://www.duguletian.com/link/K0UA13UnjxxPqjf7?sub=3
 time  2025-06-15 22:46:04.110220+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip]
 auto_invite  F
@@ -41,7 +41,7 @@ email  doqcgkgf959@gmail.com
 last_checkin  2025-06-16 00:51:21.423743+08:00
 name  MG Network
 node_n  10
-sub_info  1.557G  6.694G  2025-06-16 19:46:39+08:00  (剩余 5.137G 4:00:05.273411)
+sub_info  1.557G  6.694G  2025-06-16 19:46:39+08:00  (剩余 5.137G 2:51:43.047728)
 sub_url  https://www.mgnet.sbs/link/KKEGfYUF0RVEHqeV?sub=3
 time  2025-06-14 18:46:40.233272+08:00
 type  sspanel
