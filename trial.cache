@@ -1,26 +1,27 @@
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  vnbrybopo587@gmail.com
-last_checkin  2025-06-16 21:19:02.175050+08:00
+email  vjncymku285@gmail.com
+last_checkin  2025-06-16 22:49:16.175541+08:00
 name  大白
 node_n  7
 sub_info  0B  1T  2025-07-16 21:19:02+08:00  (剩余 1T 29 days, 23:25:26.959004)
-sub_url  https://cc.dabai.in/link/bng5N6fpueWp1Ln7?sub=3
-time  2025-06-16 21:19:03.221497+08:00
+sub_url  https://cc.dabai.in/link/Rk35UR6zeR46N0wV?sub=3
+time  2025-06-16 22:49:17.400195+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
 
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  besxpgq338@gmail.com
-last_checkin  2025-06-16 21:53:37.590955+08:00
+email  esnfnhhjq316@gmail.com
+last_checkin  2025-06-16 22:49:15.543438+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.174G  2025-06-16 21:53:37+08:00  (剩余 1.174G -1 day, 23:59:54.753140)
-sub_url  https://new.gfw.news/link/S4XtCog2VjmDJ6go?sub=3
-time  2025-06-16 21:53:38.194610+08:00
+sub_info  0B  1.076G  2025-06-16 22:49:15+08:00  (剩余 1.076G -1 day, 23:59:57.476929)
+sub_url  https://new.gfw.news/link/rG4ZqZ1yvGlOzAYU?sub=3
+time  2025-06-16 22:49:16.136677+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -29,7 +30,7 @@ email  bbbhuncv356@jkd.tmmad.com
 last_checkin  2025-06-16 17:48:34.337798+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.01G  2025-06-17 17:48:33+08:00  (剩余 1.01G 19:54:57.917852)
+sub_info  0B  1.01G  2025-06-17 17:48:33+08:00  (剩余 1.01G 18:59:19.475811)
 sub_url  https://www.duguletian.com/link/FJ9oROAhPWimYimd?sub=3
 time  2025-06-16 17:48:35.017835+08:00
 type  sspanel
@@ -41,10 +42,9 @@ email  pejehnu230@gmail.com
 last_checkin  2025-06-16 17:48:27.402106+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.299G  2025-06-18 18:48:27+08:00  (剩余 5.299G 1 day, 20:54:52.352379)
+sub_info  0B  5.299G  2025-06-18 18:48:27+08:00  (剩余 5.299G 1 day, 19:59:13.566755)
 sub_url  https://www.mgnet.sbs/link/Xfe2y4BbbBVMPiNX?sub=3
 time  2025-06-16 17:48:27.858607+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [2.flybar20.cc]
