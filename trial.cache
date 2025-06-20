@@ -2,10 +2,10 @@
 auto_invite  F
 buy  shop=31
 email  gtngnjvig523@gmail.com
-last_checkin  2025-06-20 17:47:53.112804+08:00
+last_checkin  2025-06-21 00:52:47.167389+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-07-20 17:47:52+08:00  (剩余 1T 29 days, 18:01:03.223634)
+sub_info  0B  1T  2025-07-20 17:47:52+08:00  (剩余 1T 29 days, 16:55:01.808207)
 sub_url  https://cc.dabai.in/link/LvSbg6jh4D0hUipq?sub=3
 time  2025-06-20 17:47:54.488737+08:00
 type  sspanel
@@ -13,22 +13,22 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  cyojxor348@gmail.com
-last_checkin  2025-06-20 23:46:47.981058+08:00
+email  mnzkgfc279@gmail.com
+last_checkin  2025-06-21 00:52:51.008942+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.169G  2025-06-20 23:46:47+08:00  (剩余 1.169G -1 day, 23:59:57.576203)
-sub_url  https://new.gfw.news/link/FBiwBhIhK0o54Tr3?sub=3
-time  2025-06-20 23:46:48.480205+08:00
+sub_info  0B  1.088G  2025-06-21 00:52:50+08:00  (剩余 1.088G -1 day, 23:59:54.631706)
+sub_url  https://new.gfw.news/link/BZlC8QkupWixthmT?sub=3
+time  2025-06-21 00:52:51.713759+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 email  yqzwjflbr187@lplso.tmmad.com
-last_checkin  2025-06-20 13:48:11.600702+08:00
+last_checkin  2025-06-21 00:52:47.168274+08:00
 name  独孤乐天
 node_n  4
-sub_info  163.8K  1.031G  2025-06-21 13:48:10+08:00  (剩余 1.031G 14:01:23.173597)
+sub_info  163.8K  1.079G  2025-06-21 13:48:10+08:00  (剩余 1.079G 12:55:19.982717)
 sub_url  https://www.duguletian.com/link/PvAoRkjNeHAEwpG5?sub=3
 time  2025-06-20 13:48:12.263823+08:00
 type  sspanel
@@ -37,10 +37,10 @@ type  sspanel
 auto_invite  F
 buy  pass
 email  iewhjivss270@gmail.com
-last_checkin  2025-06-20 21:16:44.381648+08:00
+last_checkin  2025-06-21 00:52:47.169836+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.743G  2025-06-22 22:16:44+08:00  (剩余 5.743G 1 day, 22:29:55.408294)
+sub_info  0B  6.126G  2025-06-22 22:16:44+08:00  (剩余 6.126G 1 day, 21:23:54.583691)
 sub_url  https://www.mgnet.sbs/link/N1JO17K9q7YJn28Z?sub=3
 time  2025-06-20 21:16:44.845464+08:00
 type  sspanel
@@ -48,4 +48,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yhghrqh40@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(jjbgyou768@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
