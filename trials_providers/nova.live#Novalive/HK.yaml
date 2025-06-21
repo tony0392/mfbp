@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, tfo: true, type: trojan, password: 5607b7ea-607d-3bf0-aeaf-ddb17fc65bb7, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, tfo: true, type: trojan, password: 5607b7ea-607d-3bf0-aeaf-ddb17fc65bb7, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK010高速 - NovaLive, server: 112.18.120.18, port: 23452, tfo: true, type: trojan, password: 5607b7ea-607d-3bf0-aeaf-ddb17fc65bb7, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK011高速 - NovaLive, server: 112.18.120.18, port: 23453, tfo: true, type: trojan, password: 5607b7ea-607d-3bf0-aeaf-ddb17fc65bb7, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, type: trojan, password: ea491ede-f39f-3402-942f-7a28231469e8, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, type: trojan, password: ea491ede-f39f-3402-942f-7a28231469e8, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK010高速 - NovaLive, server: 112.18.120.18, port: 23452, type: trojan, password: ea491ede-f39f-3402-942f-7a28231469e8, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK011高速 - NovaLive, server: 112.18.120.18, port: 23453, type: trojan, password: ea491ede-f39f-3402-942f-7a28231469e8, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
