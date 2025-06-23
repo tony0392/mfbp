@@ -1,7 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28480, type: trojan, password: e56dc54d-fb0e-36c0-9ed2-b117f084ea35, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28473, type: trojan, password: e56dc54d-fb0e-36c0-9ed2-b117f084ea35, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: f445e99a-73b4-3bab-b74f-673d89eee692, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f445e99a-73b4-3bab-b74f-673d89eee692, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
