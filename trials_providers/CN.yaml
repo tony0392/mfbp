@@ -3,7 +3,7 @@
 proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 2b5652b2-b961-3662-af42-e3832902c458, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 2b5652b2-b961-3662-af42-e3832902c458, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, type: trojan, password: 2f4e8c15-828f-380f-8d95-5433d8ed8339, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, type: trojan, password: 2f4e8c15-828f-380f-8d95-5433d8ed8339, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK010高速 - NovaLive, server: 112.18.120.18, port: 23452, type: trojan, password: 2f4e8c15-828f-380f-8d95-5433d8ed8339, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK011高速 - NovaLive, server: 112.18.120.18, port: 23453, type: trojan, password: 2f4e8c15-828f-380f-8d95-5433d8ed8339, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, type: trojan, password: 7d3fec8a-5bf6-313e-a8aa-70c0a9fa72b2, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, type: trojan, password: 7d3fec8a-5bf6-313e-a8aa-70c0a9fa72b2, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK010高速 - NovaLive, server: 112.18.120.18, port: 23452, type: trojan, password: 7d3fec8a-5bf6-313e-a8aa-70c0a9fa72b2, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK011高速 - NovaLive, server: 112.18.120.18, port: 23453, type: trojan, password: 7d3fec8a-5bf6-313e-a8aa-70c0a9fa72b2, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
