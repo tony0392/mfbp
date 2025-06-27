@@ -5,7 +5,7 @@ email  zmcsyjzll380@gmail.com
 last_checkin  2025-06-27 13:49:07.827460+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-07-27 13:49:07+08:00  (剩余 1T 29 days, 15:00:19.447858)
+sub_info  0B  1T  2025-07-27 13:49:07+08:00  (剩余 1T 29 days, 14:01:54.921660)
 sub_url  https://cc.dabai.in/link/yyVtywX5we9jRn8E?sub=3
 time  2025-06-27 13:49:09.050717+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  cqsyztqrz350@gmail.com
-last_checkin  2025-06-27 22:49:05.690365+08:00
+email  ulcykhsu755@gmail.com
+last_checkin  2025-06-27 23:47:12.810658+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.125G  2025-06-27 22:49:05+08:00  (剩余 1.125G -1 day, 23:59:56.308277)
-sub_url  https://new.gfw.news/link/8QmJZUOIXC0lTn0h?sub=3
-time  2025-06-27 22:49:06.134304+08:00
+sub_info  0B  1.089G  2025-06-27 23:47:12+08:00  (剩余 1.089G -1 day, 23:59:56.317044)
+sub_url  https://new.gfw.news/link/jB8aP9xVZDMnr58C?sub=3
+time  2025-06-27 23:47:13.588243+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -29,11 +29,10 @@ email  qysvwaah585@nqmo.com
 last_checkin  2025-06-27 15:47:01.896031+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.036G  2025-06-28 15:47:01+08:00  (剩余 1.036G 17:57:00.925246)
+sub_info  0B  1.036G  2025-06-28 15:47:01+08:00  (剩余 1.036G 15:59:49.546312)
 sub_url  https://www.duguletian.com/link/ewFNMyIY9n5LgUjH?sub=3
 time  2025-06-27 15:47:02.427387+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip]
 auto_invite  F
@@ -42,7 +41,7 @@ email  bwkmtxrs536@gmail.com
 last_checkin  2025-06-27 13:49:16.787916+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.461G  2025-06-29 14:49:16+08:00  (剩余 5.461G 1 day, 16:00:27.199935)
+sub_info  0B  5.461G  2025-06-29 14:49:16+08:00  (剩余 5.461G 1 day, 15:02:04.987148)
 sub_url  https://www.mgnet.sbs/link/VpCR7N2nHb7nGbrA?sub=3
 time  2025-06-27 13:49:17.266420+08:00
 type  sspanel
@@ -50,4 +49,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(miupmgj863@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(htqmzinky860@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
