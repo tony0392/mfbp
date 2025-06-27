@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, tfo: true, type: trojan, password: ffe91072-fe9f-3fd1-986b-af74352b70ed, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, tfo: true, type: trojan, password: ffe91072-fe9f-3fd1-986b-af74352b70ed, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, tfo: true, type: trojan, password: ffe91072-fe9f-3fd1-986b-af74352b70ed, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, tfo: true, type: trojan, password: ffe91072-fe9f-3fd1-986b-af74352b70ed, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, type: trojan, password: 8de6f346-ce5c-3288-bfa4-06764d1b675a, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, type: trojan, password: 8de6f346-ce5c-3288-bfa4-06764d1b675a, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, type: trojan, password: 8de6f346-ce5c-3288-bfa4-06764d1b675a, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, type: trojan, password: 8de6f346-ce5c-3288-bfa4-06764d1b675a, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
