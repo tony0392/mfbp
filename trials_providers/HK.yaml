@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 4ca97acd-ae14-3464-be87-016d21523f34, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, type: trojan, password: 7b15ea42-f266-3610-aa27-535bdbe67ac3, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, type: trojan, password: 7b15ea42-f266-3610-aa27-535bdbe67ac3, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, type: trojan, password: 7b15ea42-f266-3610-aa27-535bdbe67ac3, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, type: trojan, password: 7b15ea42-f266-3610-aa27-535bdbe67ac3, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, tfo: true, type: trojan, password: 2044b2b1-f0ab-37a1-9fd2-9ace73ef4f3c, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, tfo: true, type: trojan, password: 2044b2b1-f0ab-37a1-9fd2-9ace73ef4f3c, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, tfo: true, type: trojan, password: 2044b2b1-f0ab-37a1-9fd2-9ace73ef4f3c, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, tfo: true, type: trojan, password: 2044b2b1-f0ab-37a1-9fd2-9ace73ef4f3c, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
