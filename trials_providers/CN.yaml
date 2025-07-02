@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: a14ae29e-65fe-397d-b65e-bbbd2b2a27b9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: a14ae29e-65fe-397d-b65e-bbbd2b2a27b9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, type: trojan, password: 8cfd9e51-8a80-3c12-9e5e-558abc4d0d97, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, type: trojan, password: 8cfd9e51-8a80-3c12-9e5e-558abc4d0d97, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, type: trojan, password: 8cfd9e51-8a80-3c12-9e5e-558abc4d0d97, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, type: trojan, password: 8cfd9e51-8a80-3c12-9e5e-558abc4d0d97, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 71be3b80-9e03-3162-b937-ea182fcd373c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 71be3b80-9e03-3162-b937-ea182fcd373c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, type: trojan, password: 61b8895d-9b90-3318-bdc4-ebb35c8bb001, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, type: trojan, password: 61b8895d-9b90-3318-bdc4-ebb35c8bb001, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, type: trojan, password: 61b8895d-9b90-3318-bdc4-ebb35c8bb001, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, type: trojan, password: 61b8895d-9b90-3318-bdc4-ebb35c8bb001, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
