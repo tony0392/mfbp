@@ -5,7 +5,7 @@ email  owjyzhfh456@gmail.com
 last_checkin  2025-07-03 07:46:29.704219+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-08-02 07:46:29+08:00  (剩余 1T 29 days, 17:55:19.206917)
+sub_info  0B  1T  2025-08-02 07:46:29+08:00  (剩余 1T 29 days, 16:50:30.379875)
 sub_url  http://tw2.db-link.in:880/link/8Lr88332vTr4mqa0?sub=3
 time  2025-07-03 07:46:30.899591+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  ovghubzw837@gmail.com
-last_checkin  2025-07-03 13:51:13.538498+08:00
+email  fzgmzfw286@gmail.com
+last_checkin  2025-07-03 14:55:56.125661+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.058G  2025-07-03 13:51:13+08:00  (剩余 1.058G -1 day, 23:59:56.900185)
-sub_url  https://new.gfw.news/link/dkADx4ckB44moaBn?sub=3
-time  2025-07-03 13:51:14.392582+08:00
+sub_info  0B  1.039G  2025-07-03 14:55:55+08:00  (剩余 1.039G -1 day, 23:59:56.329436)
+sub_url  https://new.gfw.news/link/8tCgT7dQLZ66bB9Y?sub=3
+time  2025-07-03 14:55:56.768902+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -29,7 +29,7 @@ email  hrhexoqef569@guerrillamail.net
 last_checkin  2025-07-03 00:54:34.158790+08:00
 name  独孤乐天
 node_n  4
-sub_info  209.6M  1.048G  2025-07-03 15:46:19+08:00  (剩余 863.4M 1:55:09.366863)
+sub_info  230.4M  1.048G  2025-07-03 15:46:19+08:00  (剩余 842.6M 0:50:21.962144)
 sub_url  https://www.duguletian.com/link/j0DXtjM59nAnV1KM?sub=3
 time  2025-07-02 15:46:21.310925+08:00
 type  sspanel
@@ -37,16 +37,18 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  mijlmei870@gmail.com
-last_checkin  2025-07-03 00:54:37.483945+08:00
+email  kltimqwnb439@gmail.com
+last_checkin  2025-07-03 14:55:56.199877+08:00
 name  MG Network
 node_n  10
 sub_info  75.59M  5.648G  2025-07-05 01:54:37+08:00  (剩余 5.575G 1 day, 12:03:26.867348)
-sub_url  https://www.mgnet.sbs/link/LLMz0YyQsz5xYVAY?sub=3
-time  2025-07-03 00:54:37.873674+08:00
+sub_url  https://www.mgnet.sbs/link/PnoArteU1V6Dud10?sub=3
+time  2025-07-03 14:55:56.514923+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(tfajcng767@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(vlezwnat75@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
