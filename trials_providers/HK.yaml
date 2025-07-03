@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: ba864a57-d973-3535-9573-68b194fdae8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, type: trojan, password: 5a8fbaee-dfaf-37de-80a5-ea347af9faf4, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, type: trojan, password: 5a8fbaee-dfaf-37de-80a5-ea347af9faf4, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, type: trojan, password: 5a8fbaee-dfaf-37de-80a5-ea347af9faf4, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, type: trojan, password: 5a8fbaee-dfaf-37de-80a5-ea347af9faf4, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56323, type: trojan, password: 393252a0-592b-339d-8c21-b074cbb0cfce, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: yundun02.cdn.smp-paymentservices-apple.com, port: 56432, type: trojan, password: 393252a0-592b-339d-8c21-b074cbb0cfce, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, type: trojan, password: 393252a0-592b-339d-8c21-b074cbb0cfce, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK011高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23453, type: trojan, password: 393252a0-592b-339d-8c21-b074cbb0cfce, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
