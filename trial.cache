@@ -5,7 +5,7 @@ email  dnyqujobk186@gmail.com
 last_checkin  2025-07-08 06:46:09.430781+08:00
 name  大白
 node_n  7
-sub_info  139.4K  1T  2025-08-07 06:46:09+08:00  (剩余 1T 29 days, 11:55:25.656560)
+sub_info  166.4K  1T  2025-08-07 06:46:09+08:00  (剩余 1T 29 days, 11:00:48.747265)
 sub_url  http://cc.dabai.in/link/wwoRUov3WXlSRu7A?sub=3
 time  2025-07-08 06:46:10.610544+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  ublwrcey525@gmail.com
-last_checkin  2025-07-08 18:50:42.887880+08:00
+email  wpqehagn881@gmail.com
+last_checkin  2025-07-08 19:45:20.411063+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.113G  2025-07-08 18:50:42+08:00  (剩余 1.113G -1 day, 23:59:56.525895)
-sub_url  https://new.gfw.news/link/lcaIbj9XYZiDis7z?sub=3
-time  2025-07-08 18:50:43.434535+08:00
+sub_info  0B  1.038G  2025-07-08 19:45:20+08:00  (剩余 1.038G -1 day, 23:59:57.917814)
+sub_url  https://new.gfw.news/link/VZYJQ265PFO8aojF?sub=3
+time  2025-07-08 19:45:21.110927+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -33,6 +33,7 @@ sub_info  0B  1.021G  2025-07-09 16:55:27+08:00  (剩余 1.021G 22:04:43.268355)
 sub_url  https://www.duguletian.com/link/h1e6RLAvvWx8rg5V?sub=3
 time  2025-07-08 16:55:28.873488+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip]
 auto_invite  F
@@ -41,7 +42,7 @@ email  putvozg536@gmail.com
 last_checkin  2025-07-08 15:46:49.038748+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.73G  2025-07-10 16:46:48+08:00  (剩余 5.73G 1 day, 21:56:05.734716)
+sub_info  0B  5.73G  2025-07-10 16:46:48+08:00  (剩余 5.73G 1 day, 21:01:27.583421)
 sub_url  https://www.mgnet.sbs/link/l86NJMANgbTgBXO6?sub=3
 time  2025-07-08 15:46:49.530745+08:00
 type  sspanel
@@ -49,4 +50,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(omkmwqwe416@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(zbxauqm96@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
