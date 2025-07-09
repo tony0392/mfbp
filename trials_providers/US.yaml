@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 58976793-036b-3634-91c2-2f3ef5cdd3db, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, tfo: true, type: vmess, uuid: 58976793-036b-3634-91c2-2f3ef5cdd3db, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2086, type: vmess, uuid: 3f222f3b-8f24-3f60-907d-d90006c38202, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.129.143, headers: {Host: 100-4-245-3.s5.db-link02.top}}, udp: true}
 - {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 2095, type: vmess, uuid: 3f222f3b-8f24-3f60-907d-d90006c38202, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.99.67, headers: {Host: 100-253-51-168.s2.db-link01.top}}, udp: true}
 - {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2082, type: vmess, uuid: 3f222f3b-8f24-3f60-907d-d90006c38202, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.210.136, headers: {Host: 100-165-143-198.s1.db-link01.top}}, udp: true}
