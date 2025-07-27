@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 SG001 新加坡0.5倍 - NovaLive, server: 7nc1ui24.0ripz4lj.aliyungslb.com, port: 443, type: trojan, password: c9e15b82-d885-328c-b583-cfeba0aedc35, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
