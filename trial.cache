@@ -5,7 +5,7 @@ email  glofnsnyk273@gmail.com
 last_checkin  2025-08-02 00:56:33.132496+08:00
 name  大白
 node_n  7
-sub_info  26.5M  1T  2025-08-31 21:22:49+08:00  (剩余 1T 29 days, 17:37:54.539623)
+sub_info  26.5M  1T  2025-08-31 21:22:49+08:00  (剩余 1T 29 days, 16:32:17.803630)
 sub_url  https://cc.dabai.in/link/m9nldJF4ZHYys7gB?sub=3
 time  2025-08-01 21:22:50.716152+08:00
 type  sspanel
@@ -13,14 +13,15 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  jaapbwvdl555@gmail.com
-last_checkin  2025-08-02 03:44:56.148091+08:00
+email  lcfixqg310@gmail.com
+last_checkin  2025-08-02 04:50:29.180525+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.102G  2025-08-02 03:44:55+08:00  (剩余 1.102G -1 day, 23:59:56.615399)
-sub_url  https://new.gfw.news/link/FLbLM6IHElFyKgto?sub=3
-time  2025-08-02 03:44:56.777215+08:00
+sub_info  0B  1.17G  2025-08-02 04:50:28+08:00  (剩余 1.17G -1 day, 23:59:57.428483)
+sub_url  https://new.gfw.news/link/qvsxnBymC0568zQG?sub=3
+time  2025-08-02 04:50:29.653467+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -29,7 +30,7 @@ email  gcgxiceon635@guerrillamail.com
 last_checkin  2025-08-02 00:56:33.135803+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.038G  2025-08-02 18:54:05+08:00  (剩余 1.038G 15:09:10.386747)
+sub_info  0B  1.038G  2025-08-02 18:54:05+08:00  (剩余 1.038G 14:03:36.889280)
 sub_url  https://www.duguletian.com/link/u9dzNYZIlCJhkslp?sub=3
 time  2025-08-01 18:54:06.894211+08:00
 type  sspanel
@@ -37,16 +38,18 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  emnqumeq751@gmail.com
-last_checkin  2025-08-02 00:56:33.136745+08:00
+email  xiuayuad927@gmail.com
+last_checkin  2025-08-02 04:50:29.137551+08:00
 name  MG Network
 node_n  10
 sub_info  0B  6.166G  2025-08-03 07:50:55+08:00  (剩余 6.166G 1 day, 4:05:59.949766)
-sub_url  https://www.mgnet.sbs/link/cuX1xGEF58sTJJqV?sub=3
-time  2025-08-01 06:50:56.184525+08:00
+sub_url  https://www.mgnet.sbs/link/p4USdeio4QDa26FI?sub=3
+time  2025-08-02 04:50:29.607499+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wbnycntcx250@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0b423f1090>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(nwrggxbb973@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3eecebcca0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
