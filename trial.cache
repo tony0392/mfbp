@@ -5,7 +5,7 @@ email  iuvvauma981@gmail.com
 last_checkin  2025-08-02 17:48:12.419178+08:00
 name  大白
 node_n  7
-sub_info  1.361G  1T  2025-09-01 17:48:12+08:00  (剩余 1023G 29 days, 18:59:47.706487)
+sub_info  1.691G  1T  2025-09-01 17:48:12+08:00  (剩余 1022G 29 days, 17:58:32.595610)
 sub_url  http://cc.dabai.in/link/jdgHF2oDr9ieVy27?sub=3
 time  2025-08-02 17:48:13.738083+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  xsajztess75@gmail.com
-last_checkin  2025-08-02 22:48:25.215208+08:00
+email  aqjvmiph988@gmail.com
+last_checkin  2025-08-02 23:47:37.706491+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.084G  2025-08-02 22:48:24+08:00  (剩余 1.084G -1 day, 23:59:56.633867)
-sub_url  https://new.gfw.news/link/iW2hei2oZJRtaYZB?sub=3
-time  2025-08-02 22:48:25.719343+08:00
+sub_info  0B  1.17G  2025-08-02 23:47:37+08:00  (剩余 1.17G -1 day, 23:59:56.945596)
+sub_url  https://new.gfw.news/link/tlP9I9bRNUSbcvt3?sub=3
+time  2025-08-02 23:47:38.257522+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -29,11 +29,10 @@ email  sekxspnla972@oakon.com
 last_checkin  2025-08-02 18:51:03.099013+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.013G  2025-08-03 18:51:02+08:00  (剩余 1.013G 20:02:38.535839)
+sub_info  0B  1.013G  2025-08-03 18:51:02+08:00  (剩余 1.013G 19:03:23.969801)
 sub_url  https://www.duguletian.com/link/CVMq8uQr3flwKWQ6?sub=3
 time  2025-08-02 18:51:03.692472+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
@@ -42,13 +41,12 @@ email  xiuayuad927@gmail.com
 last_checkin  2025-08-02 04:50:29.137551+08:00
 name  MG Network
 node_n  10
-sub_info  258.4M  5.719G  2025-08-04 05:50:28+08:00  (剩余 5.466G 1 day, 7:02:04.662642)
+sub_info  264.7M  5.719G  2025-08-04 05:50:28+08:00  (剩余 5.46G 1 day, 6:02:51.315548)
 sub_url  https://www.mgnet.sbs/link/p4USdeio4QDa26FI?sub=3
 time  2025-08-02 04:50:29.607499+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 14, column 6372: ... 0[_0xbaecd2(0x205)](/.+(?:ri)[\/: ]([\d.]+)/)||[])[0x1]:(_0x7d89 ... ^ (line: 14)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dueoqzk575@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fef3b4791e0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(kroltexv990@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc729b82b60>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
