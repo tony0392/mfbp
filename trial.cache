@@ -5,7 +5,7 @@ email  sufcrwevf56@gmail.com
 last_checkin  2025-08-03 14:55:27.749300+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-09-02 14:55:27+08:00  (剩余 1T 29 days, 23:59:49.828217)
+sub_info  160.4M  1T  2025-09-02 14:55:27+08:00  (剩余 1024G 29 days, 23:09:47.851819)
 sub_url  http://cc.dabai.in/link/kDWYR0KeNlEWiimm?sub=3
 time  2025-08-03 14:55:29.088784+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  akcudnw828@gmail.com
-last_checkin  2025-08-03 14:55:27.219123+08:00
+email  reepbqjk738@gmail.com
+last_checkin  2025-08-03 15:45:38.783511+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.11G  2025-08-03 14:55:26+08:00  (剩余 1.11G -1 day, 23:59:55.138376)
-sub_url  https://new.gfw.news/link/287xquUaH8bqM5XD?sub=3
-time  2025-08-03 14:55:27.839173+08:00
+sub_info  0B  1.149G  2025-08-03 15:45:38+08:00  (剩余 1.149G -1 day, 23:59:52.307648)
+sub_url  https://new.gfw.news/link/84bWYqHAi3DcFZi5?sub=3
+time  2025-08-03 15:45:39.291026+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -29,7 +29,7 @@ email  sekxspnla972@oakon.com
 last_checkin  2025-08-03 00:53:49.990237+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.041G  2025-08-03 18:51:02+08:00  (剩余 1.041G 3:55:34.763934)
+sub_info  0B  1.041G  2025-08-03 18:51:02+08:00  (剩余 1.041G 3:05:24.030453)
 sub_url  https://www.duguletian.com/link/CVMq8uQr3flwKWQ6?sub=3
 time  2025-08-02 18:51:03.692472+08:00
 type  sspanel
@@ -41,7 +41,7 @@ email  xiuayuad927@gmail.com
 last_checkin  2025-08-03 00:53:49.992650+08:00
 name  MG Network
 node_n  10
-sub_info  461M  6.53G  2025-08-04 05:50:28+08:00  (剩余 6.08G 14:55:03.145822)
+sub_info  492.5M  6.53G  2025-08-04 05:50:28+08:00  (剩余 6.049G 14:04:45.479506)
 sub_url  https://www.mgnet.sbs/link/p4USdeio4QDa26FI?sub=3
 time  2025-08-02 04:50:29.607499+08:00
 type  sspanel
@@ -49,4 +49,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(eypslvnes810@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7d3b9986d0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(qfpcyioyi318@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3dab5b63b0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
