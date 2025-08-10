@@ -1409,7 +1409,6 @@ rules:
 - DOMAIN-SUFFIX,shenghuo.xiaomi.com,💩 ‍广告
 - DOMAIN-SUFFIX,stat.pandora.xiaomi.com,💩 ‍广告
 - DOMAIN-SUFFIX,union.mi.com,💩 ‍广告
-- DOMAIN-SUFFIX,wtradv.market.xiaomi.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad.api.moji.com,💩 ‍广告
 - DOMAIN-SUFFIX,app.moji001.com,💩 ‍广告
 - DOMAIN-SUFFIX,cdn.moji002.com,💩 ‍广告
@@ -1970,7 +1969,6 @@ rules:
 - DOMAIN-KEYWORD,claude,🤖 ‍AI
 - DOMAIN-KEYWORD,openai,🤖 ‍AI
 - DOMAIN,ai.google.dev,🤖 ‍AI
-- DOMAIN,aistudio.google.com,🤖 ‍AI
 - DOMAIN,api.githubcopilot.com,🤖 ‍AI
 - DOMAIN,api.groq.com,🤖 ‍AI
 - DOMAIN,api.together.xyz,🤖 ‍AI
