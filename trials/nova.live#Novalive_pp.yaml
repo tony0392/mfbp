@@ -1889,6 +1889,7 @@ rules:
 - DOMAIN-KEYWORD,claude,🤖 ‍AI
 - DOMAIN-KEYWORD,openai,🤖 ‍AI
 - DOMAIN,ai.google.dev,🤖 ‍AI
+- DOMAIN,aistudio.google.com,🤖 ‍AI
 - DOMAIN,api.githubcopilot.com,🤖 ‍AI
 - DOMAIN,api.groq.com,🤖 ‍AI
 - DOMAIN,api.together.xyz,🤖 ‍AI
@@ -1905,6 +1906,8 @@ rules:
 - DOMAIN-SUFFIX,client-api.arkoselabs.com,🤖 ‍AI
 - DOMAIN-SUFFIX,copilot.cloud.microsoft,🤖 ‍AI
 - DOMAIN-SUFFIX,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN-SUFFIX,curosr.com,🤖 ‍AI
+- DOMAIN-SUFFIX,curosr.sh,🤖 ‍AI
 - DOMAIN-SUFFIX,events.statsigapi.net,🤖 ‍AI
 - DOMAIN-SUFFIX,featuregates.org,🤖 ‍AI
 - DOMAIN-SUFFIX,gemini.google.com,🤖 ‍AI
