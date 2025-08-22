@@ -1,35 +1,35 @@
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  rrtejjo889@gmail.com
-last_checkin  2025-08-22 16:45:36.862669+08:00
+email  govfalrrn933@gmail.com
+last_checkin  2025-08-23 00:50:34.580097+08:00
 name  大白
 node_n  7
-sub_info  3.14G  1T  2025-09-21 16:45:36+08:00  (剩余 1021G 29 days, 17:01:11.331779)
-sub_url  http://cc.dabai.in/link/vNeksvfYtcN6yriU?sub=3
-time  2025-08-22 16:45:37.637162+08:00
+sub_info  0B  1T  2025-09-22 00:50:34+08:00  (剩余 1T 29 days, 23:59:56.189553)
+sub_url  http://cc.dabai.in/link/RzgZFzNNtz3JulB4?sub=3
+time  2025-08-23 00:50:35.432709+08:00
 type  sspanel
 
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  mcrfsyutu594@gmail.com
-last_checkin  2025-08-22 23:44:25.732773+08:00
+email  welxzskmf262@gmail.com
+last_checkin  2025-08-23 00:50:40.224384+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.108G  2025-08-22 23:44:25+08:00  (剩余 1.108G -1 day, 23:59:54.647132)
-sub_url  https://new.gfw.news/link/2YVapb5qZDmozQJG?sub=3
-time  2025-08-22 23:44:26.261369+08:00
+sub_info  0B  1.078G  2025-08-23 00:50:39+08:00  (剩余 1.078G -1 day, 23:59:56.064166)
+sub_url  https://new.gfw.news/link/ku2ptu6nQ72JJuhO?sub=3
+time  2025-08-23 00:50:40.701580+08:00
 type  sspanel
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  sfhywnbt390@gmail.com
-last_checkin  2025-08-22 16:40:31.051864+08:00
+last_checkin  2025-08-23 00:50:31.196957+08:00
 name  MG Network
 node_n  11
-sub_info  24.25M  5.651G  2025-08-24 17:40:30+08:00  (剩余 5.628G 1 day, 17:56:05.557889)
+sub_info  24.59M  6.379G  2025-08-24 17:40:30+08:00  (剩余 6.355G 1 day, 16:49:55.654091)
 sub_url  https://www.mgnet.sbs/link/kW0FTQYJNghamy68?sub=3
 time  2025-08-22 16:40:31.591525+08:00
 type  sspanel
@@ -37,18 +37,19 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nflgwxxew323@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8c2f8874f0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(jupldihiw663@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8103693520>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [flybarurl.com]
 auto_invite  T
-banned_domains  mail.shouyou789.com  xxxhi.cc
+banned_domains  mail.shouyou789.com  xxxhi.cc  tomystudio.com
 buy  shop=9
 email  xjduruzyb339@guerrillamail.net
 invite_code  LpEw  10000
-last_checkin  2025-08-22 16:51:25.471114+08:00
+last_checkin  2025-08-23 00:50:31.199126+08:00
 name  飞翔吧
 node_n  46
-sub_info  9.602G  10.18G  2025-08-23 16:51:25+08:00  (剩余 593.9M 17:06:53.451864)
+sub_info  10.33G  10.35G  2025-08-23 16:51:25+08:00  (剩余 21.35M 15:59:45.537947)
 sub_url  http://175.178.9.20/link/jDMpdkS3isLgG0k3?sub=3
 time  2025-08-22 16:51:26.055234+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xqmgjvmfh273@tomystudio.com)
