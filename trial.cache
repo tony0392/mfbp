@@ -5,7 +5,7 @@ email  govfalrrn933@gmail.com
 last_checkin  2025-08-23 00:50:34.580097+08:00
 name  大白
 node_n  7
-sub_info  7.917G  1T  2025-09-22 00:50:34+08:00  (剩余 1016G 29 days, 8:33:56.695581)
+sub_info  7.917G  1T  2025-09-22 00:50:34+08:00  (剩余 1016G 29 days, 8:29:43.706340)
 sub_url  http://cc.dabai.in/link/RzgZFzNNtz3JulB4?sub=3
 time  2025-08-23 00:50:35.432709+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  xyydmjlbi733@gmail.com
-last_checkin  2025-08-23 16:16:37.134037+08:00
+email  tqbeitl543@gmail.com
+last_checkin  2025-08-23 16:20:49.228875+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.065G  2025-08-23 16:16:36+08:00  (剩余 1.065G -1 day, 23:59:56.398993)
-sub_url  https://new.gfw.news/link/uudTuYujOPNfxv2Q?sub=3
-time  2025-08-23 16:16:37.828464+08:00
+sub_info  0B  1.056G  2025-08-23 16:20:48+08:00  (剩余 1.056G -1 day, 23:59:54.400669)
+sub_url  https://new.gfw.news/link/a4VG3FNfSNZ5d4F9?sub=3
+time  2025-08-23 16:20:49.720944+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -29,7 +29,7 @@ email  sfhywnbt390@gmail.com
 last_checkin  2025-08-23 00:50:31.196957+08:00
 name  MG Network
 node_n  11
-sub_info  97.12M  6.379G  2025-08-24 17:40:30+08:00  (剩余 6.284G 1 day, 1:23:54.714902)
+sub_info  97.17M  6.379G  2025-08-24 17:40:30+08:00  (剩余 6.284G 1 day, 1:19:41.768093)
 sub_url  https://www.mgnet.sbs/link/kW0FTQYJNghamy68?sub=3
 time  2025-08-22 16:40:31.591525+08:00
 type  sspanel
@@ -37,7 +37,7 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hsyvwjyx605@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f96ecf21870>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(fmgdbdy626@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6acc32e200>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [flybarurl.com]
 auto_invite  T
@@ -48,7 +48,7 @@ invite_code  Cfls  10000
 last_checkin  2025-08-23 16:17:01.053141+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.14G  2025-08-24 16:17:00+08:00  (剩余 10.14G 23:59:55.452279)
+sub_info  0B  10.14G  2025-08-24 16:17:00+08:00  (剩余 10.14G 23:56:10.252651)
 sub_url  http://175.178.9.20/link/ifSHfAEZuJogEWoV?sub=3
 time  2025-08-23 16:17:01.479427+08:00
 type  sspanel
@@ -56,7 +56,7 @@ type  sspanel
 [365vpn.org]
 error  <string>:1 Unexpected "p" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wxiykmw910@gmail.com): The route open/v1/passport/auth/register could not be found.
+更新订阅链接/续费续签失败  注册失败(hdwtlfk788@gmail.com): The route open/v1/passport/auth/register could not be found.
 
 [waa.ai/xiazaimiwutong]
 
@@ -67,12 +67,12 @@ type  v2board
 [bbxy.浙地珠宝.com]
 name  百变小樱
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cdokbql300@gmail.com): 系统无法接受你的验证结果，请刷新页面后重试!!
+更新订阅链接/续费续签失败  注册失败(fbmhgdyiw169@gmail.com): 系统无法接受你的验证结果，请刷新页面后重试!!
 
 [flybit.vip]
 name  FlyBit
 type  v2board
-更新订阅链接/续费续签失败  注册失败(larrnxl92@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ahjdvox987@gmail.com): 'NoneType' object is not subscriptable
 
 [zongyunti.com]
 
@@ -80,7 +80,7 @@ type  v2board
 
 [baiyangxing.com]
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(enxxdkr191@bccto.cc): {'code': 200, 'message': 'Success.', 'payload': True, 's': '53F5A6A52E514838ADAB5B1C0DA248B3'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(eaolxpse278@pastryofistanbul.com): {'code': 200, 'message': 'Success.', 'payload': True, 's': '7955BEDF90F841218C8A7F6EA9F56F5B'}
 
 [dash.afun.la]
 
@@ -97,7 +97,7 @@ type  v2board
 [cloud.speedypro.xyz]
 name  Speedy
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zwnnnelsu925@spam4.me): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(agamwpi358@tomystudio.com): {'message': '验证码有误'}
 
 [v2ny.com]
 
@@ -110,7 +110,7 @@ type  v2board
 [dash.fscloud.cc]
 name  FSCloud
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(bzochmlk112@moakt.ws): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(oixqhlywq361@sharklasers.com): {'message': '验证码有误'}
 
 [doucat.top]
 name  逗猫
@@ -122,12 +122,12 @@ type  v2board
 [taishan.pro]
 name  TaiShan Net
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(wjmgmhl548@tmails.net): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(etewsno432@grr.la): {'message': '邮箱后缀不处于白名单中'}
 
 [glados.space]
-name  
+name
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dgcpxuwnw820@gmail.com): 没有权限
+更新订阅链接/续费续签失败  注册失败(kjsekgbb900@gmail.com): 没有权限
 
 [daniu.e300daniu.top]
 
@@ -135,22 +135,22 @@ type  v2board
 api_host  api4.345112.xyz
 name  宝贝云
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(jhkqzfek644@disbox.org): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(karrzhz867@xxxhi.cc): {'message': '验证码有误'}
 
 [cd520.xyz]
 banned_domains  smartnator.com
 name  cd1314.xyz
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(euodjdrzj142@smartnator.com)
+更新订阅链接/续费续签失败  注册失败(smmmfwitt136@psnator.com): 邮箱后缀不处于白名单中
 
 [aimacloud.info]
 
 [mxwljsq.xyz]
 name  猫熊网络加速器
 type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rgxyrkphr558@disbox.net): {'ret': 0, 'msg': '邮箱不在白名单内'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(glxlmkw960@tmpmail.net): {'ret': 0, 'msg': '邮箱不在白名单内'}
 
 [okvpn.cc]
 name  纵横加速
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qzhjoty606@gmail.com): 遇到了些问题，我们正在进行处理
+更新订阅链接/续费续签失败  注册失败(oxpqndnt382@gmail.com): 遇到了些问题，我们正在进行处理
