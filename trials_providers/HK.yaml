@@ -10,4 +10,4 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gyl.58n.net, port: 20278, type: trojan, password: b7181fac-3f7c-35fc-8d21-ad5a211d6c8f, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gyl.58n.net, port: 20279, type: trojan, password: b7181fac-3f7c-35fc-8d21-ad5a211d6c8f, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gyl.58n.net, port: 20294, type: trojan, password: b7181fac-3f7c-35fc-8d21-ad5a211d6c8f, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: c86ac269-2fe7-3eae-ac62-65bf8c4451bf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: a45a69f9-e2b1-3f2e-8940-9e02c7c3dae6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
