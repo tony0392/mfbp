@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 25238, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 11215, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gyl.58n.net, port: 20302, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gyl.58n.net, port: 20303, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gyl.58n.net, port: 20304, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gyl.58n.net, port: 20305, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gyl.58n.net, port: 20306, type: trojan, password: f4e012c1-aa94-385a-a88b-b193874c40f6, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 25238, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 11215, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gyl.58n.net, port: 20302, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gyl.58n.net, port: 20303, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gyl.58n.net, port: 20304, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gyl.58n.net, port: 20305, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gyl.58n.net, port: 20306, type: trojan, password: 964028c9-be68-3bfe-91e0-181d9bbe8d5a, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: 0c2807f3-252d-3bdf-92d8-35a6fe02392d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 0c2807f3-252d-3bdf-92d8-35a6fe02392d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 0c2807f3-252d-3bdf-92d8-35a6fe02392d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
