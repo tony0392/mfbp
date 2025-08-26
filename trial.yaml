@@ -295,73 +295,73 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 17806, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x65.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20130, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x130.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20298, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20300, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gyl.58n.net, port: 41767, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gyl.58n.net, port: 54178, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x115.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20139, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20140, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20141, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20142, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gyl.58n.net, port: 20059, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gyl.58n.net, port: 20071, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gyl.58n.net, port: 20076, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20309, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gyl.58n.net, port: 20307, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 22741, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gyl.58n.net, port: 20278, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gyl.58n.net, port: 20279, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gyl.58n.net, port: 20294, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20295, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gyl.58n.net, port: 16895, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gyl.58n.net, port: 21970, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: x41.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyl.58n.net, port: 30767, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 56783, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20288, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 25238, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 11215, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gyl.58n.net, port: 20302, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gyl.58n.net, port: 20303, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gyl.58n.net, port: 20304, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gyl.58n.net, port: 20305, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gyl.58n.net, port: 20306, type: trojan, password: a2bc374d-e49c-384d-b29e-d28a6c79225e, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link01.top, port: 8880, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.10.239, headers: {Host: 100-160-90-107.s4.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 2052, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.194.98, headers: {Host: 100-28-44-137.s5.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2082, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.15.113, headers: {Host: 100-182-185-18.s1.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 8880, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.226.180, headers: {Host: 100-154-112-196.s5.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.cn-db.top, port: 2052, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.126.175, headers: {Host: 100-8-23-248.s2.cn-db.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.cn-db.top, port: 2052, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.223.203, headers: {Host: 100-142-21-182.s3.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.db-link01.top, port: 80, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.56.143, headers: {Host: 100-102-171-207.s3.db-link01.top}}, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 41d2e6a6-a74d-3f49-a7ec-d4270d8612f8, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 41d2e6a6-a74d-3f49-a7ec-d4270d8612f8, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: 41d2e6a6-a74d-3f49-a7ec-d4270d8612f8, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 9ecd17f4-1942-34ca-919e-b0ff73cbacd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 17806, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x65.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20130, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x130.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20298, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20300, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gyl.58n.net, port: 41767, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gyl.58n.net, port: 54178, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x115.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20139, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20140, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20141, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20142, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gyl.58n.net, port: 20059, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gyl.58n.net, port: 20071, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gyl.58n.net, port: 20076, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20309, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gyl.58n.net, port: 20307, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 22741, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gyl.58n.net, port: 20278, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gyl.58n.net, port: 20279, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gyl.58n.net, port: 20294, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20295, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gyl.58n.net, port: 16895, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gyl.58n.net, port: 21970, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x41.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyl.58n.net, port: 30767, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 56783, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20288, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 25238, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 11215, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gyl.58n.net, port: 20302, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gyl.58n.net, port: 20303, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gyl.58n.net, port: 20304, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gyl.58n.net, port: 20305, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gyl.58n.net, port: 20306, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2082, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.48.131, headers: {Host: 100-243-28-113.s1.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link01.top, port: 2082, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.0.151, headers: {Host: 100-177-234-76.s4.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 80, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.50.187, headers: {Host: 100-148-91-69.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2082, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.0.40, headers: {Host: 100-105-79-174.s2.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.db-link01.top, port: 8080, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.22.180, headers: {Host: 100-86-40-10.s2.db-link01.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s5.db-link01.top, port: 8880, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.80.177, headers: {Host: 100-217-100-243.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link02.top, port: 2086, type: vmess, uuid: 53ec5471-532d-371f-a499-c152006493b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.41.3, headers: {Host: 100-229-219-81.s2.db-link02.top}}, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 5d71756b-d3f3-3aa3-85f2-bd8706139f58, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 5d71756b-d3f3-3aa3-85f2-bd8706139f58, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: 5d71756b-d3f3-3aa3-85f2-bd8706139f58, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -397,6 +397,22 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
+- DOMAIN-SUFFIX,bgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,dgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,fgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,hgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,igithub.xyz,DIRECT
+- DOMAIN-SUFFIX,jgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,lgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,4git.xyz,DIRECT
+- DOMAIN-SUFFIX,5git.xyz,DIRECT
+- DOMAIN-SUFFIX,6git.xyz,DIRECT
+- DOMAIN-SUFFIX,mgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ngithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ogithub.xyz,DIRECT
+- DOMAIN-SUFFIX,pgithub.xyz,DIRECT
+- DOMAIN,hub.whtrys.space,DIRECT
 - DOMAIN-SUFFIX,arx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
@@ -452,6 +468,41 @@ rules:
 - DOMAIN-SUFFIX,FamilyDS.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,FamilyDS.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,FamilyDS.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
+- DOMAIN,open.e.kuaishou.com,💩 ‍广告
+- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
+- DOMAIN-SUFFIX,adkwai.com,💩 ‍广告
+- DOMAIN-SUFFIX,adukwai.com,💩 ‍广告
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
+- DOMAIN,pangolin.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-lq.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-hl.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-lf.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc0-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc0-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc0-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
+- DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
+- DOMAIN,api.juliangcili.com,💩 ‍广告
+- DOMAIN-SUFFIX,anythinktech.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
@@ -8602,6 +8653,96 @@ rules:
 - IP-CIDR,212.64.0.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,212.129.128.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,45.113.194.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,63.243.252.0/24,🛩️ ‍墙内,no-r
+- IP-CIDR,63.243.252.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.235.44.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,106.12.0.0/15,🛩️ ‍墙内,no-resolve
+- IP-CIDR,114.28.224.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,180.76.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,182.61.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,185.10.105.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,202.46.48.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.90.238.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,43.254.0.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,45.249.212.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,49.4.0.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.31.200.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.218.216.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,114.115.128.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,114.116.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.63.128.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.66.184.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,117.78.0.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.3.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.8.32.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,121.36.0.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,121.36.128.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,121.37.0.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,122.112.128.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.0.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.64.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.100.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.104.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.112.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.128.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.192.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.224.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.240.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.9.248.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.159.128.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.159.160.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.159.164.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.159.168.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.159.176.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,139.159.192.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.0.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.64.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.79.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.80.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.96.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.112.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.125.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.128.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,42.186.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,45.127.128.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,45.195.24.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,45.253.132.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,45.253.240.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,45.254.48.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,59.111.0.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,59.111.128.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.71.120.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.71.128.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.71.196.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.71.200.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.12.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.18.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.24.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.28.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.38.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.40.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.44.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.48.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.72.128.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.74.24.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.74.48.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.129.252.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.131.252.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.135.240.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,103.196.64.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,106.2.32.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,106.2.64.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,114.113.196.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,114.113.200.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,115.236.112.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,115.238.76.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,123.58.160.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,223.252.192.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.128.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.192.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.194.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.196.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.200.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.208.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.199.196.0/22,🛩️ ‍墙内,no-resolve
 - GEOIP,CN,🛩️ ‍墙内
 - MATCH,🌐 ‍未知站点
