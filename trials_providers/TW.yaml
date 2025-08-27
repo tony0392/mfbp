@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: 07997f76-212e-371d-b43f-b899bd9987bf, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: d0e021f4-2789-3ff4-9f8c-fc4a04c21c24, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: d0e021f4-2789-3ff4-9f8c-fc4a04c21c24, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: d0e021f4-2789-3ff4-9f8c-fc4a04c21c24, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: d0e021f4-2789-3ff4-9f8c-fc4a04c21c24, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 995fa04a-0979-364f-8eb0-343b9935f68f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
