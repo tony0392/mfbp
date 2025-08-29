@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 0a485635-c9e9-3d01-a2f4-b966ba23854d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: ac2ccc0c-3883-3c4a-8a96-fb867ee77d60, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20309, type: trojan, password: 4d6a4f3e-50b8-3d28-8fce-4b4208bc6d51, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: 4d6a4f3e-50b8-3d28-8fce-4b4208bc6d51, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gyl.58n.net, port: 20307, type: trojan, password: 4d6a4f3e-50b8-3d28-8fce-4b4208bc6d51, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
