@@ -3,7 +3,7 @@
 proxies:
 - {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 96415b8a-04a8-3c91-8d97-21b550570354, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 96415b8a-04a8-3c91-8d97-21b550570354, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 42065c99-6265-3d8f-98c2-15721c6341a7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: d5ad8e42-307c-338d-bd34-3cd3d3415365, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: 72e4e433-c1ed-393e-ad5f-0b146b2d67f9, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 17806, type: trojan, password: 72e4e433-c1ed-393e-ad5f-0b146b2d67f9, sni: x65.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: 72e4e433-c1ed-393e-ad5f-0b146b2d67f9, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
