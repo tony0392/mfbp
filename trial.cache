@@ -5,7 +5,7 @@ email  ptblnyy674@gmail.com
 last_checkin  2025-09-01 00:46:45.586185+08:00
 name  大白
 node_n  14
-sub_info  10.79G  1T  2025-09-30 06:43:30+08:00  (剩余 1013G 29 days, 5:00:04.333848)
+sub_info  11.63G  1T  2025-09-30 06:43:30+08:00  (剩余 1012G 29 days, 3:55:14.899713)
 sub_url  http://cc.dabai.in/link/Y0WoFtjtaeboPGVb?sub=3
 time  2025-08-31 06:43:30.812142+08:00
 type  sspanel
@@ -13,14 +13,15 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  nfaarplqk258@gmail.com
-last_checkin  2025-09-01 01:43:33.381994+08:00
+email  mmuxkgmy555@gmail.com
+last_checkin  2025-09-01 02:48:15.888815+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.071G  2025-09-01 01:43:33+08:00  (剩余 1.071G -1 day, 23:59:58.041243)
-sub_url  https://new.gfw.news/link/l2Ur9ab85iIWdRXl?sub=3
-time  2025-09-01 01:43:34.052581+08:00
+sub_info  0B  1.03G  2025-09-01 02:48:15+08:00  (剩余 1.03G -1 day, 23:59:55.536104)
+sub_url  https://new.gfw.news/link/rb98FivQnDhqorTj?sub=3
+time  2025-09-01 02:48:16.589966+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
@@ -29,7 +30,7 @@ email  dsjwgwynz339@gmail.com
 last_checkin  2025-09-01 00:46:45.588563+08:00
 name  MG Network
 node_n  11
-sub_info  1.211G  6.118G  2025-09-02 19:43:12+08:00  (剩余 4.907G 1 day, 17:59:45.492333)
+sub_info  1.457G  6.118G  2025-09-02 19:43:12+08:00  (剩余 4.661G 1 day, 16:54:57.300158)
 sub_url  https://www.mgnet.sbs/link/813WJ5fzurvCzPqY?sub=3
 time  2025-08-31 18:43:13.290135+08:00
 type  sspanel
@@ -37,11 +38,11 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nvpebmg498@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f144b021f90>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(kcgawtt190@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f488a9eb2e0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [flybarurl.com]
 auto_invite  T
-banned_domains  mail.shouyou789.com  xxxhi.cc  tomystudio.com  mail.wvwvw.tech  bccto.cc  tmails.net  tmpmail.org  lista.cc  disbox.net  bareed.ws  x866.cc  disbox.org  jkb.tmmad.com  mydefipet.live  tmpmail.net  51788.top  adtgng.tmmad.com  jkd.tmmad.com  965.tmmad.com  ipiso.tmmad.com  moakt.ws  huiplay.com  tmail.ws  wwobs.com  smartnator.com  mxl001.win  25ua.com  lyx13.xyz  moakt.co  vapeuccino.com  deomail.top  snapmail.cc
+banned_domains  mail.shouyou789.com  xxxhi.cc  tomystudio.com  mail.wvwvw.tech  bccto.cc  tmails.net  tmpmail.org  lista.cc  disbox.net  bareed.ws  x866.cc  disbox.org  jkb.tmmad.com  mydefipet.live  tmpmail.net  51788.top  adtgng.tmmad.com  jkd.tmmad.com  965.tmmad.com  ipiso.tmmad.com  moakt.ws  huiplay.com  tmail.ws  wwobs.com  smartnator.com  mxl001.win  25ua.com  lyx13.xyz  moakt.co  vapeuccino.com  deomail.top  snapmail.cc  vapelato.com
 buy  shop=9
 email  nuaprdpbo88@guerrillamail.de
 invite_code  yLOr  9997
@@ -52,4 +53,6 @@ sub_info  10.32G  10.32G  2025-09-01 18:43:29+08:00  (剩余 -3.325M 16:59:29.80
 sub_url  http://175.178.9.20/link/817tWyW8e0lnsIVl?sub=3
 time  2025-08-31 18:43:29.782640+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(rfqvisye512@vapelato.com)
