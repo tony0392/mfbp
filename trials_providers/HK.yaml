@@ -2,12 +2,12 @@
 ---
 proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 5a658386-9f9a-35de-9f2d-afde5bfb1d29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20309, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gyl.58n.net, port: 20307, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 22741, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gyl.58n.net, port: 20278, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gyl.58n.net, port: 20279, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gyl.58n.net, port: 20294, type: trojan, password: c11252f4-0d5b-3b53-8ccd-69e40438bf80, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20309, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gyl.58n.net, port: 20307, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 22741, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gyl.58n.net, port: 20278, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gyl.58n.net, port: 20279, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gyl.58n.net, port: 20294, type: trojan, password: 20cf816b-b836-35dd-874b-95ee3e1e88ce, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
