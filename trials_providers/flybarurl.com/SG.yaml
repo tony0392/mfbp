@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: ca32c64f-4a0c-36c7-9482-a7177c8769cb, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 17806, type: trojan, password: ca32c64f-4a0c-36c7-9482-a7177c8769cb, sni: x65.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: ca32c64f-4a0c-36c7-9482-a7177c8769cb, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: ca32c64f-4a0c-36c7-9482-a7177c8769cb, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20130, type: trojan, password: ca32c64f-4a0c-36c7-9482-a7177c8769cb, sni: x130.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: 44da58c7-cfff-3c51-ae07-14349f7ef984, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 17806, type: trojan, password: 44da58c7-cfff-3c51-ae07-14349f7ef984, sni: x65.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: 44da58c7-cfff-3c51-ae07-14349f7ef984, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: 44da58c7-cfff-3c51-ae07-14349f7ef984, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20130, type: trojan, password: 44da58c7-cfff-3c51-ae07-14349f7ef984, sni: x130.hongkongnode.top, skip-cert-verify: true, udp: true}
