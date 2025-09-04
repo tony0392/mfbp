@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: 6deba29d-acde-3b1b-b22e-beb82fc5406f, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: d370032e-1892-33b2-b675-9b3dbcbfd7d9, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20298, type: trojan, password: 140614a6-98bf-39a5-8240-b40e92301231, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20300, type: trojan, password: 140614a6-98bf-39a5-8240-b40e92301231, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gyl.58n.net, port: 41767, type: trojan, password: 140614a6-98bf-39a5-8240-b40e92301231, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
