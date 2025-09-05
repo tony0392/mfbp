@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 24dd7f52-64ba-3c9c-bbcc-3cfac6e0f51f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: af6fe4f2-3d80-317d-b7bc-8b947fca31f4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 台湾入口1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link02.top, port: 2082, type: vmess, uuid: d864329b-5b1d-3469-9dad-e609c85bade0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.180.178, headers: {Host: 100-39-245-114.s4.db-link02.top}}, udp: true}
 - {name: 台湾入口2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 8880, type: vmess, uuid: d864329b-5b1d-3469-9dad-e609c85bade0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.55.194, headers: {Host: 100-158-108-209.s1.cn-db.top}}, udp: true}
 - {name: 台湾入口1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2095, type: vmess, uuid: d864329b-5b1d-3469-9dad-e609c85bade0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.220.141, headers: {Host: 100-137-232-136.s2.cn-db.top}}, udp: true}
