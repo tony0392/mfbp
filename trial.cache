@@ -5,7 +5,7 @@ email  gjoaskq569@gmail.com
 last_checkin  2025-09-07 00:44:55.697184+08:00
 name  大白
 node_n  14
-sub_info  84.22G  1T  2025-10-03 23:44:49+08:00  (剩余 940G 26 days, 10:01:11.988010)
+sub_info  85.29G  1T  2025-10-03 23:44:49+08:00  (剩余 938.9G 26 days, 8:57:15.204552)
 sub_url  http://cc.dabai.in/link/Hjd2XNlD51iEDf2i?sub=3
 time  2025-09-03 23:44:51.299340+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  uavmbudtc972@gmail.com
-last_checkin  2025-09-07 13:43:37.460438+08:00
+email  afqxeqxhg810@gmail.com
+last_checkin  2025-09-07 14:47:34.734765+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.173G  2025-09-07 13:43:37+08:00  (剩余 1.173G -1 day, 23:59:55.192207)
-sub_url  https://new.gfw.news/link/dNhoyBX5UMswyoh3?sub=3
-time  2025-09-07 13:43:37.948634+08:00
+sub_info  0B  1.056G  2025-09-07 14:47:34+08:00  (剩余 1.056G -1 day, 23:59:56.868306)
+sub_url  https://new.gfw.news/link/mfpbYEM647NiSU2K?sub=3
+time  2025-09-07 14:47:35.397247+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -29,13 +29,12 @@ email  qusirqc210@gmail.com
 last_checkin  2025-09-07 06:43:26.177287+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.64G  2025-09-09 07:43:25+08:00  (剩余 5.64G 1 day, 17:59:55.170092)
+sub_info  0B  5.64G  2025-09-09 07:43:25+08:00  (剩余 5.64G 1 day, 16:56:12.033288)
 sub_url  https://www.mgnet.sbs/link/IdcU76TUoXLn2H49?sub=3
 time  2025-09-07 06:43:26.635131+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 14, column 6372: ... 0[_0xbaecd2(0x205)](/.+(?:ri)[\/: ]([\d.]+)/)||[])[0x1]:(_0x7d89 ... ^ (line: 14)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bgqbbmwwh216@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4f3cd8c0a0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(wjurkvwy463@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0771269ae0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
