@@ -5,7 +5,7 @@ email  evzmhas236@gmail.com
 last_checkin  2025-09-16 00:48:33.279372+08:00
 name  大白
 node_n  14
-sub_info  36.98G  1T  2025-10-15 00:43:31+08:00  (剩余 987.1G 28 days, 9:51:45.696572)
+sub_info  37.96G  1T  2025-10-15 00:43:31+08:00  (剩余 986.1G 28 days, 8:59:54.542865)
 sub_url  https://cc.dabai.in/link/joLKNnFj3IrZ1jGe?sub=3
 time  2025-09-15 00:43:32.547215+08:00
 type  sspanel
@@ -13,13 +13,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  plydkhikw322@gmail.com
-last_checkin  2025-09-16 14:53:48.469989+08:00
+email  fekgpbovd993@gmail.com
+last_checkin  2025-09-16 15:43:42.417073+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.063G  2025-09-16 14:53:48+08:00  (剩余 1.063G -1 day, 23:59:57.213630)
-sub_url  https://new.gfw.news/link/4G3Ho47M0nHy1cYJ?sub=3
-time  2025-09-16 14:53:48.969819+08:00
+sub_info  0B  1.155G  2025-09-16 15:43:42+08:00  (剩余 1.155G -1 day, 23:59:52.364642)
+sub_url  https://new.gfw.news/link/ir4hS1Ie7UnzCmU9?sub=3
+time  2025-09-16 15:43:42.997366+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -29,7 +29,7 @@ email  qgvhwrzy87@gmail.com
 last_checkin  2025-09-16 07:43:39.943227+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.383G  2025-09-18 08:43:39+08:00  (剩余 5.383G 1 day, 17:51:54.185859)
+sub_info  0B  5.383G  2025-09-18 08:43:39+08:00  (剩余 5.383G 1 day, 17:00:05.143664)
 sub_url  https://www.mgnet.sbs/link/0wJaCSx0mM1rZAnI?sub=3
 time  2025-09-16 07:43:40.272072+08:00
 type  sspanel
@@ -37,4 +37,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ditfalrg301@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8b2f1c4190>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(lfigigvs45@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8236a90160>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
