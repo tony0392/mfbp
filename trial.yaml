@@ -35,9 +35,9 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
-  - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇺🇸 [vip①]美国1 - MG Network
   - CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
@@ -138,9 +138,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇸🇬 [vip①]②新加坡 - MG Network
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -204,8 +204,11 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: 2181184a-862a-3ccd-a06b-b023ffd1ab43, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 2181184a-862a-3ccd-a06b-b023ffd1ab43, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 2181184a-862a-3ccd-a06b-b023ffd1ab43, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -215,9 +218,6 @@ proxies:
 - {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: ae0540a7-0eca-3b6a-a845-dd7f40290809, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 2181184a-862a-3ccd-a06b-b023ffd1ab43, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 2181184a-862a-3ccd-a06b-b023ffd1ab43, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: 2181184a-862a-3ccd-a06b-b023ffd1ab43, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link.in, port: 80, type: vmess, uuid: 5936ec2f-8c22-308c-9189-2e2c9c5d0352, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.ina63b135b1005475ba713366f8545ab42, headers: {Host: dabaius.webn.cc}}, udp: true}
 - {name: CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 5936ec2f-8c22-308c-9189-2e2c9c5d0352, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in8c95f5ad93b76127d08edcf5a02fcb2d, headers: {Host: 8c95f5ad93b76127d08edcf5a02fcb2d.us1.hhouge12.ggff.net}}, udp: true}
 - {name: CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link.in, port: 80, type: vmess, uuid: 5936ec2f-8c22-308c-9189-2e2c9c5d0352, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in2a71875e155b3b2abec4cd453ffb9e5c, headers: {Host: dabaius.webn.cc}}, udp: true}
