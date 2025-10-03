@@ -2,5 +2,5 @@
 ---
 proxies:
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 15148561-5b48-31b6-bd65-69d9a2230aaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: b2f2f255-9529-3654-8531-4bd77fd7f1d2, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: b2f2f255-9529-3654-8531-4bd77fd7f1d2, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: e926ff18-e9ee-3c2e-b8ae-2917cf5a289f, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: e926ff18-e9ee-3c2e-b8ae-2917cf5a289f, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
