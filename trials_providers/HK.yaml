@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: e7f77ae3-6c5c-377b-8ad8-d615fd80e920, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.237, port: 443, type: trojan, password: fde4de6c-8d00-338f-87be-61cfecc08df3, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.237, port: 443, type: trojan, password: 3f66e6c9-1ab0-32ad-8526-f3d94b46c577, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
