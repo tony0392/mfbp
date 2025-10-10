@@ -1,13 +1,13 @@
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  wfppkddu52@gmail.com
-last_checkin  2025-10-10 22:46:16.176145+08:00
+email  jceyimggw356@gmail.com
+last_checkin  2025-10-10 23:44:03.410619+08:00
 name  大白
 node_n  14
 sub_info  13.16G  1T  2025-10-18 05:43:21+08:00  (剩余 1011G 29 days, 8:36:53.837734)
-sub_url  https://cc.dabai.in/link/ElU7xztKgfKB3xfI?sub=3
-time  2025-10-10 22:46:17.149923+08:00
+sub_url  https://cc.dabai.in/link/Jdwqnxmnb6xqjmK4?sub=3
+time  2025-10-10 23:44:04.390895+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
@@ -15,14 +15,15 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  lpaukycsu541@gmail.com
-last_checkin  2025-10-10 22:46:07.260983+08:00
+email  ujvclrgsp651@gmail.com
+last_checkin  2025-10-10 23:44:02.288148+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.079G  2025-10-10 22:46:07+08:00  (剩余 1.079G -1 day, 23:59:57.809470)
-sub_url  https://new.gfw.news/link/cFjuz0TdEhlEM80O?sub=3
-time  2025-10-10 22:46:07.731585+08:00
+sub_info  0B  1.09G  2025-10-10 23:44:02+08:00  (剩余 1.09G -1 day, 23:59:54.743580)
+sub_url  https://new.gfw.news/link/qeKvS7IfefkTfnlR?sub=3
+time  2025-10-10 23:44:02.765984+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
@@ -31,7 +32,7 @@ email  ypyiwbo264@gmail.com
 last_checkin  2025-10-10 21:46:43.322862+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.715G  2025-10-12 22:46:43+08:00  (剩余 5.715G 2 days, 0:00:37.837707)
+sub_info  0B  5.715G  2025-10-12 22:46:43+08:00  (剩余 5.715G 1 day, 23:02:04.139296)
 sub_url  https://www.mgnet.sbs/link/hjUqsxf9WIXRKCOF?sub=3
 time  2025-10-10 21:46:43.653153+08:00
 type  sspanel
@@ -39,4 +40,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fqedcws211@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fda6edc3340>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(lwkrfmzo218@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f10dde649d0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
