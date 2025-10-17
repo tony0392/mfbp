@@ -1,13 +1,13 @@
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  lvoitmhew256@gmail.com
-last_checkin  2025-10-18 05:43:14.626003+08:00
+email  ihdjlzsw50@gmail.com
+last_checkin  2025-10-18 06:43:41.602591+08:00
 name  大白
 node_n  14
 sub_info  13.16G  1T  2025-10-18 05:43:21+08:00  (剩余 1011G 29 days, 8:36:53.837734)
-sub_url  https://cc.dabai.in/link/AVv94ietONINwFAP?sub=3
-time  2025-10-18 05:43:15.543765+08:00
+sub_url  https://cc.dabai.in/link/ZHJyGCk19ZFouDl2?sub=3
+time  2025-10-18 06:43:42.391110+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
@@ -15,30 +15,28 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  aawabbptu122@gmail.com
-last_checkin  2025-10-18 05:43:13.888450+08:00
+email  goukopylc90@gmail.com
+last_checkin  2025-10-18 06:43:28.260992+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.069G  2025-10-18 05:43:13+08:00  (剩余 1.069G -1 day, 23:59:56.725430)
-sub_url  https://new.gfw.news/link/jPEHZYfHHAFSeBO4?sub=3
-time  2025-10-18 05:43:14.523264+08:00
+sub_info  0B  1.101G  2025-10-18 06:43:28+08:00  (剩余 1.101G -1 day, 23:59:57.163154)
+sub_url  https://new.gfw.news/link/GMcKYqAwv8yg743J?sub=3
+time  2025-10-18 06:43:28.736953+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  oeoadqirh285@gmail.com
-last_checkin  2025-10-18 00:49:31.418460+08:00
+email  wzwqzhz521@gmail.com
+last_checkin  2025-10-18 06:43:28.669261+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.68G  2025-10-20 00:44:50+08:00  (剩余 5.68G 1 day, 19:01:43.174141)
-sub_url  https://aa.mgnet.sbs/link/H2hCMBXLmRqUjPWQ?sub=3
-time  2025-10-17 23:44:51.264887+08:00
+sub_info  0B  5.702G  2025-10-20 07:43:28+08:00  (剩余 5.702G 2 days, 0:59:57.225012)
+sub_url  https://aa.mgnet.sbs/link/50x7ccn8t5ntYDJT?sub=3
+time  2025-10-18 06:43:29.136866+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ggqwdwgg588@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0303fa01f0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(ndhxkro886@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f13ea6a75b0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
