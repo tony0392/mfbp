@@ -12,18 +12,18 @@ time  2025-10-19 07:43:22.428400+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  发送邮箱验证码失败(fysphrsl531@femailtor.com): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(qvohlfrep280@deomail.top): {'ret': 0, 'msg': '非法请求'}
 
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  eosuucj499@gmail.com
-last_checkin  2025-10-19 12:47:02.580309+08:00
+email  kwtgvkwb117@gmail.com
+last_checkin  2025-10-19 13:44:13.561648+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.092G  2025-10-19 12:47:02+08:00  (剩余 1.092G -1 day, 23:59:56.970121)
-sub_url  https://new.gfw.news/link/8mSDGryKBaRvslOF?sub=3
-time  2025-10-19 12:47:03.405251+08:00
+sub_info  0B  1.045G  2025-10-19 13:44:13+08:00  (剩余 1.045G -1 day, 23:59:56.928836)
+sub_url  https://new.gfw.news/link/ZMpFrkmTbh4Nk5Zk?sub=3
+time  2025-10-19 13:44:14.065322+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -33,7 +33,7 @@ email  swwicbqpx459@gmail.com
 last_checkin  2025-10-19 06:43:11.313797+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.783G  2025-10-21 07:43:11+08:00  (剩余 5.783G 1 day, 18:56:16.189509)
+sub_info  0B  5.783G  2025-10-21 07:43:11+08:00  (剩余 5.783G 1 day, 17:58:41.741941)
 sub_url  https://aa.mgnet.sbs/link/sUM3S7H4SOJcykS7?sub=3
 time  2025-10-19 06:43:11.730029+08:00
 type  sspanel
@@ -41,4 +41,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pzjekan676@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6be15af940>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(baxjzxevi72@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6c105a2e60>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
