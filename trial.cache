@@ -13,18 +13,18 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  发送邮箱验证码失败(wnbpqnbex634@wwobs.com): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(gsxqrvb987@grr.la): {'ret': 0, 'msg': '非法请求'}
 
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  yusuofoeu493@gmail.com
-last_checkin  2025-10-26 10:21:36.504139+08:00
+email  ssuwegv237@gmail.com
+last_checkin  2025-10-26 11:30:48.348476+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.056G  2025-10-26 10:21:35+08:00  (剩余 1.056G -1 day, 23:59:56.445541)
-sub_url  https://new.gfw.news/link/aG6sAnrhVKNeqcNs?sub=3
-time  2025-10-26 10:21:37.053696+08:00
+sub_info  0B  1.174G  2025-10-26 11:30:48+08:00  (剩余 1.174G -1 day, 23:59:57.534386)
+sub_url  https://new.gfw.news/link/gypzWL8rqSXYCNqL?sub=3
+time  2025-10-26 11:30:48.992222+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,7 +34,7 @@ email  rvfrrfwg190@gmail.com
 last_checkin  2025-10-26 00:47:00.810334+08:00
 name  MG Network
 node_n  11
-sub_info  4.28M  6.498G  2025-10-27 20:43:27+08:00  (剩余 6.494G 1 day, 10:21:52.910398)
+sub_info  4.516M  6.498G  2025-10-27 20:43:27+08:00  (剩余 6.494G 1 day, 9:12:40.446661)
 sub_url  https://aa.mgnet.sbs/link/15UwspejobD2vUcI?sub=3
 time  2025-10-25 19:43:28.259672+08:00
 type  sspanel
@@ -42,4 +42,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hhjxtsx360@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe36c44c7c0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(cefoqnvu945@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa1754cc7f0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
