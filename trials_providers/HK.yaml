@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: fca69a71-8a5f-34a2-97ce-e6aa62bde52d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 443, type: trojan, password: 9bc79115-8cab-313c-8a0b-03e299c3a917, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: bbe3cc30-2c95-3f67-a3a0-c6ac73e86348, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 443, type: trojan, password: 089e3b85-f835-3ef5-b324-2d91063382ff, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
