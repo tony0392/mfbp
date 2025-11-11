@@ -3,4 +3,4 @@
 proxies:
 - {name: '🇯🇵 [vip①]②日本 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: feb93e96-81b6-3922-ad71-88f39b956418, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: feb93e96-81b6-3922-ad71-88f39b956418, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 56a9e74a-4eff-3a95-82cd-bcd2a470b17c, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 10ffecce-5c18-34a7-b1bc-40cf8f236eba, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
