@@ -1,6 +1,6 @@
 [cc.dabai.in#大白]
 auto_invite  F
-banned_domains  linshiyou.com  tmpmail.org  tmails.net  tmpbox.net  sharklasers.com  tmail.ws  tmpeml.com  guerrillamail.net  guerrillamail.com  tmpmail.net  bareed.ws  moakt.cc  bccto.cc  spam4.me  moakt.ws  disbox.net  teml.net  disbox.org  moakt.co  huiplay.com  adtgng.tmmad.com  x866.cc  deomail.top  questtechsystems.com  xxxhi.cc  XDANAE.COM  guerrillamail.org  ipiso.tmmad.com  jkd.tmmad.com  mxl001.win  lplso.tmmad.com
+banned_domains  linshiyou.com  tmpmail.org  tmails.net  tmpbox.net  sharklasers.com  tmail.ws  tmpeml.com  guerrillamail.net  guerrillamail.com  tmpmail.net  bareed.ws  moakt.cc  bccto.cc  spam4.me  moakt.ws  disbox.net  teml.net  disbox.org  moakt.co  huiplay.com  adtgng.tmmad.com  x866.cc  deomail.top  questtechsystems.com  xxxhi.cc  XDANAE.COM  guerrillamail.org  ipiso.tmmad.com  jkd.tmmad.com  mxl001.win  lplso.tmmad.com  guerrillamail.biz
 buy  shop=31
 email  cuzfqxy19@gmail.com
 last_checkin  2025-10-19 07:43:21.646060+08:00
@@ -13,33 +13,33 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  获取邮箱验证码超时(qhvsxtnu412@guerrillamail.biz)
 
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  jeundsam270@gmail.com
-last_checkin  2025-11-16 17:43:35.153841+08:00
+email  ukrixcg652@gmail.com
+last_checkin  2025-11-16 18:44:50.950087+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.099G  2025-11-16 17:43:34+08:00  (剩余 1.099G -1 day, 23:59:56.359706)
-sub_url  https://new.gfw.news/link/DQiEWnayeeiom3UF?sub=3
-time  2025-11-16 17:43:35.837834+08:00
+sub_info  0B  1.076G  2025-11-16 18:44:50+08:00  (剩余 1.076G -1 day, 23:59:57.286819)
+sub_url  https://new.gfw.news/link/f9WVBnpqwiJQjATM?sub=3
+time  2025-11-16 18:44:51.418463+08:00
 type  sspanel
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  vwjvmupqb590@gmail.com
-last_checkin  2025-11-16 00:46:26.492602+08:00
+email  abccvubtw878@gmail.com
+last_checkin  2025-11-16 18:44:53.225528+08:00
 name  MG Network
 node_n  11
-sub_info  173.6M  6.292G  2025-11-17 20:43:04+08:00  (剩余 6.122G 1 day, 2:59:30.807522)
-sub_url  https://aa.mgnet.sbs/link/Z9cBNygdJ7zTAokQ?sub=3
-time  2025-11-15 19:43:05.164809+08:00
+sub_info  0B  5.562G  2025-11-18 19:44:52+08:00  (剩余 5.562G 2 days, 0:59:56.691045)
+sub_url  https://aa.mgnet.sbs/link/pMlych5MQyL1ztGT?sub=3
+time  2025-11-16 18:44:53.695256+08:00
 type  sspanel
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hlvynfr499@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2b3c03f580>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(nzmsvff89@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f12dfa3dae0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
