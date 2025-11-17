@@ -1,6 +1,6 @@
 [cc.dabai.in#大白]
 auto_invite  F
-banned_domains  linshiyou.com  tmpmail.org  tmails.net  tmpbox.net  sharklasers.com  tmail.ws  tmpeml.com  guerrillamail.net  guerrillamail.com  tmpmail.net  bareed.ws  moakt.cc  bccto.cc  spam4.me  moakt.ws  disbox.net  teml.net  disbox.org  moakt.co  huiplay.com  adtgng.tmmad.com  x866.cc  deomail.top  questtechsystems.com  xxxhi.cc  XDANAE.COM  guerrillamail.org  ipiso.tmmad.com  jkd.tmmad.com  mxl001.win  lplso.tmmad.com  guerrillamail.biz  jkb.tmmad.com  pastryofistanbul.com  965.tmmad.com  mail.shouyou789.com  51788.top  mail.wvwvw.tech  vapelato.com  lyx13.xyz  oakon.com  grr.la  lista.cc  xdanae.com  lushenticbag.com
+banned_domains  linshiyou.com  tmpmail.org  tmails.net  tmpbox.net  sharklasers.com  tmail.ws  tmpeml.com  guerrillamail.net  guerrillamail.com  tmpmail.net  bareed.ws  moakt.cc  bccto.cc  spam4.me  moakt.ws  disbox.net  teml.net  disbox.org  moakt.co  huiplay.com  adtgng.tmmad.com  x866.cc  deomail.top  questtechsystems.com  xxxhi.cc  XDANAE.COM  guerrillamail.org  ipiso.tmmad.com  jkd.tmmad.com  mxl001.win  lplso.tmmad.com  guerrillamail.biz  jkb.tmmad.com  pastryofistanbul.com  965.tmmad.com  mail.shouyou789.com  51788.top  mail.wvwvw.tech  vapelato.com  lyx13.xyz  oakon.com  grr.la  lista.cc  xdanae.com  lushenticbag.com  snapmail.cc
 buy  shop=31
 email  cuzfqxy19@gmail.com
 last_checkin  2025-10-19 07:43:21.646060+08:00
@@ -13,18 +13,18 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  获取邮箱验证码超时(hqpxnnljt348@lushenticbag.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xugjxrs77@snapmail.cc)
 
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  nneknlk292@gmail.com
-last_checkin  2025-11-17 16:55:12.098967+08:00
+email  xlhkvcek809@gmail.com
+last_checkin  2025-11-17 17:48:23.934554+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.103G  2025-11-17 16:55:11+08:00  (剩余 1.103G -1 day, 23:59:56.426946)
-sub_url  https://new.gfw.news/link/UyFebWRRX7zz38kn?sub=3
-time  2025-11-17 16:55:12.558394+08:00
+sub_info  0B  1.023G  2025-11-17 17:48:23+08:00  (剩余 1.023G -1 day, 23:59:57.766611)
+sub_url  https://new.gfw.news/link/tT3Es8R8yl6LD6hj?sub=3
+time  2025-11-17 17:48:24.551925+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,7 +34,7 @@ email  cmnkllnk797@gmail.com
 last_checkin  2025-11-17 13:47:11.595898+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.743G  2025-11-19 14:47:11+08:00  (剩余 5.743G 1 day, 21:52:20.426848)
+sub_info  0B  5.743G  2025-11-19 14:47:11+08:00  (剩余 5.743G 1 day, 20:58:49.977546)
 sub_url  https://aa.mgnet.sbs/link/vN128LFFxdgdM3pD?sub=3
 time  2025-11-17 13:47:12.040205+08:00
 type  sspanel
@@ -42,4 +42,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qdvjaeuaq221@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4858c93310>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(tpzapedjh329@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe6630f5300>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
