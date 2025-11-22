@@ -18,15 +18,14 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  laeancvu672@gmail.com
-last_checkin  2025-11-23 03:43:05.652931+08:00
+email  ybhizkijo439@gmail.com
+last_checkin  2025-11-23 04:45:07.521413+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.04G  2025-11-23 03:43:05+08:00  (剩余 1.04G -1 day, 23:59:55.403598)
-sub_url  https://new.gfw.news/link/5fkLGcVxUn7aoWPg?sub=3
-time  2025-11-23 03:43:06.435940+08:00
+sub_info  0B  1.099G  2025-11-23 04:45:07+08:00  (剩余 1.099G -1 day, 23:59:57.189168)
+sub_url  https://new.gfw.news/link/unjaR30nEAEN7lh3?sub=3
+time  2025-11-23 04:45:08.191296+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [mgnet.vip]
 auto_invite  F
@@ -35,12 +34,13 @@ email  oejodoav50@gmail.com
 last_checkin  2025-11-23 00:47:47.933443+08:00
 name  MG Network
 node_n  11
-sub_info  0B  6.071G  2025-11-24 12:27:05+08:00  (剩余 6.071G 1 day, 8:44:02.373212)
+sub_info  0B  6.071G  2025-11-24 12:27:05+08:00  (剩余 6.071G 1 day, 7:41:58.669402)
 sub_url  https://aa.mgnet.sbs/link/1FgWMWBtvJwcyfqB?sub=3
 time  2025-11-22 11:27:06.606805+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ymrtscg998@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f99cbeef7c0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(cyaqhcfn424@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f42a637f6d0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
