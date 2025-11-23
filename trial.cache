@@ -18,29 +18,28 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  rpnlhte920@gmail.com
-last_checkin  2025-11-23 21:02:11.152647+08:00
+email  akxgnwde523@gmail.com
+last_checkin  2025-11-23 21:43:30.015765+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.13G  2025-11-23 21:02:10+08:00  (剩余 1.13G -1 day, 23:59:56.910131)
-sub_url  https://new.gfw.news/link/i8DhixMcvclSV1Rn?sub=3
-time  2025-11-23 21:02:11.710493+08:00
+sub_info  0B  1.115G  2025-11-23 21:43:29+08:00  (剩余 1.115G -1 day, 23:59:54.071743)
+sub_url  https://new.gfw.news/link/NsZGtA4GeI9lJIXf?sub=3
+time  2025-11-23 21:43:30.601683+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  oejodoav50@gmail.com
-last_checkin  2025-11-23 00:47:47.933443+08:00
+email  wykgdyw597@gmail.com
+last_checkin  2025-11-23 21:43:29.628597+08:00
 name  MG Network
 node_n  11
-sub_info  0B  6.071G  2025-11-24 12:27:05+08:00  (剩余 6.071G 15:25:00.567124)
-sub_url  https://aa.mgnet.sbs/link/1FgWMWBtvJwcyfqB?sub=3
-time  2025-11-22 11:27:06.606805+08:00
+sub_info  0B  5.325G  2025-11-25 22:43:29+08:00  (剩余 5.325G 2 days, 0:59:56.777950)
+sub_url  https://aa.mgnet.sbs/link/wubkDrUjMhWLs702?sub=3
+time  2025-11-23 21:43:29.929354+08:00
 type  sspanel
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kcsllhlvj6@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5577dec5e0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(nclqttdo972@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f95f0ca5960>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
