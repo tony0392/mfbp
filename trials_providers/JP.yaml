@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: ydgz.miloli.me, port: 23611, type: vmess, uuid: 26f930ed-6534-369f-941a-a4c0251a697f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: 26f930ed-6534-369f-941a-a4c0251a697f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: ydgz.miloli.me, port: 23618, type: vmess, uuid: 26f930ed-6534-369f-941a-a4c0251a697f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 3960973c-0dfa-3e46-b437-27ef73e01545, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: ydgz.miloli.me, port: 23611, type: vmess, uuid: 2c57253a-83a7-3e57-b2c5-6adc4c4efee4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: 2c57253a-83a7-3e57-b2c5-6adc4c4efee4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: ydgz.miloli.me, port: 23618, type: vmess, uuid: 2c57253a-83a7-3e57-b2c5-6adc4c4efee4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 7bf458c3-9121-3b38-820f-5943cf2cd0b4, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
