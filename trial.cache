@@ -18,15 +18,15 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  nclfxrptt105@gmail.com
-last_checkin  2025-12-10 15:47:06.125984+08:00
+email  rorzvpgiu702@gmail.com
+last_checkin  2025-12-10 16:55:53.174379+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.18G  2025-12-10 15:47:05+08:00  (剩余 1.18G -1 day, 23:59:55.916055)
-sub_url  https://new.gfw.news/link/qgHwRmm0fg0incit?sub=3
-time  2025-12-10 15:47:06.747264+08:00
+sub_info  0B  1.02G  2025-12-10 16:55:52+08:00  (剩余 1.02G -1 day, 23:57:54.493824)
+sub_url  https://new.gfw.news/link/5L5XuEmeOR75JdWu?sub=3
+time  2025-12-10 16:55:53.815059+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [mgnet.vip]
 auto_invite  F
@@ -35,7 +35,7 @@ email  fcekwgayi810@gmail.com
 last_checkin  2025-12-10 15:47:04.368339+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.455G  2025-12-12 16:47:04+08:00  (剩余 5.455G 2 days, 0:59:57.249655)
+sub_info  0B  5.455G  2025-12-12 16:47:04+08:00  (剩余 5.455G 1 day, 23:51:07.905121)
 sub_url  https://aa.mgnet.sbs/link/kAALH1ewA4v3glWO?sub=3
 time  2025-12-10 15:47:04.675703+08:00
 type  sspanel
@@ -43,4 +43,4 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xpkjvwyd233@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(urydaqrrw154@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
