@@ -18,28 +18,30 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  ljapatnaa242@gmail.com
-last_checkin  2025-12-11 05:49:18.998294+08:00
+email  ejzmiuw282@gmail.com
+last_checkin  2025-12-11 06:48:38.753850+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.119G  2025-12-11 05:49:18+08:00  (剩余 1.119G -1 day, 23:59:50.813971)
-sub_url  https://new.gfw.news/link/sg7lvjyfujIhLyQH?sub=3
-time  2025-12-11 05:49:19.628322+08:00
+sub_info  0B  1.089G  2025-12-11 06:48:38+08:00  (剩余 1.089G -1 day, 23:59:56.161705)
+sub_url  https://new.gfw.news/link/2v6CcqI1XPmGDbJi?sub=3
+time  2025-12-11 06:48:39.313016+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  fcekwgayi810@gmail.com
-last_checkin  2025-12-11 00:55:31.677691+08:00
+email  dxdsbxdz105@gmail.com
+last_checkin  2025-12-11 06:48:39.588532+08:00
 name  MG Network
 node_n  11
-sub_info  0B  6.088G  2025-12-12 16:47:04+08:00  (剩余 6.088G 1 day, 10:59:30.616068)
-sub_url  https://aa.mgnet.sbs/link/kAALH1ewA4v3glWO?sub=3
-time  2025-12-10 15:47:04.675703+08:00
+sub_info  0B  5.544G  2025-12-13 07:48:39+08:00  (剩余 5.544G 2 days, 0:59:28.371371)
+sub_url  https://aa.mgnet.sbs/link/scuGLLQOPLminZro?sub=3
+time  2025-12-11 06:48:40.037949+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jhasgcbp104@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(njwzhbol926@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
