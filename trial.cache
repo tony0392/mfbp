@@ -18,13 +18,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  hdxkpwiq972@gmail.com
-last_checkin  2025-12-11 13:50:22.197783+08:00
+email  osrspnetw397@gmail.com
+last_checkin  2025-12-11 14:58:50.055832+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.147G  2025-12-11 13:50:21+08:00  (剩余 1.147G -1 day, 23:59:56.835294)
-sub_url  https://new.gfw.news/link/VHy83RPFoUeold39?sub=3
-time  2025-12-11 13:50:22.774544+08:00
+sub_info  0B  1.04G  2025-12-11 14:58:49+08:00  (剩余 1.04G -1 day, 23:59:56.910123)
+sub_url  https://new.gfw.news/link/e6NUX1E9s9Kl6dUO?sub=3
+time  2025-12-11 14:58:50.639554+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,14 +34,13 @@ email  qtrsekz55@gmail.com
 last_checkin  2025-12-11 13:50:14.016705+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.544G  2025-12-13 07:48:39+08:00  (剩余 5.544G 1 day, 18:50:31.172943)
+sub_info  0B  5.545G  2025-12-13 14:50:13+08:00  (剩余 5.545G 1 day, 23:51:25.740042)
 sub_url  https://aa.mgnet.sbs/link/0IU6cJlrpKpislHI?sub=3
 time  2025-12-11 13:50:14.323057+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(itvpjiqbv643@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(byayvisw924@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
