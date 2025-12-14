@@ -18,13 +18,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  uwtihfwt308@gmail.com
-last_checkin  2025-12-14 15:43:23.689452+08:00
+email  jzqmgwyd402@gmail.com
+last_checkin  2025-12-14 16:51:44.628111+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.133G  2025-12-14 15:43:23+08:00  (剩余 1.133G -1 day, 23:59:57.642749)
-sub_url  https://new.gfw.news/link/HnRhlyfoqnCrztxC?sub=3
-time  2025-12-14 15:43:24.145414+08:00
+sub_info  0B  1.105G  2025-12-14 16:51:44+08:00  (剩余 1.105G -1 day, 23:59:55.487868)
+sub_url  https://new.gfw.news/link/PF8oohIGL5lm6F5M?sub=3
+time  2025-12-14 16:51:45.079626+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,13 +34,12 @@ email  yqbuhtkn636@gmail.com
 last_checkin  2025-12-14 07:44:09.601999+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.442G  2025-12-16 08:44:09+08:00  (剩余 5.442G 1 day, 17:00:46.535067)
+sub_info  0B  5.442G  2025-12-16 08:44:09+08:00  (剩余 5.442G 1 day, 15:53:09.461192)
 sub_url  https://aa.mgnet.sbs/link/Mbf3qJh4J8KQSeD3?sub=3
 time  2025-12-14 07:44:09.928573+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cpeokokle694@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(gstxchvqq900@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
