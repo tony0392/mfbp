@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: 2a506ddb-d3cb-3b0d-9a3d-979e672cb669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 303c79bb-e017-3093-a908-8441c9dc2556, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 303c79bb-e017-3093-a908-8441c9dc2556, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: 59d70bb5-432e-39c6-83b1-2af0b1a71c23, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: a6fcfd8d-bd6a-308d-9586-aec663d3b787, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: a6fcfd8d-bd6a-308d-9586-aec663d3b787, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
