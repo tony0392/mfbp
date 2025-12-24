@@ -18,29 +18,28 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  sxogpaw822@gmail.com
-last_checkin  2025-12-24 22:49:19.988610+08:00
+email  syplirnmi368@gmail.com
+last_checkin  2025-12-24 23:47:54.105039+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.08G  2025-12-24 22:49:19+08:00  (剩余 1.08G -1 day, 23:59:57.036299)
-sub_url  https://new.gfw.news/link/4rKaaf1jiIm9vq4A?sub=3
-time  2025-12-24 22:49:20.577082+08:00
+sub_info  0B  1.059G  2025-12-24 23:47:53+08:00  (剩余 1.059G -1 day, 23:59:54.786865)
+sub_url  https://new.gfw.news/link/U2Y5x0SbkqAXfU7R?sub=3
+time  2025-12-24 23:47:54.705520+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  lomzznv722@gmail.com
-last_checkin  2025-12-24 15:49:48.356356+08:00
+email  xguzxzv362@gmail.com
+last_checkin  2025-12-24 23:47:53.471835+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.636G  2025-12-26 16:49:48+08:00  (剩余 1.636G 1 day, 18:00:31.055886)
-sub_url  https://aa.mgnet.sbs/link/2J6HrVM6Wl40hQVX?sub=3
-time  2025-12-24 15:49:48.679452+08:00
+sub_info  0B  1.569G  2025-12-27 00:47:53+08:00  (剩余 1.569G 2 days, 0:59:58.188536)
+sub_url  https://aa.mgnet.sbs/link/zvp0rwf8HPdUe58I?sub=3
+time  2025-12-24 23:47:53.781258+08:00
 type  sspanel
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(tyngtbjui380@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(bvkwguoq7@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
