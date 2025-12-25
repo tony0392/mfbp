@@ -18,28 +18,31 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  izyfmjne687@gmail.com
-last_checkin  2025-12-26 04:49:00.389331+08:00
+email  pbfrbqgyc537@gmail.com
+last_checkin  2025-12-26 05:44:43.690153+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.061G  2025-12-26 04:49:00+08:00  (剩余 1.061G -1 day, 23:59:55.293353)
-sub_url  https://new.gfw.news/link/zXKiFE2ehmPNaL7J?sub=3
-time  2025-12-26 04:49:01.065283+08:00
+sub_info  0B  1.054G  2025-12-26 05:44:43+08:00  (剩余 1.054G -1 day, 23:59:55.234911)
+sub_url  https://new.gfw.news/link/pHs5C0a1tDwmhoF4?sub=3
+time  2025-12-26 05:44:44.224281+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  fgcpsiii407@gmail.com
-last_checkin  2025-12-26 00:52:52.934518+08:00
+email  spoykaruq669@gmail.com
+last_checkin  2025-12-26 05:46:47.545629+08:00
 name  MG Network
 node_n  11
 sub_info  0B  2.238G  2025-12-27 23:48:19+08:00  (剩余 2.238G 1 day, 19:00:13.247615)
-sub_url  https://aa.mgnet.sbs/link/2zIgy5WzXe9W24B3?sub=3
-time  2025-12-25 22:48:19.823455+08:00
+sub_url  https://aa.mgnet.sbs/link/FDV81sPsmXhnCyGF?sub=3
+time  2025-12-26 05:46:47.930486+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uhjgrzadq739@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(mwyzknbx193@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
