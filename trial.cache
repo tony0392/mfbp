@@ -18,13 +18,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  xyofmnj995@gmail.com
-last_checkin  2025-12-31 15:49:07.641472+08:00
+email  ftzysgxwv20@gmail.com
+last_checkin  2025-12-31 16:56:10.210825+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.105G  2025-12-31 15:49:07+08:00  (剩余 1.105G -1 day, 23:59:57.784266)
-sub_url  https://new.gfw.news/link/LntZzQVuWN0VtrTK?sub=3
-time  2025-12-31 15:49:08.136888+08:00
+sub_info  0B  1.143G  2025-12-31 16:56:09+08:00  (剩余 1.143G -1 day, 23:59:40.537836)
+sub_url  https://new.gfw.news/link/uM9eKnWhm4odXdJP?sub=3
+time  2025-12-31 16:56:10.850996+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,13 +34,12 @@ email  ukkqbkd134@gmail.com
 last_checkin  2025-12-31 13:51:39.407861+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.546G  2026-01-02 14:51:39+08:00  (剩余 1.546G 1 day, 23:04:26.144984)
+sub_info  0B  1.546G  2026-01-02 14:51:39+08:00  (剩余 1.546G 1 day, 21:55:30.654974)
 sub_url  https://aa.mgnet.sbs/link/WlfGZ8J6iP6Spdfq?sub=3
 time  2025-12-31 13:51:39.809384+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kjpinsil474@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(ttwtgunl122@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
