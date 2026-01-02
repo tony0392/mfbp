@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: 0a889580-6e9a-3cd5-9217-cd15b8cc4f3b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 896b38d0-6a61-3513-a068-d9b43310f2fe, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 3e2e5cfe-9164-3d8e-884c-324f4d3946f2, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
