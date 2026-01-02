@@ -18,28 +18,29 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  weudxugbk958@gmail.com
-last_checkin  2026-01-03 04:48:35.060675+08:00
+email  pgrpucp868@gmail.com
+last_checkin  2026-01-03 05:44:32.202844+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.093G  2026-01-03 04:48:34+08:00  (剩余 1.093G -1 day, 23:59:56.479582)
-sub_url  https://new.gfw.news/link/99nb8UxQqLcJ5LSt?sub=3
-time  2026-01-03 04:48:35.664468+08:00
+sub_info  0B  1.153G  2026-01-03 05:44:31+08:00  (剩余 1.153G -1 day, 23:59:54.935458)
+sub_url  https://new.gfw.news/link/M0fyIkZSiOBjg0we?sub=3
+time  2026-01-03 05:44:32.707819+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  uudhvtuh606@gmail.com
-last_checkin  2026-01-03 00:53:20.285886+08:00
+email  fylperi726@gmail.com
+last_checkin  2026-01-03 05:44:31.135871+08:00
 name  MG Network
 node_n  11
-sub_info  0B  2.381G  2026-01-04 23:50:24+08:00  (剩余 2.381G 1 day, 19:01:47.318512)
-sub_url  https://aa.mgnet.sbs/link/TJakVYeN3DTYuAza?sub=3
-time  2026-01-02 22:50:25.344781+08:00
+sub_info  0B  1.505G  2026-01-05 06:44:30+08:00  (剩余 1.505G 2 days, 0:57:56.272883)
+sub_url  https://aa.mgnet.sbs/link/1cUnvFmd2j5CSsEz?sub=3
+time  2026-01-03 05:44:31.558711+08:00
 type  sspanel
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fimdcugeu522@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(ewqzmhsb13@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
