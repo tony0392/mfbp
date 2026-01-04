@@ -18,29 +18,28 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  cvwobci977@gmail.com
-last_checkin  2026-01-05 01:45:54.548281+08:00
+email  ottzwndqo728@gmail.com
+last_checkin  2026-01-05 02:53:38.292830+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.068G  2026-01-05 01:45:54+08:00  (剩余 1.068G -1 day, 23:59:57.499608)
-sub_url  https://new.gfw.news/link/Jg0cZ6hsOcNwRksN?sub=3
-time  2026-01-05 01:45:55.102510+08:00
+sub_info  0B  1.111G  2026-01-05 02:53:38+08:00  (剩余 1.111G -1 day, 23:59:54.650809)
+sub_url  https://new.gfw.news/link/0Q12DCBWRl3Lhh5c?sub=3
+time  2026-01-05 02:53:38.867123+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  jhaiqhgj128@gmail.com
-last_checkin  2026-01-05 00:51:34.413259+08:00
+email  romuwcon453@gmail.com
+last_checkin  2026-01-05 02:53:34.701619+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.923G  2026-01-06 22:52:42+08:00  (剩余 1.923G 1 day, 21:05:16.249536)
-sub_url  https://aa.mgnet.sbs/link/lKUR9VydpOxFBtXU?sub=3
-time  2026-01-04 21:52:43.226190+08:00
+sub_info  0B  1.712G  2026-01-07 03:53:34+08:00  (剩余 1.712G 2 days, 0:59:57.816801)
+sub_url  https://aa.mgnet.sbs/link/aKNyKbRtIPuHtGLa?sub=3
+time  2026-01-05 02:53:35.187788+08:00
 type  sspanel
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zgqfdke569@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(drpfvxs252@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
