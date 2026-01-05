@@ -18,14 +18,15 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  ukqjjpp123@gmail.com
-last_checkin  2026-01-05 16:59:54.550493+08:00
+email  gqrgyqtcx366@gmail.com
+last_checkin  2026-01-05 17:58:04.785255+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.194G  2026-01-05 16:59:54+08:00  (剩余 1.194G -1 day, 23:59:57.291890)
-sub_url  https://new.gfw.news/link/0qY55n3O8eEfxB5G?sub=3
-time  2026-01-05 16:59:55.208610+08:00
+sub_info  0B  1.031G  2026-01-05 17:58:04+08:00  (剩余 1.031G -1 day, 23:59:19.584210)
+sub_url  https://new.gfw.news/link/f7OjODOqgtwAT6Iy?sub=3
+time  2026-01-05 17:58:05.339429+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
@@ -34,12 +35,13 @@ email  tnvkkbvps944@gmail.com
 last_checkin  2026-01-05 15:51:37.298410+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.548G  2026-01-07 16:51:37+08:00  (剩余 1.548G 1 day, 23:51:20.384438)
+sub_info  0B  1.548G  2026-01-07 16:51:37+08:00  (剩余 1.548G 1 day, 22:55:33.636941)
 sub_url  https://aa.mgnet.sbs/link/BudrMFx4IGZetPWe?sub=3
 time  2026-01-05 15:51:37.729792+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(udiykpw915@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(dimzksv10@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
