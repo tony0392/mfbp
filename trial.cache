@@ -18,14 +18,15 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  gieipnvh823@gmail.com
-last_checkin  2026-01-06 18:53:28.168787+08:00
+email  rztfuxou551@gmail.com
+last_checkin  2026-01-06 19:46:14.912046+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.063G  2026-01-06 18:53:27+08:00  (剩余 1.063G -1 day, 23:59:56.173567)
-sub_url  https://new.gfw.news/link/CYjtfMzmoyy1A7GQ?sub=3
-time  2026-01-06 18:53:28.634966+08:00
+sub_info  0B  1.15G  2026-01-06 19:46:14+08:00  (剩余 1.15G -1 day, 23:59:57.784626)
+sub_url  https://new.gfw.news/link/PZyav7YQQnJiX5vR?sub=3
+time  2026-01-06 19:46:15.478673+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [mgnet.vip]
 auto_invite  F
@@ -34,12 +35,13 @@ email  pkcwrozlr458@gmail.com
 last_checkin  2026-01-06 18:53:28.595784+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.65G  2026-01-08 19:53:28+08:00  (剩余 1.65G 2 days, 0:59:57.603225)
+sub_info  0B  1.65G  2026-01-08 19:53:28+08:00  (剩余 1.65G 2 days, 0:07:16.372573)
 sub_url  https://aa.mgnet.sbs/link/ieuht0TVIjHniH2R?sub=3
 time  2026-01-06 18:53:29.054458+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zkjhtzc936@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(jdjmcexu139@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
