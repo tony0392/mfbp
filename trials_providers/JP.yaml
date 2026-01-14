@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: f739fea1-2624-3561-9c34-bf8ef97cf040, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: f739fea1-2624-3561-9c34-bf8ef97cf040, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: f739fea1-2624-3561-9c34-bf8ef97cf040, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 875ddb2a-8ad5-3a6f-83bb-b246f0c1fbb8, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
