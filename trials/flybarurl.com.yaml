@@ -33,6 +33,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 直连•香港311•专线 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 国内•香港278•高速 - 飞翔吧
   - 🇭🇰 国内•香港279•高速 - 飞翔吧
@@ -133,6 +134,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 直连•香港311•专线 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 国内•香港278•高速 - 飞翔吧
   - 🇭🇰 国内•香港279•高速 - 飞翔吧
@@ -157,6 +159,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
+  - 🇭🇰 直连•香港311•专线 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 国内•香港278•高速 - 飞翔吧
   - 🇭🇰 国内•香港279•高速 - 飞翔吧
@@ -248,6 +251,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
+- {name: 🇭🇰 直连•香港311•专线 - 飞翔吧, server: gy1.arboriefform.com, port: 20311, type: trojan, password: d48d1df6-b861-3157-a675-20dadff8c1dd, sni: z311.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: d48d1df6-b861-3157-a675-20dadff8c1dd, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 国内•香港278•高速 - 飞翔吧, server: gyl.58n.net, port: 20278, type: trojan, password: d48d1df6-b861-3157-a675-20dadff8c1dd, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 国内•香港279•高速 - 飞翔吧, server: gyl.58n.net, port: 20279, type: trojan, password: d48d1df6-b861-3157-a675-20dadff8c1dd, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
