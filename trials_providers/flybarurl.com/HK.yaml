@@ -9,4 +9,3 @@ proxies:
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: 5c5d100c-edca-3b42-8d37-bfba433c0521, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: 5c5d100c-edca-3b42-8d37-bfba433c0521, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 22741, type: trojan, password: 5c5d100c-edca-3b42-8d37-bfba433c0521, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 直连•香港311•专线 - 飞翔吧, server: hk.58n.net, port: 20311, type: trojan, password: 5c5d100c-edca-3b42-8d37-bfba433c0521, sni: z311.hongkongnode.top, skip-cert-verify: true, udp: true}
