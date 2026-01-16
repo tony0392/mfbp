@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 118cec8a-a201-3aa1-9512-1ef21d7de889, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: dbd8616c-ee76-3da2-86e4-dbcf69dee8db, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyl.58n.net, port: 30767, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: gyl.58n.net, port: 16895, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 国内•美国41•原生 - 飞翔吧, server: gyl.58n.net, port: 21970, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: x41.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 7aa8b151-1b2d-3af4-ab8b-a1d1480b23cd, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: f56c4c41-3dee-3709-a44a-e9ab2adadb61, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
