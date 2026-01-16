@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 4bfd43c5-cf5e-3f5f-b0b7-7c464cbb710a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: aac54360-f199-37b5-aa9d-f2854dcca887, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: 1aec0ffb-1a5a-345f-8924-80d4410d8237, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: 1aec0ffb-1a5a-345f-8924-80d4410d8237, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 国内•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: 1aec0ffb-1a5a-345f-8924-80d4410d8237, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: 1aec0ffb-1a5a-345f-8924-80d4410d8237, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
