@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyl.58n.net, port: 30767, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: gyl.58n.net, port: 16895, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 国内•美国41•原生 - 飞翔吧, server: gyl.58n.net, port: 21970, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: x41.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: 196485c8-235c-3455-9c5e-f2cd38e01358, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: 196485c8-235c-3455-9c5e-f2cd38e01358, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyl.58n.net, port: 30767, type: trojan, password: 196485c8-235c-3455-9c5e-f2cd38e01358, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: gyl.58n.net, port: 16895, type: trojan, password: 196485c8-235c-3455-9c5e-f2cd38e01358, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 国内•美国41•原生 - 飞翔吧, server: gyl.58n.net, port: 21970, type: trojan, password: 196485c8-235c-3455-9c5e-f2cd38e01358, sni: x41.hongkongnode.top, skip-cert-verify: true, udp: true}
