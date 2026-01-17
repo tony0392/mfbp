@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: b7e6ba8b-16dd-31fa-9d35-b9ef14aee352, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: a000e3b9-cd39-3494-b7bb-c6fe2cab8d48, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 17806, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: x65.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: f97e2c1a-1f59-31cd-aa5d-7e39b2408bad, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
