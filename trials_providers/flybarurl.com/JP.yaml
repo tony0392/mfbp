@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20298, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20300, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyl.58n.net, port: 41767, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本115•高速 - 飞翔吧, server: gyl.58n.net, port: 54178, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: x115.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本59•高速 - 飞翔吧, server: gyl.58n.net, port: 20059, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyl.58n.net, port: 20071, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyl.58n.net, port: 20076, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20139, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20140, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20141, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20142, type: trojan, password: 159a08ff-5447-3489-8971-b488d35ce4f5, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20298, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20300, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyl.58n.net, port: 41767, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本115•高速 - 飞翔吧, server: gyl.58n.net, port: 54178, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: x115.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本59•高速 - 飞翔吧, server: gyl.58n.net, port: 20059, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyl.58n.net, port: 20071, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyl.58n.net, port: 20076, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20139, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20140, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20141, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20142, type: trojan, password: d2ef8046-d2c0-33d8-9178-6474b1b05644, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
