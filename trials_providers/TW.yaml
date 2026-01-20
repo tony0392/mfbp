@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: a42563f1-55fa-3d9f-93f1-b9c9d4d41d83, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: 065f9070-6ae4-3201-8381-2cb18d15e0f2, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: 065f9070-6ae4-3201-8381-2cb18d15e0f2, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: 065f9070-6ae4-3201-8381-2cb18d15e0f2, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: 065f9070-6ae4-3201-8381-2cb18d15e0f2, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: ce265a21-40e7-355b-a5df-846b3e1bd4fe, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 国内•台湾261•高速 - 飞翔吧, server: gyl.58n.net, port: 33323, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyl.58n.net, port: 36821, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
