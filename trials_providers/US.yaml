@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: dace4ace-24e9-3c65-9a13-3c4bbfe46789, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 25eb3307-02a6-3644-8f47-7aff785e2a0a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 30767, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}

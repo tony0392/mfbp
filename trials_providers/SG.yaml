@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: dace4ace-24e9-3c65-9a13-3c4bbfe46789, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: 25eb3307-02a6-3644-8f47-7aff785e2a0a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20130, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x130.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 3101625a-2794-3009-afe6-68fac453d143, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
