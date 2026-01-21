@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 30767, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 国内•美国290•原生 - 飞翔吧, server: gyzgn.arboriefform.com, port: 21970, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x290.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 16895, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 30767, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 国内•美国290•原生 - 飞翔吧, server: gyzgn.arboriefform.com, port: 21970, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: x290.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 16895, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}

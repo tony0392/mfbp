@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾261•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 33323, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 36821, type: trojan, password: bde11656-4ec4-3103-904f-4c03d62c92dd, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 国内•台湾261•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 33323, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 36821, type: trojan, password: 2616abd0-fade-3f0b-897e-2020f046f94e, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
