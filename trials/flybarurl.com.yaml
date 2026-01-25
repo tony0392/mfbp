@@ -46,10 +46,8 @@ proxy-groups:
   - 🇹🇼 国内•台湾261•高速 - 飞翔吧
   - 🇹🇼 国内•台湾262•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
-  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
-  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
   - 🇯🇵 国内•日本114•高速 - 飞翔吧
@@ -173,10 +171,8 @@ proxy-groups:
   tolerance: 100
   proxies: &id005
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
-  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
-  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -273,10 +269,8 @@ proxies:
 - {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20141, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20142, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 17806, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: x65.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20130, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: x130.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 25238, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 11215, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 国内•德国302•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20302, type: trojan, password: f44afb60-474f-317d-bf76-8b20f0b0dc7c, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
