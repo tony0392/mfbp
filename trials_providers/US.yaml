@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: ad92d0cc-f160-3970-b503-ef9e53c71f29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: affab0f4-341e-3aba-a18a-228e006df734, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: 10d5861d-ad7f-3999-a655-9f58b3777f4c, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20308, type: trojan, password: 10d5861d-ad7f-3999-a655-9f58b3777f4c, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 30767, type: trojan, password: 10d5861d-ad7f-3999-a655-9f58b3777f4c, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 国内•美国290•原生 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 21970, type: trojan, password: 10d5861d-ad7f-3999-a655-9f58b3777f4c, sni: x290.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 16895, type: trojan, password: 10d5861d-ad7f-3999-a655-9f58b3777f4c, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: e1a3b08f-cdd5-3416-9ff1-5299957f5101, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 5ce2ddbd-bbb1-3e89-901d-3003d6136c12, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
