@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: e9479016-41df-36cb-a80b-b54acdc0ea2b, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: e9479016-41df-36cb-a80b-b54acdc0ea2b, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: e9479016-41df-36cb-a80b-b54acdc0ea2b, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: e35468bb-538e-357a-a1ce-7b3933cfc6af, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: e35468bb-538e-357a-a1ce-7b3933cfc6af, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: e35468bb-538e-357a-a1ce-7b3933cfc6af, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
