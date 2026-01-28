@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 0035d0c7-a02c-320e-b9b5-b1b876e6e322, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 35aa250f-16e8-306b-b4eb-8c7b79a3b631, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 59021, type: trojan, password: e35468bb-538e-357a-a1ce-7b3933cfc6af, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 21247, type: trojan, password: e35468bb-538e-357a-a1ce-7b3933cfc6af, sni: x91.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 国内•台湾261•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 33323, type: trojan, password: e35468bb-538e-357a-a1ce-7b3933cfc6af, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
