@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: b323d54b-11d1-3299-9829-9a96c18201cf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: b323d54b-11d1-3299-9829-9a96c18201cf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: b323d54b-11d1-3299-9829-9a96c18201cf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: f403a56c-a259-327b-8ff1-a0ff6978c3d2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: f403a56c-a259-327b-8ff1-a0ff6978c3d2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: f403a56c-a259-327b-8ff1-a0ff6978c3d2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20298, type: trojan, password: 3d97b9f9-4f3c-3c57-95df-077c6291743d, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: 3d97b9f9-4f3c-3c57-95df-077c6291743d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本59•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20059, type: trojan, password: 3d97b9f9-4f3c-3c57-95df-077c6291743d, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -13,4 +13,4 @@ proxies:
 - {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20140, type: trojan, password: 3d97b9f9-4f3c-3c57-95df-077c6291743d, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20141, type: trojan, password: 3d97b9f9-4f3c-3c57-95df-077c6291743d, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20142, type: trojan, password: 3d97b9f9-4f3c-3c57-95df-077c6291743d, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: f736b7b7-ba00-3b5c-bc61-40bbb3d62c08, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: d44b3cfb-634e-3f75-b8cc-aac055f04527, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
