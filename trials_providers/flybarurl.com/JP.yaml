@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: d829b72a-a923-3354-bbac-d3e74ffcda99, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: d829b72a-a923-3354-bbac-d3e74ffcda99, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: d829b72a-a923-3354-bbac-d3e74ffcda99, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: 04a426d7-db38-36e1-9ff7-27a90b8c3696, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: 04a426d7-db38-36e1-9ff7-27a90b8c3696, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: 04a426d7-db38-36e1-9ff7-27a90b8c3696, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
