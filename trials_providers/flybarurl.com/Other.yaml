@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: 579ff64d-dbf9-3748-a4fb-6195d606250a, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: 579ff64d-dbf9-3748-a4fb-6195d606250a, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国302•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20302, type: trojan, password: 579ff64d-dbf9-3748-a4fb-6195d606250a, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国303•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20303, type: trojan, password: 579ff64d-dbf9-3748-a4fb-6195d606250a, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国304•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20304, type: trojan, password: 579ff64d-dbf9-3748-a4fb-6195d606250a, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国305•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20305, type: trojan, password: 579ff64d-dbf9-3748-a4fb-6195d606250a, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国306•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20306, type: trojan, password: 579ff64d-dbf9-3748-a4fb-6195d606250a, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国302•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20302, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国303•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20303, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国304•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20304, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国305•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20305, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国306•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20306, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
