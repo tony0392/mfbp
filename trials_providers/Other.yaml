@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 0a5654ef-8da8-3477-a643-9650d4655bd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 0a5654ef-8da8-3477-a643-9650d4655bd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 0a5654ef-8da8-3477-a643-9650d4655bd2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 3d85c12a-46e2-38a0-bfeb-963727846525, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 3d85c12a-46e2-38a0-bfeb-963727846525, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 3d85c12a-46e2-38a0-bfeb-963727846525, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 国内•德国302•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20302, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
