@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62232, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62232, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
