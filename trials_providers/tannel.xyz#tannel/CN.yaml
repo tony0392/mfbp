@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62216, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62203, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港C-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62213, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港D-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62210, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港E-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62221, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港F-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62206, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港游戏节点-10倍率 - Tannel Network, server: gdcn.coloss.cn, port: 62220, type: ss, cipher: aes-256-gcm, password: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, udp: true}
+- {name: 🇭🇰 香港丨备用 - Tannel Network, server: by.tannel.cc, port: 17400, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62212, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62205, type: vmess, uuid: 1743a1cc-df8d-41b5-bc51-dd7c8b7c6c6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
