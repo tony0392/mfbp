@@ -18,13 +18,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  nazardlfg202@gmail.com
-last_checkin  2026-02-13 19:17:35.354181+08:00
+email  jjuknhm239@gmail.com
+last_checkin  2026-02-13 19:57:08.386238+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.071G  2026-02-13 19:17:35+08:00  (剩余 1.071G -1 day, 23:59:52.223478)
-sub_url  https://new.gfw.news/link/pvoiejZTF5fdVaIm?sub=3
-time  2026-02-13 19:17:35.836773+08:00
+sub_info  0B  1.167G  2026-02-13 19:57:08+08:00  (剩余 1.167G -1 day, 23:59:51.635634)
+sub_url  https://new.gfw.news/link/cWZUfRhi77cE0KnL?sub=3
+time  2026-02-13 19:57:08.883568+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,7 +34,7 @@ email  exyolomt525@gmail.com
 last_checkin  2026-02-13 00:35:16.044247+08:00
 name  MG Network
 node_n  11
-sub_info  1.322G  2.212G  2026-02-14 22:53:55+08:00  (剩余 911.7M 1 day, 3:34:17.483511)
+sub_info  1.649G  2.212G  2026-02-14 22:53:55+08:00  (剩余 576.7M 1 day, 2:56:48.809661)
 sub_url  https://aa.mgnet.sbs/link/v7rMivmC3HydXtbD?sub=3
 time  2026-02-12 21:53:56.067119+08:00
 type  sspanel
@@ -42,7 +42,7 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wxidzjvb418@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(wmopncv585@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [flybarurl.com]
 auto_invite  T
@@ -66,7 +66,7 @@ type  sspanel
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(banqana868@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(hhhqurxy849@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [www.duguletian.com#独孤乐天]
 
@@ -87,14 +87,14 @@ type  sspanel
 [22.lownet.xyz#fastest]
 name  fastest
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rzhgyavgf698@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(awrxmahrh350@gmail.com): 'NoneType' object is not subscriptable
 
 [a.wly614.com#稳连云]
 
 [azumase.ren#Yukihasu]
 error  <string>:2 Unexpected "f" at column 18
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(dlmguyle355@sharklasers.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(fgdufjm457@vapeuccino.com): {'message': '验证码有误'}
 
 [cacapex.com#CAC]
 
@@ -108,34 +108,34 @@ type  v2board
 banned_domains  mxl001.win  deomail.top  snapmail.cc  lista.cc  bccto.cc  ipiso.tmmad.com  xxxhi.cc  jkd.tmmad.com  x866.cc  lyx13.xyz  psnator.com  lushenticbag.com  linshiyou.com  965.tmmad.com  vapelato.com  rgzx.tmmad.com  smartnator.com  vapeuccino.com  xdanae.com  huiplay.com  lplso.tmmad.com  adtgng.tmmad.com  MAIL.SHOUYOU789.COM  tmpnator.live  femailtor.com  mydefipet.live  51788.top  mail.shouyou789.com  jkb.tmmad.com  mail.wvwvw.tech  12316hfk.com  442587.xyz
 name  探索者
 type  v2board
-更新订阅链接/续费续签失败  注册失败(oggrvigz614@tmpbox.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(svwwmksm379@spam4.me): 邮箱后缀不处于白名单中
 
 [dash.fscloud.cc#FSCLOUD]
 
 [directstore.kakocloud.pro#kako]
 name  Kako Cloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cszwqyok320@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(dgpyzqjtx136@gmail.com): 'NoneType' object is not subscriptable
 
 [fastestcloud.xyz#FastFly]
 buy  pass
-email  pxianpkxs482@gmail.com
+email  vdlvpqg647@gmail.com
 name  FastFly
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbbcc.gggay.cn/api/v1/client/gjP3Lu9jMNU5LmjH9X?token=2af53ce4fa00ca2df0b676edd29ee7f3
-time  2026-02-13 19:17:36.630230+08:00
+sub_url  https://sbbcc.gggay.cn/api/v1/client/gjP3Lu9jMNU5LmjH9X?token=ff6152a60536d7f10d68aff12781fd8a
+time  2026-02-13 19:57:17.240550+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [feiniaoyun01.life#飞鸟云]
 name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(irxcoqkd709@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+更新订阅链接/续费续签失败  注册失败(cfgfppsbb546@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
 [grey51.life#小巫云]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(iukmvgewo708@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(twmtrgh552@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [iqiaqia.xyz#恰恰]
 
@@ -144,18 +144,18 @@ type  sspanel
 [ju-feng.azure-api.net#飓风]
 name  飓风Cloud
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(soedbwu972@pastryofistanbul.com): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(drpqrpaj460@guerrillamail.net): {'message': '邮箱后缀不处于白名单中'}
 
 [kan.gar.ooo#Kangaroo]
 email_domain  freedom
 name  Kangaroo✦Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ksiwdfzsj549@tmpmail.org): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"icskctsrc13@jkd.tmmad.com","success":"false"}'
 
 [koumakan.quickline.top#红魔]
 name  红魔馆网络
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(afracvv615@guerrillamail.net): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(yedleovvl634@lista.cc): {'message': '邮箱后缀不处于白名单中'}
 
 [ktmcloud.cloud#KTM]
 
@@ -178,19 +178,19 @@ sub_info  0B  1G  2026-02-11 12:21:39+08:00  (剩余 1G 0:43:42.385192)
 sub_url  https://tz.tannel.cc/tannelsub/c3a2e05dbc261f0c90d6c4895b594fbb
 time  2026-02-11 07:21:40.174809+08:00
 type  v2board
-更新旧订阅失败  (https://tannel.xyz/tannelsub/c3a2e05dbc261f0c90d6c4895b594fbb): 403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: \'3\',cZone: \'tannel.xyz\',cType: \'managed\',cRay: \'9cd3ee7ec9f5d65c\',cH: \'PLdilh9H0.CLMc1fPgVpwi38KzxTvAF2sFZ3cNE5X.k-1770981575-1.2.1.1-iok0iDJi3JTrtMnMrRxsZ8ar8J_MkCrmQDMaBAzKBn0QtOi0TGWyps2KM0HCmeuS\',cUPMDTk:"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_tk=H67mKuSmwyfk_lIqXMbmkonJOEB5w_vvpJ9dq8hwYv8-1770981575-1.0.1.1-BH7SGyvy1xLX2_J6YZ1hpZuAuWix.vFgrn_YXfDTkKM",cFPWv: \'g\',cITimeS: \'1770981575\',cTplC:0,cTplV:5,cTplB: \'0\',fa:"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_f_tk=H67mKuSmwyfk_lIqXMbmkonJOEB5w_vvpJ9dq8hwYv8-1770981575-1.0.1.1-BH7SGyvy1xLX2_J6YZ1hpZuAuWix.vFgrn_YXfDTkKM",md: \'jW4t0ETvqdzuZmcAxep8E2wuW4ZGmkcNi_1.TKowtiQ-1770981575-1.2.1.1-Fj.SdVjm7rqTEsN_qaTnDcc6Pwur9DGHJ3ApvDU.4BycsW7sgqtSh58vlg4e3U_yjTN63JEdEbzYrLaQoSwHkpBSQVTcMqkw3wyzmB4NNeJwZstSC3oz6pZJBz1bp9unnKK4CuN7QcjCFGI9iIbiAyGTiuAvm3a8Maj7U6Zc4Bp4QbA_l_GIfkey7VmEUaX2xuZsGakp2gPdv07OMqxQz14fr4cdPNZX6vaeHEREJ_qnKLiqLzGAyjXOpfgDo88pQ3d4PofNYZW8psaeqCrl2UdTkKy6uteAl5ygSFlGwUUEkwP6rf232OHZCPoOfZ16H_25Ze1oPsAgk282l8w1.QqvYtK7yqeC0yd38Ej.nmSLbekQfVWSjpFsaB6MtfudBv.yMPsRD4SVSjDXyfdzHrg0c1lnvQvGWuAL44sxxW2T2HslDprjmHbLsdGiXTKC6WTqzYFpOIEQ4trv4u1GevUjkOTZv7Tmdl86J9q.mYvsvjvQar2u1UV0x2E4w.FDjzTtly7YjQ5pyVRByXcJC2RyvM9tRru740SAeP3AxESoDbGpBrE5xzbNKvCzSKiwTm.7DU7uUcwDfKk5FKgER_qLxlLgUOpb1ljrqS84.TvdAt6_kUfqywnVR2919sxXBSHI4FDFwlQcEKzgFPub8vJyshztNkAbGVrkDarkMVh4Cu31QtyCMzZ.91Kz2Y_kkOP.Q2zay20.zL23KNOJUMKjYkrMe6WP95ThDBh0qPIu0o5BMWNZJfLp37YRszWExUtrwr74dBYqo8nuCIKZfusbR88vsXcCvhcpmu9XGWi2uAqalR8At3TGo7TfY9O9.DkXgIVjuFpwOVz8puM1iJf._x053ACTVqwinfpSPOk\',mdrd: \'yItrgT5_yFGhzWdceRom0iOKc.VQ_Gt0RZBGfh.JlW0-1770981575-1.2.1.1-Ziw_4tEV3lP.Du9EILSR1MINkqLrYdeO_txTxXcyUx4pAYKkOcatd9DKXrmPa6SzKSQCNqKbPiv965bAFnPdpLAu6k7PRoSl.V8dlu.hlgAB3LT.4wRuyKwKeoxHOrBpA4bhKhvGeHaaJuBfv.ZbjQK5TpdQWmpOcu9EK2Nmeax958lN6VxhBGi5wjWjSGt_lt1Xav.raKvc78.pZnIASrDSTi1O3WdrDY6eKfGQix27jBQQLzuxYW6Oo_XbMJYpde9XgbyETM6sXbdoBm0pVIHw3xSwOQ2eWqMWSxqOdNIPBIkbTXFYcjJ6zUplwFxuQsxzBc7uAK_TPBjKEJzN.KOlGRC8QDPsdr18Yrr.d5AQQlo8tvicjfi4gR.4RZh6lXVP6_rmEr9B0yrkw26xpckPL9ppiTIVMLEML8wH_AZpMDwC3ooiWCkze2ClOF6HEGXV8S9aMo0xL11N0U2qne.dZQVEuwITWF7Rys_pd8NUxXizZczV1v8lO.sL0oYyafHfmT8pMsYHlYBH2pAoX5KLaDAuC2yljF_CjJMVhwUZsj4fWsm3uj6UgAtmjHOlwKkdik1xLLOuy.hq7rxZ0Y2hbNdClusK0DIM7.nKdeea_a.hj.P3oEYXIVIc0IG9JW9AqimTxxiSW8LZF02c6UekjasxjnFURD1Ir.n8JD.t8bSKpyGBgGvk._azk2eT4_JIFv0qfrQYSpv7if8vYmHhtNJHDb5rC_qhAANNMacGbV4vFICjuzOhCJUtOxKCqVsUcmb_YTbC6zs2q18WS0rG2dr6xZwXw9UaHnyEczuJ3iSEgaCsVh_rd7fs1bzO5.1YMQFspeetcQaHqYa154pYIhGB9pbSEtFWJ38ZSDLaPGRPZ.DisYPHeCRVqa3TEUcpGwEmo8VUmnR5tZ5Q8YokodT4HPG6bfZZpAmAMW0crTYqIsSUkidjTTyG0uduD0i1IPDzuLxo3pLGqAz9.m1bZRkMmUnhERqr_TdC8x6X0E7hw011M6tB3qp.RQGdJPe1nGK3W.MH0JkOYuyihcXMrxdQOrwp3F4RF9BTCl5CD7VDQ4JiMtyxALPBPVufsVK2BLadWWLGLq_..FlFvJgtqZyGUE0WU0zfZLuFuLTI6UbmVNFVbHsUMv74BEgiChvCXMdw6PzWeb.TURyPGDJSLvuLZyMHst2sQhiaDqo4F7JLkWrjnGI6F6EMImsNeoqalLlWsUJgZ8nXxRksbuC9PuRqq4MfC0E3oPr8Z2PxulR0zyP65UcH9fyltfspZK27YIPdUCkU4YgUrD4xaFReeN6yYee8CzDGRjCyCzz1p1O2sEsYuSjbGkW2M9q3eQ5utF5E1tM_E4SF_q..5STj79fZi0rKbQnbZGmf_s4xCvfOnkUjZAtnwNPeVllDsGPqR5Mb6ZJceUp8zelHRqOaQOOGfjFuYsqrS1b89F7.dNUYbnk_OS2lHssrHRNgmqM7ujtBKdwUF.HbotELqXRmsNKVCGh2G1XuWFW6rC1jJ9qNAmxMJF2wWKwfocYf4A6K_DJSGZrjLd8w5nLVHUjlomw_Btr4_jpmOT1Fu3R_mz6PfehGVtGmyWrvsohrZ915B8LmY8DxX71PLqUCNfWe4ZzjkKVCJT8O135f8uX7qiKaqSxfN7bZUDleAduTYqFVl6fFaCMnVi9oApQXxeeHbO_ZAAymFYfsOnZ6Iy65LprTOxp0XXXYNIleA8H87hO2BOEYGYB7m2Fja2_FOnMy9RYdRtZ4dRPNC5J0H4Ej9PVkYP2kWs4vS5_yT0VZ8jWoiVf4WJOfhW5MqMrKhwFnj87FQLDryvB_Oc_yQHNAGf_W.ZM6SsI9vadwHsrQJb28EHRDNlCC.gN500oFWveJibhOOGizdyr6VAeFZFKAqqKimEJ9IgfMJYIaArjZJcJCdlWeWMDTWCw0TjOT36PqNNuTFg7K9O1k9UJyGzqb_sYvW3Zhdb9oA5CJTaeOi38cnkZ2nbPW2K9dUf8E89fZJnewcuWYyFBPHFIo_pggcC2AMY1TXSn7El97op93nVQozQYi2K4mfLKy81x7wmz4mvsiMP9wGlLGgl35pgjq7i5ipP6vcpZh1VR0tBSBPtaCH.7.I8Vec1IjLBr43xTvjUxG6GnyuT3rBJpXNS0YBYwXW2e6gMCF8rd_j.FDqutFwsZGHeTsoKlzMQ8Bzvv393dnCkNidQNKgLoqsvYXQIKZspJIAYJW4epWbZEFrk8yFQUadposSrlBYBfOlGFxChVYHNknnu6bCqae20YlgD0_z0JKZboUsdA3YccJOH0tfwa7NjYPijWcqsD7yQbxdSzIBXD7zJJIy33BYBOL67djta_jVpXdZrknSLiC\',};var a = document.createElement(\'script\');a.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9cd3ee7ec9f5d65c\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_rt_tk=H67mKuSmwyfk_lIqXMbmkonJOEB5w_vvpJ9dq8hwYv8-1770981575-1.0.1.1-BH7SGyvy1xLX2_J6YZ1hpZuAuWix.vFgrn_YXfDTkKM"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(a);}());</script></body></html>'
+更新旧订阅失败  (https://tannel.xyz/tannelsub/c3a2e05dbc261f0c90d6c4895b594fbb): 403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: \'3\',cZone: \'tannel.xyz\',cType: \'managed\',cRay: \'9cd425a5bc2c4d20\',cH: \'fEdPgzpAQNR_BRCWjjxiutFFr_8ishNqPt39nyPCEB4-1770983834-1.2.1.1-b73eaCS1bAtSA8Ii45bSNHFVSOjT7wNC0f592d1YGpuMxfT73WUsTLLCXy8XdhKT\',cUPMDTk:"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_tk=Hd_tYek4k2kK7MiPP9fUd70Gbf.mGAWG.qQbahWFd3A-1770983834-1.0.1.1-2bKARg4PSvZP76CtKTCGqrcDKKHQKnSYcJ744q_Xy.Y",cFPWv: \'g\',cITimeS: \'1770983834\',cTplC:0,cTplV:5,cTplB: \'0\',fa:"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_f_tk=Hd_tYek4k2kK7MiPP9fUd70Gbf.mGAWG.qQbahWFd3A-1770983834-1.0.1.1-2bKARg4PSvZP76CtKTCGqrcDKKHQKnSYcJ744q_Xy.Y",md: \'9V9Nc78kfwfZ42OmbpyMhwknJlxLngGRUyBGF.7.ksY-1770983834-1.2.1.1-rlHrZzv1B1N_hpUcVhvyXQkjzoyr8zL2C1._6XAi3epku1MTQN2XSyNJOTObByQiXDN62afN7d8Pm9zs2eCba6lbfg33oT8FZpPxMUoEB_fK3k4c8j5hVpTsK49V5gw5BaevntrTDkeqRz6j3Q.LzVhDD.eHjHmOHD8cVFg3ZKmk0m7mL1BKSZDX6cDDehtnabxpu_ZGBl_R4HyGZ2kyUNxR.glMth.Oyb32jkmSQbhPNzk4zXYeCessXp4_9UXafbdhhCTQLEPTYmlGB8dIz85ZM5QQBhRlG.TzQJPdiMEtl16BVyhnqzRcie6FcDzXgPcBiX8hnjglcrkOWRmSLtpIO7cDbWCZLNvXq3WQJbw5RElgYAA61Y_6eYi9Tb4x2eqg06i2HeDouq0pc8HTQrEo.6Le1MY3hR58pJa4QhSaR4q9yC1bJmUy0ely7w.Am1lNq9jM9Dqv9aIWXK_zLRfTmc2W0MJEuT6g4iAOBH5.dsLQUp8scBPoJvj1Coa7WElp1NGNHqnovvjAVoLDp_pp0cqCWEw285Xcjmfxvo3ctJs5I9vCcIzLbEV1Jlpv.vmtfmkIgXdl8UE8YvKxs7zuOCFmzfbzHNnGtfnirxLLWq3s19KDotBit49ey1_bFi6X4BVu_PxUQPL2SoTtO1eKS0MO5MaUD.1Ff6zW1diaL0xRJz_3fPnLlSQnfDQHPfrnILy3TfxJtPf0quEpffbSViJPtyfzVwdhZRdoG1sv0uIbv2NS3EWbJTdLZvt8dfw9r53fYm4rkggd6vitLXsOv.vuPKTP1XC70Y42O76WR6aLrDVP6bCVdU1Yg_6MHXU.QIAqOF_DDHO5cQZrhQ\',mdrd: \'roCtZvUDh2i9SpU6xM8C2qM0izabu062un9JQfEMeA4-1770983834-1.2.1.1-jeinBROcd2Z3zYGQFt522P6pw6qt72F.J0t15Qf4e0TO6PvVlN6aT.HzYKevhSywMgWunnNHArvo9HIUXiaa7SG9znOhXPKh2He64Bd56Dsr_EPDLcnBQzDolYYm3XBVGAM0ai1Yi3L2vvBSHWYLa3Kmoi0mwD4PkIrdjFcerEAkUvBsWlFBVWBAILqkUz56ZWXUHjm9HQzBHj8bgy5G.Rdhd1jZtOfanbR7p9VMKpXqjBYmXTWBFk.xOkg1JEgCJzKRnhxdZL1gkEkJOVn6ghQxgIMYpeQc7OrWSIvl4qF0fJ4F_LmTMZc795YvXTS8B4kSSVNtzu4wmTIhA__jCOPE.W_PMPG1d3fblA7IoxD8ZifOaccY4zwrMJ9GYrKnAk76S9FiKiYjyqG80jGPFQRrVUmMP.XTFzsGMCDQRpAB5KC_lhB4SAu1EnlY5CZBfXjRixUfKQ77j386XMcK53oOF2sVh9t_WTKhyUMme7oJjljKkT8wMMeNsef3ZacsWi2wVlvB3ajMu_csjTOKXToifkTBd42L9zwSxuIqKG2WYD_1yda67cixJ4cuHhir3KFunENDIZ..EGHfJdXYWy7ycazwiJWmYxY0qFPTwvd6iCHycy9DalpORw7lFB6oupEn91Wf5YI0HSNuMZj.C5ukMgmLQVj4pZ_Yd4GS3JUHgKZGmOZ6hasgjYpBNttyKU.uCSdlriDQypAYtBBHsmyMb0tuz00lT9f9AkuJvHquLJgjNpGYuWbFwuUj4teqXibVCZq15ZaEhYi0x2hkrTXCGYONXsYH9hCJcpo5hZO9basVulNwaz_TjEV5mpr9h9bPgiaq91xJazLtiTxSKnxXtj6rsb2optUoYsexZ67HzrLbea10BUL2aIL7apDiMJVd4sDLiKCNogPXB.ILLnPcjK0jALspC9ndZSRZLgsLM5G7YJnvON0zeRNFhFK2cmep6zJmyYKoai83GZW7vAA9kNp.e8GaLd2nkHfWnuFqQdUP9XVHhI.N_DaMGXuMv298xRNI3X3kKR4eup50QgM.TejpuCn.fzEMc78_JaAFlWc3Pg.0sZBxJ5tSwX12XabYV7DAwxijacqFaOhOIraPbid3JkPwzyg4Mi4QIVc55OpG13WH45bKEol9j9yZoJYw92TuJH_bp2d9By3mXljLdXU277cnHgxVwKPd1MkSYqvs7eky.Bh.GdrDzd6Ja8MrIvHMiQi3N3bw6s67lEFol5ZeEMMFyPCXpWG5gzOH9O9hj4J_2WP4Vk3oHYRh9WBuaES08VNnNxFiaJaAztRMmoL3lH8XlBSSHVvn._UblWpSD5kpUj5yUjQZOfJ_L83rgB76D0huJg0Pk5oaj.f18btpExIkTzArcMePgkGv084gjBj2K2rWHjb.dWBr2tYhF8Bg7ziioFMAR8v4ntWmdRRsKYf1ORHLftvOpcGM3c6uBvSS7TpZ2xNOsCs5Elli6_hF_afzNVFHToL_dMg9GfOKUyzTSR89BqjiKYhoeQ8cS_y3sWhaoOM4j8e40Y1WGG6ZWtACuSwpNytlDq8X6zR06lx_XSAst45.JKi.oFYX6q7YEIap9c.cl7TSVrAUpBVcTiRcvzHnSi7uiE5u6jieTDvsv5Ot_d11DAGyG9eAg6jQYyYN3BugWBR0Qg5l8YWoNoO0YqwewpbeyaEls2fC6v7FOVFDOFQQUa4SN4pHPwFh.qjcLPVAwE5RURdDkG9k9JuMeimrWu4cSiKYnYyYvB5rCT7QGnALyW.MSUL2mlcR9w5abeahXxH5uQtbJZtm0rf3jCWTUzfXcSGOvnCxOeFEOyaLXLaRocQBYO9YYJCrZuueHew60ICHL.DRoM0A49Xo9loT.XLIPOu54u_2VqBq67Ev4RYdBD7c70StjFJ0CFN4PrrDNeHirz.WFxh21KwcgCKxvtVXQ.Ny.32ONjX0LpEybjAUf5rNI8kywbL_mg0R6mJAWdiTOS7jCxnfs7npLZM9uyKXgrRaC_J0wDrdYrrR_0ZH576fw7HHrd.pC05yu2uGbUYv9oiCBpg5RY7ha_DgQgY91hXX.27O6E_jncGWCcoyBm1CiOilR7ac.ctN.kwQVuNdO6ISVn.OWT9i8R20GAYLiJj0X1Ow2ox3GHGi1jlSTXNmQHW9BSsXKJ4tjdp9wcVlLP2ck.FDMlu8lHuO1WMEyl2nNIaMc2dup_vvRK8ADZ411w3gAaUW0htPE.Q6eCv8fe2vw7angpfYYse.VXrDZqVsbldxa7yhQQ07BZP6zU0Nup1m3T4KasI5rLCD3BTHrmL3KIXXCfs69bpSTrFo1rRupgeqETv7wv.8dFdB96tde5WHhEwyfN7JTpN9.K2l\',};var a = document.createElement(\'script\');a.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9cd425a5bc2c4d20\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_rt_tk=Hd_tYek4k2kK7MiPP9fUd70Gbf.mGAWG.qQbahWFd3A-1770983834-1.0.1.1-2bKARg4PSvZP76CtKTCGqrcDKKHQKnSYcJ744q_Xy.Y"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(a);}());</script></body></html>'
 
 [v.spwvpn.com#麻雀加速器]
 name  Sparrow 麻雀加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hvzgubttj415@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(tzrsefqub56@gmail.com): 本站已关闭注册
 
 [vipxgyun.com#西瓜皮]
 
 [web.henet.uk#Helium Network]
 name  Helium Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rynvqqjh161@teml.net): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"qtfqkskf836@12316hfk.com","success":"false"}'
 
 [yifang.win#一方加速器]
 
@@ -203,9 +203,9 @@ type  v2board
 [养老机场.com]
 name  停止注册
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jrpuhjiig727@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(zihdhdjv70@gmail.com): 'NoneType' object is not subscriptable
 
 [一元机场.biz#一元机场]
 name  一元机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(khgdxcwjz169@youxiang.dev): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(cjnixtknt934@moakt.co): {'message': '邮箱后缀不处于白名单中'}
