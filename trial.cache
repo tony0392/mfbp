@@ -18,23 +18,23 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  dwlukezph346@gmail.com
-last_checkin  2026-02-14 23:53:20.166896+08:00
+email  nqmyavh689@gmail.com
+last_checkin  2026-02-15 00:59:21.700996+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.059G  2026-02-14 23:53:19+08:00  (剩余 1.059G -1 day, 23:59:54.527760)
-sub_url  https://new.gfw.news/link/uScd08FmzdElhqBw?sub=3
-time  2026-02-14 23:53:20.670413+08:00
+sub_info  0B  1.123G  2026-02-15 00:59:21+08:00  (剩余 1.123G -1 day, 23:59:54.940058)
+sub_url  https://new.gfw.news/link/hmXGPZKaeHwot4wK?sub=3
+time  2026-02-15 00:59:22.298267+08:00
 type  sspanel
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
 email  bbfzxbxq273@gmail.com
-last_checkin  2026-02-14 02:07:56.144714+08:00
+last_checkin  2026-02-15 00:59:16.047959+08:00
 name  MG Network
 node_n  11
-sub_info  482.5M  1.548G  2026-02-16 03:07:55+08:00  (剩余 1.077G 1 day, 3:14:35.609375)
+sub_info  1.168G  2.038G  2026-02-16 03:07:55+08:00  (剩余 891.3M 1 day, 2:08:36.814083)
 sub_url  https://aa.mgnet.sbs/link/9xYS2FMbFpgl41mE?sub=3
 time  2026-02-14 02:07:56.592802+08:00
 type  sspanel
@@ -42,7 +42,7 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(oogmyzk423@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(wfrhlvmjc978@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [flybarurl.com]
 auto_invite  T
@@ -66,7 +66,7 @@ type  sspanel
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(sncximh694@rgzx.tmmad.com): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(dnbvxjj658@teml.net): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [www.duguletian.com#独孤乐天]
 
@@ -87,14 +87,14 @@ type  sspanel
 [22.lownet.xyz#fastest]
 name  fastest
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zflzxdkd793@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(yslkbddo432@gmail.com): 'NoneType' object is not subscriptable
 
 [a.wly614.com#稳连云]
 
 [azumase.ren#Yukihasu]
 error  <string>:2 Unexpected "f" at column 18
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(eqhkgzia219@bareed.ws): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(pizirmbbb879@moakt.ws): {'message': '验证码有误'}
 
 [cacapex.com#CAC]
 
@@ -108,34 +108,34 @@ type  v2board
 banned_domains  mxl001.win  deomail.top  snapmail.cc  lista.cc  bccto.cc  ipiso.tmmad.com  xxxhi.cc  jkd.tmmad.com  x866.cc  lyx13.xyz  psnator.com  lushenticbag.com  linshiyou.com  965.tmmad.com  vapelato.com  rgzx.tmmad.com  smartnator.com  vapeuccino.com  xdanae.com  huiplay.com  lplso.tmmad.com  adtgng.tmmad.com  MAIL.SHOUYOU789.COM  tmpnator.live  femailtor.com  mydefipet.live  51788.top  mail.shouyou789.com  jkb.tmmad.com  mail.wvwvw.tech  12316hfk.com  442587.xyz  moakt.cc  tmpmail.org  oakon.com  tmpeml.com
 name  探索者
 type  v2board
-更新订阅链接/续费续签失败  注册失败(sdtamibp196@tmails.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(ugapnzvl806@guerrillamail.de): 邮箱后缀不处于白名单中
 
 [dash.fscloud.cc#FSCLOUD]
 
 [directstore.kakocloud.pro#kako]
 name  Kako Cloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(woeqkux419@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(bbkogfue890@gmail.com): 'NoneType' object is not subscriptable
 
 [fastestcloud.xyz#FastFly]
 buy  pass
-email  diaazbpft918@gmail.com
+email  lslhdqacr413@gmail.com
 name  FastFly
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbbcc.gggay.cn/api/v1/client/gjP3Lu9jMNU5LmjH9X?token=77f9f424a0077c3a71d7728274459b28
-time  2026-02-14 23:53:26.129564+08:00
+sub_url  https://sbbcc.gggay.cn/api/v1/client/gjP3Lu9jMNU5LmjH9X?token=f5940dbd019d98150c334b64802b0f2c
+time  2026-02-15 00:59:27.514765+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [feiniaoyun01.life#飞鸟云]
 name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cwphpwa34@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+更新订阅链接/续费续签失败  注册失败(nneaqhm738@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
 [grey51.life#小巫云]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(lrrrzpaj131@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(kdzwsxw110@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [iqiaqia.xyz#恰恰]
 
@@ -144,18 +144,18 @@ type  sspanel
 [ju-feng.azure-api.net#飓风]
 name  飓风Cloud
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(eftxthu168@teml.net): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(hhhcuvhv772@pastryofistanbul.com): {'message': '邮箱后缀不处于白名单中'}
 
 [kan.gar.ooo#Kangaroo]
 email_domain  freedom
 name  Kangaroo✦Network
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"wxkiwjoq526@vapelato.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(xviobkc591@51788.top): {'message': '验证码有误'}
 
 [koumakan.quickline.top#红魔]
 name  红魔馆网络
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(kkikjtuwk83@spam4.me): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(jfhjqwgsf907@ipiso.tmmad.com): {'message': '邮箱后缀不处于白名单中'}
 
 [ktmcloud.cloud#KTM]
 
@@ -178,19 +178,19 @@ sub_info  0B  1G  2026-02-11 12:21:39+08:00  (剩余 1G 0:43:42.385192)
 sub_url  https://tz.tannel.cc/tannelsub/c3a2e05dbc261f0c90d6c4895b594fbb
 time  2026-02-11 07:21:40.174809+08:00
 type  v2board
-更新旧订阅失败  (https://tannel.xyz/tannelsub/c3a2e05dbc261f0c90d6c4895b594fbb): 403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: \'3\',cZone: \'tannel.xyz\',cType: \'managed\',cRay: \'9cddc0003a4b0736\',cH: \'gxEbWIE7HN9G98TMPIgPtp.WTzNbSSaSmoRd9pyD2eA-1771084528-1.2.1.1-xzo6HgdCeCxbh8KTziIxtdf4DfkGRoOA1mSho._O1FaLaY40c2_vNFjlnPehWCFz\',cUPMDTk:"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_tk=JXTaSUsVBx_7hPbA_hAT5OEskSoM2WTnEvd_BDZyjsY-1771084528-1.0.1.1-BozTAo1JSwd76Tg8.FfB.k4anPteFtGvSY3n_6zkrEA",cFPWv: \'g\',cITimeS: \'1771084528\',cTplC:0,cTplV:5,cTplB: \'0\',fa:"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_f_tk=JXTaSUsVBx_7hPbA_hAT5OEskSoM2WTnEvd_BDZyjsY-1771084528-1.0.1.1-BozTAo1JSwd76Tg8.FfB.k4anPteFtGvSY3n_6zkrEA",md: \'Vk1jPHwW6EmlLma6f_zZ9af9PNksPgh4FbnegpoG3fM-1771084528-1.2.1.1-UUscTkh_bTGnkcQUQ5CIeR492avyg0lMQZXUyqFq0R3Z4MEC3uh29JqnmzQkSe14DXks21XQij.wTHsCMXB7jnbCCWCDzZeVVyNzdWoOQ6klwzfPc3zvVzm2Dt0T6D1ZCx57bqJ.s3xSGIB9NFBOn9kBp9.prkBHimJPVHn81iAHhb.Y.ecDvMEvXvZ7fUYbwVqqSzBqbdIcLcK9BGDCReBfHQwup6OlpyAZgtwSuITFDPeunVr_VgLY2SmU4tlObaYATxH6iEeMbZRM_3bfOi8frUHOkoYGKyTcSJJzH_BJrriIVfbtCzPqK8N5KL2wtCV_hwcRqovVF0n4fekmkD8a9xnYo2OVbo9dD_W7OES3BAhka4VEBrwU4RgJnnY53ZaS0ct7xrrL6brgv2O_hQPVM.eAxh1EM6_bhZBysLiStd4DfmHkyLPLaou1w9HHNqfZx_66we11qqKp_fHul1SHm0tAWrhDSTYXWD0455WjCwwEIbYX.AC9Jwe15sxin89xtnuE.Q5VMYKRZWVfK2qDObMQ.0Mk_hK0tHNYZlAgqFbsPxKhE0s8a9qbOLJUxvEXIPEiivtJynPerYVQ9UE.Zx6uK0C5dVms9Y5zdA.7dnv9S2cUIraUjvYsvIwsptBmMeV0_R.mojIXywRJTPsZgyQkmNV8IPSCqcXE9jjmXkczOHj2cnjZtlQyX8oWs1Q06heehMzDW2rLiMs0tlkkYOvw8kEEOheBvxwiNAQZAWoiUT8zUQWGxblrARFjm4XGI0iXeQ_ZzrlrQkUvPO.xjVgHy6HbVer5ZQlVuZexXUErNwShINB_1BkYZvCgPENaeKJykN8Ghm.I8yL6QC52uBx0Crdm1K9A2OwBsKM\',mdrd: \'beA0kx_XnMWNHHNwguRct9UXG.B0voUKQq1YyAlIiNI-1771084528-1.2.1.1-NH0sfHbN.zv8tz6jFpO5RIZ6EXpRfFkvAdoPc0gxhtBCaKKNKzkc4L7EbriSYkinUSKXf6ThtoDJ_b2KBVXCkuhLMEb9TsYXUjYyPOhHrPvuN04owT.jOIl9pspQckcBaPu5tTV5tJBTck2UC2_9TRVIAdNZynzDQ2JbZ7mkPFExVaMomfc6bDNYdAdKnCcTTJFWnj4wb3G2aDNVOLBIl3AcuGstScThI8_.vmgky_tBcsuhWAW7KulCFYs3AvgRuh.6IGilk.0rP23h4ZDEH_VmvsGb4aKr6SrzO4BSnpYb10ha6DZrTmPmIaHyOnsIXUY8xqzEMjsMTqppZNRGyPaIvU2pGnPfPLbfXFHRu4AV.rnemgEf.QkFnN253Mb2SWCUYpaeupQUS2P1Srxzq0m6uCJDzD7u9DBb7F34N7koPO4qPiM95d6yF.e3mcRPbFrXmHW2r0_ZPrq1ACVu7MYod4odILrGyNzJ2igXjPI3.qrNiCf4NBSfB8zRHGFKkJe.zF7ZalGzyURZGHFiq_5V29B24TjvM_0HWcn3a0rgW8IuGL8EWNvEtBZ9BeR5MC7VGaEhEGWLgZORkvmAl2Xa7Qt9sGAb85AO1PE2JT5E48gQgUFap1uQ6gDrIECmUFWxJtJ5OCgxs.UqBkwcef4g3wMH23ZScdODnOK9x8IGMmb9QkWonfr7qaZ.ee0mmqk5upVtKB_zwxedNIXfqinHY2jf90pknYF6KgDa6T6H7DoK1s_6PctksOtMVJyAMndgNT_zWisYcPnprNjkOYY4Mvgqsi52BGoEUK4bOVZW7Gu_.a7qAV1YX4qJxxec9sSleEb9RQ.tLznNfFE_sJeUz1bld_YuCX804PnVQeSdUmXRj6TeZvfk_m3yx7Uh3JPTfclpYznFPI7dmYLCHUbNwyz4gY56h6IL0R1MifqlCGDZqWL1UODGxG_ATKhN4iAn0JwuIrI4WzFrT6Paq3QpDkxDSFeVEhNLaop_29LSh09DEzTHnaeU1jRalyMO7MhK5n0JaaQOgwtdMh6KXttqCAsFr1.vkaZV6mmdBw2nhxT_2lklO_Z7hxXG3nMZQBlb2sWPhaQCbcZo5PF15zxuryWTrOiyMhiVHQ5xSN_wpbkdr_w.MNIEiDqD0bICX11IpSnfJ6bQc7_2o7kHJ5bxLyFZDMuvmo1EV7bp56_8JeiZmLOGlkwIpx3dl_s8t.1zr07W1pIRJh76mP4Yjw8MPeApgliE5B1sJfNePW7xoBC1pg3_1cGPjKrkI2jf8_soCdUotPlvYh1pBWIM2J6_mfz.zlSO4OO_HiPVoA_zc76KD5tzliXS5Z4xEzOlVB1eyKM5C9ZmUgLMcrOtT5EYqs_UD1IITOtjhe2OM4tddvjmPEa4b5p1rRYef_Z74.H2jZbyFf6z.5qUUbCpMn1XxV8FnDzRcBj5AYDMb901ZLoSd3HzZm170yJctjwwCc0aNC51cjg0ZGnEmGY.qyBH7NTt_XVnpX8H0SyQ6kyUkaAPMoa0zdIRJd5ZVZISf3pC6GOSYEgxpxKG92DMtqudxC0bNJLeMZ13ifJanAh7p1.dvGzr7dk3OwJYowFuzvKRr48Z2SZOGJ8jREFyVM3l6oQZKsz7I1I.Kgl.98Upa2VOiP1hg.Fk7MqTMrdr18rBQEQvw4KJw_4tBHYxDY7s.orqft5GATl1HTYrcu.O0RgLTWRqHkWIdYQIYrYeTvln7UMKLvhzkTy3cdjtV8i2bUZxiVfDUmxljpEb5e8DUvD8SKHrBAsq6EL7i1OBouWssmFtXXT1T0wIlHDy3mYToqjpJ7qf5N8lMrVte9ANE2_7cQzKtYiYLCwjSp_8p8urbEIv2PguMTPtiM.b_WtJR7dr4_z84gmx7gt8m.gfEzvX6rh853eHyD0SADbkL43FKtHUVTMFYVMxRzgyOed2eXDFbVU_VCRFhVfcyTqUZbLufmxsWg_.4DNpkeciZdEtldb2457wPSnpvkMicbBJM_7.CIFRJb1BM0lObeztLSs9E..BhV4.BHYaefviT0jF_9K2NVxdvjFX6QRSVX6WKJwXg14HzFrZGUK5wlP1MnqNc9.sAfcISSu5hdj1p_VZeNxqAswnKJlylDi9NrsoCDEO55RX9I7wgJ5padF4wnV1ursf1Ad2OunJj96JQ7YhomgpCQqPQoplZM2CsOzebKDXDILF_I010bVVvjwNwYIDrd__Al1l6fcPHX7jX4KPYX9DWaqYQKXOVQ3UBiNS92Dl0JHl.wzO6nP2ZT6V79AIJ2fdgu0ocndo0ak_a_Svz_I0eXUYLTt939I9tm6fdSHsWz5dIVY_9wuwjW12H4J3DSDaAZ6.OSVsoWX4\',};var a = document.createElement(\'script\');a.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9cddc0003a4b0736\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\\/tannelsub\\/c3a2e05dbc261f0c90d6c4895b594fbb?__cf_chl_rt_tk=JXTaSUsVBx_7hPbA_hAT5OEskSoM2WTnEvd_BDZyjsY-1771084528-1.0.1.1-BozTAo1JSwd76Tg8.FfB.k4anPteFtGvSY3n_6zkrEA"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(a);}());</script></body></html>'
+更新旧订阅失败  (https://tannel.xyz/tannelsub/c3a2e05dbc261f0c90d6c4895b594fbb): 403 Forbidden '{"status":"fail","message":"token is error","data":null,"error":null}'
 
 [v.spwvpn.com#麻雀加速器]
 name  Sparrow 麻雀加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(apscgbw709@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(mgjxmwkw541@gmail.com): 本站已关闭注册
 
 [vipxgyun.com#西瓜皮]
 
 [web.henet.uk#Helium Network]
 name  Helium Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(uvdtydtf470@pastryofistanbul.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (429 Too Many Requests '<!doctype html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!-->\n<html class="no-js" lang="en-US">\n <!--<![endif]-->\n <head>\n <title>Access denied | web.henet.uk used Cloudflare to restrict access | web.henet.uk | Cloudflare</title>\n <meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" /> <script>\n (function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode: 1015 },helpful:a,version: 1 };b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");\nb.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();\n</script>\n <script\n defer\n src="https://performance.radar.cloudflare.com/beacon.js"\n ></script>\n </head>\n <body>\n <div id="cf-wrapper">\n <div\n class="cf-alert cf-alert-error cf-cookie-error hidden"\n id="cookie-alert"\n data-translate="enable_cookies"\n >\n Please enable cookies.\n </div>\n <div id="cf-error-details" class="p-0">\n <header\n class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased"\n >\n <h1\n class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight"\n >\n <span data-translate="error">Error</span>\n <span>1015</span>\n </h1>\n <span\n class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"\n >Ray ID: 9cddbcdec967d6d0 &bull;</span\n >\n <span\n class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"\n >2026-02-14 15:53:20 UTC</span\n >\n <h2\n class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light"\n >\n You are being rate limited\n </h2>\n </header>\n \n \n <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div id="what-happened-section" class="w-1/2 md:w-full">\n <h2\n class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased"\n data-translate="what_happened"\n >\n What happened?\n </h2>\n \n <p>The owner of this website (web.henet.uk) has banned you temporarily from accessing this website.</p>\n \n \n <p>\n Please see\n <a\n rel="noopener noreferrer"\n href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/"\n target="_blank"\n >https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/</a\n >\n for more details.\n </p>\n \n </div>\n\n \n </section>\n \n\n <div class="feedback-hidden py-8 text-center" id="error-feedback">\n <div id="error-feedback-survey" class="footer-line-wrapper">\n Was this page helpful?\n <button\n class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded"\n id="feedback-button-yes"\n type="button"\n >\n Yes\n </button>\n <button\n class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded"\n id="feedback-button-no"\n type="button"\n >\n No\n </button>\n </div>\n <div class="feedback-success feedback-hidden" id="error-feedback-success">\n Thank you for your feedback!\n </div>\n</div> <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9cddbcdec967d6d0</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">48.214.55.49</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n </div><!-- /.error-footer -->\n </div>\n <!-- /#cf-error-details -->\n </div>\n <!-- /#cf-wrapper -->\n\n <script>\n window._cf_translation = {};\n \n \n </script> \n \n </body>\n</html>')
+更新订阅链接/续费续签失败  发送邮箱验证码失败(pmtzvsf974@guerrillamail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (429 Too Many Requests '<!doctype html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!-->\n<html class="no-js" lang="en-US">\n <!--<![endif]-->\n <head>\n <title>Access denied | web.henet.uk used Cloudflare to restrict access | web.henet.uk | Cloudflare</title>\n <meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" /> <script>\n (function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode: 1015 },helpful:a,version: 1 };b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");\nb.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();\n</script>\n <script\n defer\n src="https://performance.radar.cloudflare.com/beacon.js"\n ></script>\n </head>\n <body>\n <div id="cf-wrapper">\n <div\n class="cf-alert cf-alert-error cf-cookie-error hidden"\n id="cookie-alert"\n data-translate="enable_cookies"\n >\n Please enable cookies.\n </div>\n <div id="cf-error-details" class="p-0">\n <header\n class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased"\n >\n <h1\n class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight"\n >\n <span data-translate="error">Error</span>\n <span>1015</span>\n </h1>\n <span\n class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"\n >Ray ID: 9cde1d8c3f9f240a &bull;</span\n >\n <span\n class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"\n >2026-02-14 16:59:20 UTC</span\n >\n <h2\n class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light"\n >\n You are being rate limited\n </h2>\n </header>\n \n \n <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div id="what-happened-section" class="w-1/2 md:w-full">\n <h2\n class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased"\n data-translate="what_happened"\n >\n What happened?\n </h2>\n \n <p>The owner of this website (web.henet.uk) has banned you temporarily from accessing this website.</p>\n \n \n <p>\n Please see\n <a\n rel="noopener noreferrer"\n href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/"\n target="_blank"\n >https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/</a\n >\n for more details.\n </p>\n \n </div>\n\n \n </section>\n \n\n <div class="feedback-hidden py-8 text-center" id="error-feedback">\n <div id="error-feedback-survey" class="footer-line-wrapper">\n Was this page helpful?\n <button\n class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded"\n id="feedback-button-yes"\n type="button"\n >\n Yes\n </button>\n <button\n class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded"\n id="feedback-button-no"\n type="button"\n >\n No\n </button>\n </div>\n <div class="feedback-success feedback-hidden" id="error-feedback-success">\n Thank you for your feedback!\n </div>\n</div> <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9cde1d8c3f9f240a</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">128.24.163.97</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n </div><!-- /.error-footer -->\n </div>\n <!-- /#cf-error-details -->\n </div>\n <!-- /#cf-wrapper -->\n\n <script>\n window._cf_translation = {};\n \n \n </script> \n \n </body>\n</html>')
 
 [yifang.win#一方加速器]
 
@@ -203,9 +203,9 @@ type  v2board
 [养老机场.com]
 name  停止注册
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rtvufow698@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wvjipants3@gmail.com): 'NoneType' object is not subscriptable
 
 [一元机场.biz#一元机场]
 name  一元机场
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"tcalcfjt589@12316hfk.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(woqrevyw30@youxiang.dev): {'message': '邮箱后缀不处于白名单中'}
