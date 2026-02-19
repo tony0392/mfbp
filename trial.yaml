@@ -33,14 +33,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 广港•香港143•高速 - 飞翔吧
-  - 🇭🇰 中转•香港102•高速 - 飞翔吧
-  - 🇭🇰 国内•香港294•高速 - 飞翔吧
-  - 🇭🇰 国内•香港278•高速 - 飞翔吧
-  - 🇭🇰 国内•香港279•高速 - 飞翔吧
-  - 🇭🇰 广港•香港259•高速 - 飞翔吧
-  - 🇭🇰 广港•香港269•高速 - 飞翔吧
-  - 🇭🇰 国内•香港307•高速 - 飞翔吧
+  - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港A-IEPL专线 - Tannel Network
   - 🇭🇰 香港B-IEPL专线 - Tannel Network
   - 🇭🇰 香港C-IEPL专线 - Tannel Network
@@ -49,42 +42,56 @@ proxy-groups:
   - 🇭🇰 香港F-IEPL专线 - Tannel Network
   - 🇭🇰 香港游戏节点-10倍率 - Tannel Network
   - 🇭🇰 香港丨备用 - Tannel Network
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 国内•香港294•高速 - 飞翔吧
+  - 🇭🇰 国内•香港278•高速 - 飞翔吧
+  - 🇭🇰 国内•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 国内•香港307•高速 - 飞翔吧
   - 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇭🇰 [vip①]①香港 - MG Network
-  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
-  - 🇹🇼 国内•台湾262•高速 - 飞翔吧
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾A-IEPL专线 - Tannel Network
   - 🇹🇼 台湾B-IEPL专线 - Tannel Network
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 国内•台湾262•高速 - 飞翔吧
+  - 🇸🇬 [vip①]新加坡1 - MG Network
+  - 🇸🇬 [vip①]新加坡2 - MG Network
+  - 🇸🇬 新加坡A-IEPL专线 - Tannel Network
+  - 🇸🇬 新加坡丨备用 - Tannel Network
   - 🇸🇬 国内•新加坡59•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
-  - 🇸🇬 新加坡A-IEPL专线 - Tannel Network
-  - 🇸🇬 新加坡丨备用 - Tannel Network
   - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇸🇬 [vip①]新加坡2 - MG Network
-  - 🇯🇵 国内•日本71•高速 - 飞翔吧
-  - 🇯🇵 国内•日本76•高速 - 飞翔吧
-  - 🇯🇵 国内•日本114•高速 - 飞翔吧
+  - 🇯🇵 [vip①]日本1 - MG Network
+  - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵 [vip①]日本3 - MG Network
   - 🇯🇵 日本A-IEPL专线 - Tannel Network
   - 🇯🇵 日本B-IEPL专线 - Tannel Network
   - 🇯🇵 日本C-IEPL专线 - Tannel Network
   - 🇯🇵 日本丨备用 - Tannel Network
+  - 🇯🇵 国内•日本71•高速 - 飞翔吧
+  - 🇯🇵 国内•日本76•高速 - 飞翔吧
+  - 🇯🇵 国内•日本114•高速 - 飞翔吧
   - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
-  - 🇯🇵 [vip①]日本3 - MG Network
+  - 🇺🇸 [vip①]美国1 - MG Network
+  - 🇺🇸 美国A-IEPL专线 - Tannel Network
   - 🇺🇸 国内•美国40•高速 - 飞翔吧
   - 🇺🇸 中转•美国61•高速 - 飞翔吧
   - 🇺🇸 国内•美国290•原生 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国308•高速 - 飞翔吧
-  - 🇺🇸 美国A-IEPL专线 - Tannel Network
   - 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇺🇸 [vip①]美国1 - MG Network
+  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
+  - 🇬🇧 [vip①]英国1 - MG Network
+  - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇰🇷 韩国A-IEPL专线 - Tannel Network
+  - 🇮🇳 印度-IEPL专线 - Tannel Network
+  - 🇬🇧 英国-IEPL专线 - Tannel Network
+  - 🇨🇦 加拿大-IEPL专线 - Tannel Network
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
   - 🇰🇷 广港•韩国264•高速 - 飞翔吧
   - 🇩🇪 国内•德国302•GPT - 飞翔吧
@@ -92,13 +99,6 @@ proxy-groups:
   - 🇩🇪 国内•德国304•GPT - 飞翔吧
   - 🇩🇪 国内•德国305•GPT - 飞翔吧
   - 🇩🇪 国内•德国306•GPT - 飞翔吧
-  - 🇰🇷 韩国A-IEPL专线 - Tannel Network
-  - 🇮🇳 印度-IEPL专线 - Tannel Network
-  - 🇬🇧 英国-IEPL专线 - Tannel Network
-  - 🇨🇦 加拿大-IEPL专线 - Tannel Network
-  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -154,14 +154,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 广港•香港143•高速 - 飞翔吧
-  - 🇭🇰 中转•香港102•高速 - 飞翔吧
-  - 🇭🇰 国内•香港294•高速 - 飞翔吧
-  - 🇭🇰 国内•香港278•高速 - 飞翔吧
-  - 🇭🇰 国内•香港279•高速 - 飞翔吧
-  - 🇭🇰 广港•香港259•高速 - 飞翔吧
-  - 🇭🇰 广港•香港269•高速 - 飞翔吧
-  - 🇭🇰 国内•香港307•高速 - 飞翔吧
+  - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港A-IEPL专线 - Tannel Network
   - 🇭🇰 香港B-IEPL专线 - Tannel Network
   - 🇭🇰 香港C-IEPL专线 - Tannel Network
@@ -170,33 +163,33 @@ proxy-groups:
   - 🇭🇰 香港F-IEPL专线 - Tannel Network
   - 🇭🇰 香港游戏节点-10倍率 - Tannel Network
   - 🇭🇰 香港丨备用 - Tannel Network
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 国内•香港294•高速 - 飞翔吧
+  - 🇭🇰 国内•香港278•高速 - 飞翔吧
+  - 🇭🇰 国内•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 国内•香港307•高速 - 飞翔吧
   - 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇭🇰 [vip①]①香港 - MG Network
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
-  - 🇹🇼 国内•台湾262•高速 - 飞翔吧
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾A-IEPL专线 - Tannel Network
   - 🇹🇼 台湾B-IEPL专线 - Tannel Network
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 国内•台湾262•高速 - 飞翔吧
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 广港•香港143•高速 - 飞翔吧
-  - 🇭🇰 中转•香港102•高速 - 飞翔吧
-  - 🇭🇰 国内•香港294•高速 - 飞翔吧
-  - 🇭🇰 国内•香港278•高速 - 飞翔吧
-  - 🇭🇰 国内•香港279•高速 - 飞翔吧
-  - 🇭🇰 广港•香港259•高速 - 飞翔吧
-  - 🇭🇰 广港•香港269•高速 - 飞翔吧
-  - 🇭🇰 国内•香港307•高速 - 飞翔吧
+  - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港A-IEPL专线 - Tannel Network
   - 🇭🇰 香港B-IEPL专线 - Tannel Network
   - 🇭🇰 香港C-IEPL专线 - Tannel Network
@@ -205,66 +198,80 @@ proxy-groups:
   - 🇭🇰 香港F-IEPL专线 - Tannel Network
   - 🇭🇰 香港游戏节点-10倍率 - Tannel Network
   - 🇭🇰 香港丨备用 - Tannel Network
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 国内•香港294•高速 - 飞翔吧
+  - 🇭🇰 国内•香港278•高速 - 飞翔吧
+  - 🇭🇰 国内•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 国内•香港307•高速 - 飞翔吧
   - 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇭🇰 [vip①]①香港 - MG Network
-  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
-  - 🇹🇼 国内•台湾262•高速 - 飞翔吧
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾A-IEPL专线 - Tannel Network
   - 🇹🇼 台湾B-IEPL专线 - Tannel Network
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 国内•台湾262•高速 - 飞翔吧
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
+  - 🇸🇬 [vip①]新加坡1 - MG Network
+  - 🇸🇬 [vip①]新加坡2 - MG Network
+  - 🇸🇬 新加坡A-IEPL专线 - Tannel Network
+  - 🇸🇬 新加坡丨备用 - Tannel Network
   - 🇸🇬 国内•新加坡59•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
-  - 🇸🇬 新加坡A-IEPL专线 - Tannel Network
-  - 🇸🇬 新加坡丨备用 - Tannel Network
   - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇸🇬 [vip①]新加坡2 - MG Network
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 国内•日本71•高速 - 飞翔吧
-  - 🇯🇵 国内•日本76•高速 - 飞翔吧
-  - 🇯🇵 国内•日本114•高速 - 飞翔吧
+  - 🇯🇵 [vip①]日本1 - MG Network
+  - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵 [vip①]日本3 - MG Network
   - 🇯🇵 日本A-IEPL专线 - Tannel Network
   - 🇯🇵 日本B-IEPL专线 - Tannel Network
   - 🇯🇵 日本C-IEPL专线 - Tannel Network
   - 🇯🇵 日本丨备用 - Tannel Network
+  - 🇯🇵 国内•日本71•高速 - 飞翔吧
+  - 🇯🇵 国内•日本76•高速 - 飞翔吧
+  - 🇯🇵 国内•日本114•高速 - 飞翔吧
   - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
-  - 🇯🇵 [vip①]日本3 - MG Network
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
+  - 🇺🇸 [vip①]美国1 - MG Network
+  - 🇺🇸 美国A-IEPL专线 - Tannel Network
   - 🇺🇸 国内•美国40•高速 - 飞翔吧
   - 🇺🇸 中转•美国61•高速 - 飞翔吧
   - 🇺🇸 国内•美国290•原生 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国308•高速 - 飞翔吧
-  - 🇺🇸 美国A-IEPL专线 - Tannel Network
   - 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇺🇸 [vip①]美国1 - MG Network
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
   proxies: &id008
+  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
+  - 🇬🇧 [vip①]英国1 - MG Network
+  - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇰🇷 韩国A-IEPL专线 - Tannel Network
+  - 🇮🇳 印度-IEPL专线 - Tannel Network
+  - 🇬🇧 英国-IEPL专线 - Tannel Network
+  - 🇨🇦 加拿大-IEPL专线 - Tannel Network
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
   - 🇰🇷 广港•韩国264•高速 - 飞翔吧
   - 🇩🇪 国内•德国302•GPT - 飞翔吧
@@ -272,13 +279,6 @@ proxy-groups:
   - 🇩🇪 国内•德国304•GPT - 飞翔吧
   - 🇩🇪 国内•德国305•GPT - 飞翔吧
   - 🇩🇪 国内•德国306•GPT - 飞翔吧
-  - 🇰🇷 韩国A-IEPL专线 - Tannel Network
-  - 🇮🇳 印度-IEPL专线 - Tannel Network
-  - 🇬🇧 英国-IEPL专线 - Tannel Network
-  - 🇨🇦 加拿大-IEPL专线 - Tannel Network
-  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -301,41 +301,18 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30100, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20262, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 国内•新加坡59•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20059, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 国内•香港294•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20294, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 国内•香港278•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20278, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 国内•香港279•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20279, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 22741, type: trojan, password: Pa6yoBukLtPuVP1d, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 国内•香港307•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20307, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国302•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20302, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国303•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20303, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国304•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20304, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国305•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20305, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 国内•德国306•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20306, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 16895, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 30767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 国内•美国290•原生 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 21970, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x290.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20308, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62212, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62205, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62201, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62235, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本C-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62231, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本丨备用 - Tannel Network, server: by.tannel.cc, port: 17401, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62232, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62233, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡丨备用 - Tannel Network, server: by.tannel.cc, port: 17402, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62216, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -346,27 +323,50 @@ proxies:
 - {name: 🇭🇰 香港F-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62206, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港游戏节点-10倍率 - Tannel Network, server: gdcn.coloss.cn, port: 62220, type: ss, cipher: aes-256-gcm, password: 365edfe3-4445-4364-bb61-01e86c3caf02, udp: true}
 - {name: 🇭🇰 香港丨备用 - Tannel Network, server: by.tannel.cc, port: 17400, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62212, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62205, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62201, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62235, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本C-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62231, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本丨备用 - Tannel Network, server: by.tannel.cc, port: 17401, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62223, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62202, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62237, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦 加拿大-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62238, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62232, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 9e47757e-3c4e-345b-bf7f-e4b7874ff2e3, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 9e47757e-3c4e-345b-bf7f-e4b7874ff2e3, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 9e47757e-3c4e-345b-bf7f-e4b7874ff2e3, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 9e47757e-3c4e-345b-bf7f-e4b7874ff2e3, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 9e47757e-3c4e-345b-bf7f-e4b7874ff2e3, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: f719d80d-e1f1-34b6-9122-fddba0632b46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 16895, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 30767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 国内•美国290•原生 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 21970, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x290.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20308, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 国内•新加坡59•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20059, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30100, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 国内•香港294•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20294, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 国内•香港278•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20278, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 国内•香港279•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20279, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20262, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 22741, type: trojan, password: Pa6yoBukLtPuVP1d, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 国内•香港307•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20307, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 45168, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 50355, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国302•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20302, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国303•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20303, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国304•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20304, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国305•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20305, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 国内•德国306•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20306, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 600173dd-d085-31ac-a871-0eff154b5474, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 600173dd-d085-31ac-a871-0eff154b5474, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 600173dd-d085-31ac-a871-0eff154b5474, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 600173dd-d085-31ac-a871-0eff154b5474, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 600173dd-d085-31ac-a871-0eff154b5474, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
