@@ -23,4 +23,4 @@ proxies:
 - {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20262, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 22741, type: trojan, password: Pa6yoBukLtPuVP1d, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 国内•香港307•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20307, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 19d06c2a-e3f1-346b-a511-bf07325df2bb, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 7bb6aa5f-adf8-31c2-b471-5121b921f080, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
