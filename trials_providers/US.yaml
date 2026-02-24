@@ -8,4 +8,4 @@ proxies:
 - {name: 🇺🇸 国内•美国290•原生 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 21970, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x290.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20308, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 25763587-41e0-31fe-b605-25f622a8bf87, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 88d0edfe-fba4-3782-a277-a71f49a7ec98, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
