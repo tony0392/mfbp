@@ -11,4 +11,4 @@ proxies:
 - {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 328c0c24-da2e-3c5c-b2cf-5232fcc34dab, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 39983d96-6dc8-358d-8579-7056fec6c7d9, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
