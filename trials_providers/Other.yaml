@@ -12,6 +12,6 @@ proxies:
 - {name: 🇮🇳 印度-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62202, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62237, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦 加拿大-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62238, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 37ac36ce-8911-3f44-840c-fa3cade96b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 37ac36ce-8911-3f44-840c-fa3cade96b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 37ac36ce-8911-3f44-840c-fa3cade96b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: d6f2031f-d3b8-3023-8e9b-1f975b29d62c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: d6f2031f-d3b8-3023-8e9b-1f975b29d62c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: d6f2031f-d3b8-3023-8e9b-1f975b29d62c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
