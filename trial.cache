@@ -18,13 +18,13 @@ type  sspanel
 [nova.live#Novalive]
 auto_invite  F
 buy  pass
-email  jwgmofb527@gmail.com
-last_checkin  2026-03-08 15:53:09.594471+08:00
+email  oldarte13@gmail.com
+last_checkin  2026-03-08 16:58:30.280924+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.022G  2026-03-08 15:53:09+08:00  (剩余 1.022G -1 day, 23:59:57.332317)
-sub_url  https://new.gfw.news/link/v3hV2Su5CSnfguMv?sub=3
-time  2026-03-08 15:53:10.069771+08:00
+sub_info  0B  1.187G  2026-03-08 16:58:29+08:00  (剩余 1.187G -1 day, 23:59:54.696580)
+sub_url  https://new.gfw.news/link/wZIhZcgmR28hbLW6?sub=3
+time  2026-03-08 16:58:30.879884+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,7 +34,7 @@ email  xgninzm323@gmail.com
 last_checkin  2026-03-08 00:54:21.227061+08:00
 name  MG Network
 node_n  11
-sub_info  155.5M  1.687G  2026-03-09 22:24:12+08:00  (剩余 1.535G 1 day, 6:30:56.351259)
+sub_info  316.3M  1.687G  2026-03-09 22:24:12+08:00  (剩余 1.378G 1 day, 5:25:49.239057)
 sub_url  https://aa.mgnet.sbs/link/gGOh6u5bv41C1v6D?sub=3
 time  2026-03-07 21:24:13.801559+08:00
 type  sspanel
@@ -42,7 +42,7 @@ type  sspanel
 [2.flybar20.cc]
 error  <string>:1 Unexpected "s" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(tpxiceo746@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(omaezuv774@gmail.com): HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [flybarurl.com]
 auto_invite  T
@@ -66,7 +66,7 @@ type  sspanel
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(grfikdm750@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(rxrpceu60@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [www.duguletian.com#独孤乐天]
 
@@ -87,14 +87,14 @@ type  sspanel
 [22.lownet.xyz#fastest]
 name  fastest
 type  v2board
-更新订阅链接/续费续签失败  注册失败(lfpmrat375@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(qpdcqood525@gmail.com): 'NoneType' object is not subscriptable
 
 [a.wly614.com#稳连云]
 
 [azumase.ren#Yukihasu]
 error  <string>:2 Unexpected "f" at column 18
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(uxxjfja962@youxiang.dev): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"afqbccnz843@51788.top","success":"false"}'
 
 [cacapex.com#CAC]
 
@@ -115,27 +115,27 @@ type  v2board
 [directstore.kakocloud.pro#kako]
 name  Kako Cloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bwlizno337@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(cfvfqduei267@gmail.com): 'NoneType' object is not subscriptable
 
 [fastestcloud.xyz#FastFly]
 buy  pass
-email  vhlqoxu762@gmail.com
+email  gsxriwkt491@gmail.com
 name  FastFly
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbbcc.gggay.cn/api/v1/client/gjP3Lu9jMNU5LmjH9X?token=f65df8e88373f0e3f2844d6c5444f958
-time  2026-03-08 15:53:13.435738+08:00
+sub_url  https://sbbcc.gggay.cn/api/v1/client/gjP3Lu9jMNU5LmjH9X?token=0ffc07c27159be6f8e959ff7bd5018cb
+time  2026-03-08 16:58:26.054676+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [feiniaoyun01.life#飞鸟云]
 name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(qgtrikt416@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+更新订阅链接/续费续签失败  注册失败(vaknfvr740@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
 [grey51.life#小巫云]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(iyuddzv301@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<html>\n<head>\n<title>grey51.life</title>\n<script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>\n<script type="text/javascript">\nvar redirect_link = \'http://grey51.life/auth/register?tr_uuid=20260308-1853-07c5-95c0-ffa2580b4e3c&\';\nlet redirected = false;\n\nfunction redirect(suffix) {\n\tif (redirected) return;\n\tredirected = true;\n\twindow.location.replace(redirect_link + suffix);\n}\n\nconst rdrTimeout = setTimeout(() => redirect(\'fp=-7\'), 300);\n\ntry {\n\tFingerprintJS.load({monitoring: false})\n\t\t.then(fp => fp.get())\n\t\t.then(result => {\n\t\t\tclearTimeout(rdrTimeout);\n\t\t\tredirect(\'fp=\' + result.visitorId);\n\t\t});\n} catch (err) {\n\tredirect(\'fp=-7\');\n}\n\n</script>\n<style> body { background:#101c36 } </style>\n</head>\n<body bgcolor="#ffffff" text="#000000">\n<div style=\'display: none;\'><a href=\'http://grey51.life/auth/register?tr_uuid=20260308-1853-07c5-95c0-ffa2580b4e3c&fp=-3\'>Click here to enter</a></div>\n<noscript><meta http-equiv="refresh" content="0; URL=http://grey51.life/auth/register?tr_uuid=20260308-1853-07c5-95c0-ffa2580b4e3c&fp=-5"></noscript>\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(xcycsraye681@gmail.com): HTTPSConnectionPool(host='grey51.life', port=443): Max retries exceeded with url: /auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='grey51.life', port=443) at 0x7fb431e51e10>, 'Connection to grey51.life timed out. (connect timeout=30)'))
 
 [iqiaqia.xyz#恰恰]
 
@@ -144,18 +144,18 @@ type  sspanel
 [ju-feng.azure-api.net#飓风]
 name  飓风Cloud
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(vohztqp969@pastryofistanbul.com): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"bfmwqfeei176@jkd.tmmad.com","success":"false"}'
 
 [kan.gar.ooo#Kangaroo]
 email_domain  freedom
 name  Kangaroo✦Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(opfczjauz938@mail.wvwvw.tech): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(mdhwwsi44@psnator.com): {'message': '验证码有误'}
 
 [koumakan.quickline.top#红魔]
 name  红魔馆网络
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(prymqtcwv172@lista.cc): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(uvpmglr116@pastryofistanbul.com): {'message': '邮箱后缀不处于白名单中'}
 
 [ktmcloud.cloud#KTM]
 
@@ -183,14 +183,14 @@ type  v2board
 [v.spwvpn.com#麻雀加速器]
 name  Sparrow 麻雀加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(icrsmxb832@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(dnzmvwyry886@gmail.com): 本站已关闭注册
 
 [vipxgyun.com#西瓜皮]
 
 [web.henet.uk#Helium Network]
 name  Helium Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(dicpfgwy442@psnator.com): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ksrnwbwvl992@femailtor.com): {'message': '邮箱后缀不处于白名单中'}
 
 [yifang.win#一方加速器]
 
@@ -203,9 +203,9 @@ type  v2board
 [养老机场.com]
 name  停止注册
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kfvshct129@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ghpqshmox208@gmail.com): 'NoneType' object is not subscriptable
 
 [一元机场.biz#一元机场]
 name  一元机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(inyenfq281@huiplay.com): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(bnofcufuu299@lplso.tmmad.com): {'message': '邮箱后缀不处于白名单中'}
