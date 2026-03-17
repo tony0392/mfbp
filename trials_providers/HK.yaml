@@ -17,5 +17,5 @@ proxies:
 - {name: 🇭🇰 香港F-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62206, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港游戏节点-10倍率 - Tannel Network, server: gdcn.coloss.cn, port: 62220, type: ss, cipher: aes-256-gcm, password: 365edfe3-4445-4364-bb61-01e86c3caf02, udp: true}
 - {name: 🇭🇰 香港丨备用 - Tannel Network, server: by.tannel.cc, port: 17400, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 72442498-11c1-3c8a-b71f-ce837bd6c5ab, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 1c2385b0-fc53-38c0-accd-100a2a516065, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: b99a6006-900b-368d-b2e8-67f63ce2718a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
