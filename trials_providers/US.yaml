@@ -7,5 +7,5 @@ proxies:
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20296, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20308, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62232, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 2d9f9fbc-6978-3dbb-8595-8b1e3ecd5f82, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 0f8657fc-d874-34df-9198-cc43425d3dd5, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: e01d66d4-efae-31bc-9abb-88eb22c3e6a4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
