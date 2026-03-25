@@ -8,10 +8,10 @@ proxies:
 - {name: 🇩🇪 国内•德国304•GPT - 飞翔吧, server: gyzgn.arboriefform.com, port: 20304, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 国内•德国305•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20305, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 国内•德国306•GPT - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20306, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: f4345780-b4c0-3331-a0d9-a7820dfecbbc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: f4345780-b4c0-3331-a0d9-a7820dfecbbc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: f4345780-b4c0-3331-a0d9-a7820dfecbbc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62223, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62202, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62237, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦 加拿大-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62238, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: f4345780-b4c0-3331-a0d9-a7820dfecbbc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: f4345780-b4c0-3331-a0d9-a7820dfecbbc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: f4345780-b4c0-3331-a0d9-a7820dfecbbc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
