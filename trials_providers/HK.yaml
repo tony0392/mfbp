@@ -9,6 +9,8 @@ proxies:
 - {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 22741, type: trojan, password: Pa6yoBukLtPuVP1d, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 国内•香港307•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20307, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: e21e1713-3aa7-34f9-86bf-b4b944b5e08f, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: d84c3d2e-373a-331f-9a5b-c286ef402bf9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62216, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62203, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港C-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62213, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -17,5 +19,3 @@ proxies:
 - {name: 🇭🇰 香港F-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62206, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港游戏节点-10倍率 - Tannel Network, server: gdcn.coloss.cn, port: 62220, type: ss, cipher: aes-256-gcm, password: 365edfe3-4445-4364-bb61-01e86c3caf02, udp: true}
 - {name: 🇭🇰 香港丨备用 - Tannel Network, server: by.tannel.cc, port: 17400, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: ff87754f-c003-34b1-bf5b-c6ffc7cacc98, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: d84c3d2e-373a-331f-9a5b-c286ef402bf9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
