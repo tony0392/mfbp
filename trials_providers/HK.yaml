@@ -9,7 +9,7 @@ proxies:
 - {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 24603, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 22741, type: trojan, password: Pa6yoBukLtPuVP1d, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 国内•香港307•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 20307, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: bb58efd3-5d2a-31c9-8c7d-5428e30b5316, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: c933bd1d-6f5f-389b-920f-454a93d2c19c, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: 0b3ddfa5-7f88-3421-8e2c-127d13a2d263, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62216, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62203, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
