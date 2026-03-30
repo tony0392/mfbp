@@ -4,7 +4,7 @@ proxies:
 - {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 6ea49163-a723-39e0-8af6-18151326d289, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: dc17452e-e443-3e51-8107-e686f45cd395, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 0b3ddfa5-7f88-3421-8e2c-127d13a2d263, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 0b3ddfa5-7f88-3421-8e2c-127d13a2d263, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 0b3ddfa5-7f88-3421-8e2c-127d13a2d263, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
