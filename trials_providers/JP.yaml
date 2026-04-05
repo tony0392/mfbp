@@ -4,7 +4,7 @@ proxies:
 - {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 2bf77bc3-6241-38c8-9891-2ea95edc51ae, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 42043622-be39-3cc1-9b17-7d0dc696e1d3, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: d38215cf-0e7e-3d7d-a6d6-7e2aa07a77ca, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: d38215cf-0e7e-3d7d-a6d6-7e2aa07a77ca, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: d38215cf-0e7e-3d7d-a6d6-7e2aa07a77ca, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
