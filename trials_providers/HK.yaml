@@ -10,7 +10,7 @@ proxies:
 - {name: 🇭🇰 香港F-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62206, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港游戏节点-10倍率 - Tannel Network, server: gdcn.coloss.cn, port: 62220, type: ss, cipher: aes-256-gcm, password: 365edfe3-4445-4364-bb61-01e86c3caf02, udp: true}
 - {name: 🇭🇰 香港丨备用 - Tannel Network, server: by.tannel.cc, port: 17400, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 53704aba-b924-3160-99f7-d32b2f13e260, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 2644ac63-eb59-3362-a6ed-01033582aa07, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 国内•香港294•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20294, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
