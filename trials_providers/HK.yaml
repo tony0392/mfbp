@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 291ed202-8bca-3ff7-909f-2b8013377519, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f3a57388-a258-3466-87b5-61228d8b93f8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62216, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62203, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港C-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62213, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -10,7 +10,7 @@ proxies:
 - {name: 🇭🇰 香港F-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62206, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港游戏节点-10倍率 - Tannel Network, server: gdcn.coloss.cn, port: 62220, type: ss, cipher: aes-256-gcm, password: 365edfe3-4445-4364-bb61-01e86c3caf02, udp: true}
 - {name: 🇭🇰 香港丨备用 - Tannel Network, server: by.tannel.cc, port: 17400, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 29249ff6-c717-3a70-8c81-83558e66e634, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 13cf2dec-69a9-3521-a7e0-595be1438376, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 28678, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 43337, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 国内•香港294•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20294, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
