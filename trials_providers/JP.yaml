@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: b989d4ac-d332-3a5c-8155-308104156cdc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: b989d4ac-d332-3a5c-8155-308104156cdc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: b989d4ac-d332-3a5c-8155-308104156cdc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 75027517-dc38-329a-8956-4ca705f70db2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 75027517-dc38-329a-8956-4ca705f70db2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 75027517-dc38-329a-8956-4ca705f70db2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62201, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62235, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本C-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62231, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本丨备用 - Tannel Network, server: by.tannel.cc, port: 17401, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 79e5d76b-340a-3cf9-809f-d8c57655abd0, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: d37a430f-cb7a-3229-8a7a-166f4266f861, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: b989d4ac-d332-3a5c-8155-308104156cdc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 75027517-dc38-329a-8956-4ca705f70db2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62212, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62205, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30100, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
