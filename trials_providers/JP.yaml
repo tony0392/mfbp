@@ -8,7 +8,7 @@ proxies:
 - {name: 🇯🇵 日本B-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62235, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本C-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62231, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本丨备用 - Tannel Network, server: by.tannel.cc, port: 17401, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: c166a23e-69fe-3bda-9cd0-a17e695a7a1d, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 2071c7e9-625a-3e2d-8d6d-b2d4cb0ed402, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本71•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20071, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x71.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本76•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 52241, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x76.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 国内•日本114•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 41767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x114.hongkongnode.top, skip-cert-verify: true, udp: true}
