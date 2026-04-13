@@ -3,7 +3,7 @@
 proxies:
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: fc55cb2c-7490-372b-8f11-122812f49b30, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国A-IEPL专线 - Tannel Network, server: gdcn.coloss.cn, port: 62232, type: vmess, uuid: 365edfe3-4445-4364-bb61-01e86c3caf02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: cba7ef90-a5d0-3a5e-9a26-edceb2ac6671, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 5cbba1e0-6423-331b-a59d-75f8eca3e6f9, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 国内•美国40•高速 - 飞翔吧, server: xdfzf.arboriefform.com, port: 16895, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x40.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 30767, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 国内•美国290•原生 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 21970, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x290.hongkongnode.top, skip-cert-verify: true, udp: true}
