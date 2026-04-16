@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 国内•新加坡59•高速 - 飞翔吧, server: gyzgn.arboriefform.com, port: 20059, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x59.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30712, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x83.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20129, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x129.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 20299, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x299.hongkongnode.top, skip-cert-verify: true, udp: true}

@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: stretchcapability.arboriefform.com, port: 30100, type: trojan, password: Pa6yoBukLtPuVP1d, sni: x100.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 国内•台湾262•高速 - 飞翔吧, server: gyzgnx.arboriefform.com, port: 20262, type: trojan, password: Pa6yoBukLtPuVP1d, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
