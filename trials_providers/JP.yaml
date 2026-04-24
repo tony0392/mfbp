@@ -4,4 +4,4 @@ proxies:
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: bdb20cd4-d593-3309-8d74-2b68a1224db1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: bdb20cd4-d593-3309-8d74-2b68a1224db1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: bdb20cd4-d593-3309-8d74-2b68a1224db1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 546dbc69-1e5d-3dfd-a96a-123b04a77643, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 9856331e-bc3c-3244-a124-ba194219ea27, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
