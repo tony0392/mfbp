@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 626c4b5d-bb63-3915-82f1-91fe89174698, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 129d539e-9da1-32e1-98d4-82c13c710dde, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 9fd74f35-eaf8-32a7-bd5d-deb252950e47, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
