@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: '🇺🇸 [vip①]美国1|低倍率 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: f806b3e4-9ae4-38c3-a45e-56d001918ed7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 22770996-c4f6-3468-a190-c4fe8d13e83d, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: fae916ab-8913-3964-8446-3ae98c172613, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
