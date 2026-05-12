@@ -3,5 +3,5 @@
 proxies:
 - {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: dd2f6dfb-7b35-3bfd-b13f-01347fbc42b7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: dd2f6dfb-7b35-3bfd-b13f-01347fbc42b7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 464231cc-2f3f-37b8-885c-839aa7901040, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 194.231.149.6, port: 443, type: trojan, password: 464231cc-2f3f-37b8-885c-839aa7901040, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: c254e270-62e8-3b20-8a64-b915a5439efd, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 194.231.149.6, port: 443, type: trojan, password: c254e270-62e8-3b20-8a64-b915a5439efd, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
