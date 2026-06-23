@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 21bca829-c93b-3a13-893e-a3a4ab9571e7, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 5f58847a-cf36-3e19-b4d1-72257ef9fb32, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: bc7c759d-f5d6-3633-8bbc-2d113524f72f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: bc7c759d-f5d6-3633-8bbc-2d113524f72f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: bc7c759d-f5d6-3633-8bbc-2d113524f72f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
