@@ -4,4 +4,4 @@ proxies:
 - {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 1c7abdcf-92dd-311a-ba77-956432416ac9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 1c7abdcf-92dd-311a-ba77-956432416ac9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 1c7abdcf-92dd-311a-ba77-956432416ac9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 94917f32-0e46-33d4-afb3-7b6fa39771a3, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: fb156a62-cc75-3990-a23b-32d24d6f9498, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
