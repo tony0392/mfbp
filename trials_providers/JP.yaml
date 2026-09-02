@@ -4,4 +4,4 @@ proxies:
 - {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 443c5ada-53d5-3263-bd7f-d99748c5bbbf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 443c5ada-53d5-3263-bd7f-d99748c5bbbf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 443c5ada-53d5-3263-bd7f-d99748c5bbbf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 624dbd23-72de-3ef2-a535-526b019ea97f, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: c0a96689-e818-3fd4-ba59-150f5c553dd4, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
