@@ -2,5 +2,5 @@
 ---
 proxies:
 - {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: 595ed630-1a0e-3f6a-892b-cefd325c0508, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 7f5991ba-ed00-312f-9cb2-c9b3694f4ffd, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 443, type: trojan, password: 7f5991ba-ed00-312f-9cb2-c9b3694f4ffd, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 8ccedefb-6700-3d47-b1e3-577e0c8bb0ab, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 443, type: trojan, password: 8ccedefb-6700-3d47-b1e3-577e0c8bb0ab, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
