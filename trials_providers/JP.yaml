@@ -4,4 +4,4 @@ proxies:
 - {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: 48444455-75ff-36e9-9920-445928be9aef, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: 48444455-75ff-36e9-9920-445928be9aef, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: 48444455-75ff-36e9-9920-445928be9aef, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 8b45652f-d919-392c-8d48-79c67f8a426d, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: e0587474-c23e-3445-84d2-d6f4ac7a750e, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
