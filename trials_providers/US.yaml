@@ -3,4 +3,4 @@
 proxies:
 - {name: '🇺🇸 [vip①]美国1|低倍率 - MG Network', server: 15.mgjiasuyunnet.26621689.xyz, port: 23615, type: vmess, uuid: baedcb2c-b4f1-38cc-9816-55864b9c4032, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 [vip①]美国2|低倍率 - MG Network', server: 13.mgjiasuyunnet.26621689.xyz, port: 23613, type: vmess, uuid: baedcb2c-b4f1-38cc-9816-55864b9c4032, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: f8b16b66-e230-3e04-a357-c7dac278ab80, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 369bd815-39b4-3781-88b0-c8aa3bde4168, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
