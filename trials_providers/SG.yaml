@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: da1b610f-99c4-39b8-9dac-4ed18fa4d2eb, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: 4e4d5348-7906-3bcb-8d71-f4ce18320e6c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mgjiasuyunnet.26621689.xyz}}, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: f2c72dd4-e6a0-348c-b3b9-70364994a1b5, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
