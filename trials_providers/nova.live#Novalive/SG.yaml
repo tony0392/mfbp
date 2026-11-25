@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 4a89d371-d0d8-3acd-aef6-f8aa92e880ea, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 39696fe8-0863-3499-9b1b-b22f83fb0447, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}

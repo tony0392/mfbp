@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 14043, type: trojan, password: 4a89d371-d0d8-3acd-aef6-f8aa92e880ea, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 14043, type: trojan, password: 39696fe8-0863-3499-9b1b-b22f83fb0447, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
