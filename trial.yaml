@@ -185,9 +185,9 @@ proxies:
 - {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: 88af34a5-44f2-372b-b07f-2fe1fbdb6f10, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mgjiasuyunnet.26621689.xyz}}, udp: true}
 - {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: 88af34a5-44f2-372b-b07f-2fe1fbdb6f10, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mgjiasuyunnet.26621689.xyz}}, udp: true}
 - {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: 88af34a5-44f2-372b-b07f-2fe1fbdb6f10, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mgjiasuyunnet.26621689.xyz}}, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 16918, type: trojan, password: 7cddceb2-6169-3676-a33f-9225bdbe9699, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 14043, type: trojan, password: 7cddceb2-6169-3676-a33f-9225bdbe9699, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 7cddceb2-6169-3676-a33f-9225bdbe9699, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 16918, type: trojan, password: 41024ae2-95c5-356f-96e7-04b23d287162, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 14043, type: trojan, password: 41024ae2-95c5-356f-96e7-04b23d287162, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 41024ae2-95c5-356f-96e7-04b23d287162, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -651,7 +651,6 @@ rules:
 - DOMAIN-SUFFIX,switchadhub.com,💩 ‍广告
 - DOMAIN-SUFFIX,sycbbs.com,💩 ‍广告
 - DOMAIN-SUFFIX,synacast.com,💩 ‍广告
-- DOMAIN-SUFFIX,sysdig.com,💩 ‍广告
 - DOMAIN-SUFFIX,talkingdata.com,💩 ‍广告
 - DOMAIN-SUFFIX,talkingdata.net,💩 ‍广告
 - DOMAIN-SUFFIX,tansuotv.com,💩 ‍广告
@@ -6634,6 +6633,7 @@ rules:
 - DOMAIN,wmsjsteam.com,🛩️ ‍墙内
 - DOMAIN,dl.steam.clngaa.com,🛩️ ‍墙内
 - DOMAIN,dl.steam.ksyna.com,🛩️ ‍墙内
+- DOMAIN,gstore.val.manlaxy.com,🛩️ ‍墙内
 - DOMAIN,st.dl.bscstorage.net,🛩️ ‍墙内
 - DOMAIN,st.dl.eccdnx.com,🛩️ ‍墙内
 - DOMAIN,st.dl.pinyuncloud.com,🛩️ ‍墙内
@@ -6642,6 +6642,7 @@ rules:
 - DOMAIN,steampowered.com.8686c.com,🛩️ ‍墙内
 - DOMAIN,steamstatic.com.8686c.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,foxmail.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gcloudsvcs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,gtimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,idqqimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,igamecj.com,🛩️ ‍墙内
@@ -6944,6 +6945,12 @@ rules:
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cmbchina.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,95516.com,🛩️ ‍墙内
+- DOMAIN,cn.download.nvidia.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,made-in-china.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,micstatic.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,focuschina.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,vemic.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,trademessenger.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
 - IP-CIDR,8.209.32.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,8.209.40.0/21,🛩️ ‍墙内,no-resolve
